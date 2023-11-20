@@ -1,0 +1,534 @@
+$ Necessary for Pardess' assumed inputs:
+$
+$
+
+$ From CLEF, from Pope (1934)
+
+$p102 s220 (also p73 s156i)  -- yod and w formation -- gliding of unstressed short non-low vowels before other vowels
+$ -- called upon to be this early by p91 s187
+[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / __ [+syl]
+
+$ CHAPTER 4
+$ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
+$ (FIRST THROUGH SIXTH CENTURIES A.D.)
+$
+
+    $ R1 Loss of [h]
+        h > ∅
+
+    $ R2 {Monophthongization of AE, Monophthongization of OE}
+        $ R2A Monophthongization of AE [ay]
+            {a j;ˈa j} > {ɛː;ˈɛː}
+
+        $ R2B Monophthongization of OE [oy]
+            {o j;ˈo j} > {eː;ˈeː}
+
+    $ R3 {Reduction of final [m], Reduction of [n] + fricative}
+        $ R3A Reduction of final [m]
+            $ m > n / __ # $ in monosyllablic words
+            $ m > ∅ / __ # $ in all others
+            $ Below rules produce Pardess' outcome because of Latin's final-syll extrametricality.
+            $ This assumes all words have stress (including cum, quam); so, monosyllables are not caught by first rule and are thus caught by second rule.
+            $ However, cum & quam actually lost the nasal rather than replacing it -- see p49
+            m > ∅ / [-stres] __ #
+            m > n / __ #
+
+        $ R3B Reduction of [n] + fricative
+            [+syl] n > [+long] ∅ / __ [-son,+cont]
+
+    $ R4 {Syncope, Dissimilation of [tl]}
+        $ R4A Syncope
+            $ Pardess: "In the presence of R" (nasals and liquids); +cons,+son
+            $ Pardess: [+syl,+hi,-long] > ∅ / [+syl] Ci __ Cj [+syl] , "where either or both Ci and Cj = R"
+            $ Pardess: "There are many exceptions" See p51
+            [+syl,+hi,-long] > ∅ / [+syl] [+cons,+son] __ [+cons,+son] [+syl]
+            [+syl,+hi,-long] > ∅ / [+syl] [+cons,+son] __ [+syl]
+            [+syl,+hi,-long] > ∅ / [+syl] __ [+cons,+son] [+syl]
+
+        $ R4B Dissimilation of [tl]: [tl] > [kl]
+            $ Pardess: Contexts created by 4a syncope
+            t > k / __ l
+
+    $ R5 {Deletion of word-final oral or nasal stop, Addition of word-final [e] after [l], Metathesis of word-final [r]}
+        $ R5A Deletion of word-final oral or nasal stop
+            [+cons,-cont] > ∅ / __ #
+            $ Since we regard nasals as +cont, following rule is also needed:
+            [+nas] > ∅ / __ #
+
+        $ R5B Addition of word-final [e] after [l]
+            ∅ > e / l __ #
+            $ Pardess also mentions kwen > kwene >> DR cine
+
+        $ R5C Metathesis of word-final [r]
+            $ Pardess: V r # > r V #
+            ∅ > r / __ [+syl] r #
+            r > ∅ / [+syl] __ #
+            $ DONE Reformulate this in the future
+
+
+    $ R6 Fronting of [w] to [β]
+        w > β
+
+    $ R7 Fortition of syllable initial [y]: [y] > [dy]
+        j > d j / __ [+syl]
+        $ TODO Possible that if there are 2+ cons beforehand, there may be issues.
+        $ Becomes ǰ in 18
+
+    $ R8 Simplification of K[s]K,K[z]K cluster
+        [-son] > ∅ / __ [+strid] [-son]
+
+    $ R9 Deletion of [k]: [nkt] > [nt]
+        k > ∅ / n __ t
+
+    $ R10 {Various consonant assimilations}
+        $ R10A Assimilation of [r] to [s] (sporadic)
+            r > s / __ s
+            $ 'ursu remains 'ursu, persika remains persika
+
+        $ R10B Assimilation of [p] to [s]
+            p > s / __ s
+
+        $ R10C
+            $ R10Ca Partial assimilation of velars
+                $ Pardess: [-cont,-ant,-cor] > [+ant] / [+stres] __ [+ant,+cor]
+                k > p / [+stres] __ [+ant,+cor]
+                ŋ > m /  [+stres] __ [+ant,+cor]
+                $ Cannot use Pardess' rule directly d/t symbdef differences.
+
+            $ R10Cb Total assimilation of velars
+                $ Pardess: [-cont,-ant,-cor] > [+ant,+cor] / [+syl,-stres] __ [+cons,+ant,+cor]
+                k > s / [+syl,-stres] __ [+ant,+cor]
+                ŋ > n / [+syl,-stres] __ [+ant,+cor]
+
+    $ R11 Labialization of [kw] and [gw] before [a]
+        $[-son,-ant,-cor] > [+ant] / __ w a
+        $ Strange because w fronted to beta in 6
+        $ Something is wrong here. Putting this for now:
+        k > p / __ β [-cons,+lo]
+        ɡ > b / __ β [-cons,+lo]
+        $ "Sometime before Rll and in anticipation of RI7 (w > 0), QUALIS, QUAM, QUANDO, QUANTUS, SQUAMA, etc., must have lost the wau becoming [kâle], [ka], [kândo], [kântu], [skâma], forms to which Rll could not apply."
+        $ And ŋ assimilates when expected. Pardess did not formally include this but implies it.
+        ŋ > m / __ [+cons,+lab]
+
+
+    $ R12 Prothesis: initial [s]C > [is]C
+        $ Pardess: ∅ > [+syl,+hi,-back] / # __ s [+cons,-son]
+        ∅ > i / # __ s [+cons,-son]
+        $ Problem: scire -> *eʃt͡ʃˈire (s̩ti)
+
+    $ R13 {Many sequential vowel changes}
+        $ R13A Lengthening of second vowel in vowel combinations and concommitant shift in stress
+            [-lo,+prim] [-cons] > [-stres] [+long,+prim]
+            $ Didn't affect deum - Pardess says nothing about this.
+
+        $ R13B Raising of [o] and [e]
+            [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
+            [+syl,-lo,-long,-stres] > [+hi] / [+syl] __
+
+        $ R13C Contraction of Vowel Combinations
+            $ "Two sequential identical vowels coalesce."
+            [αhi,βlo,ɣfront,ðback] > ∅ / [αhi,βlo,ɣfront,ðback,+stres] __
+            [αhi,βlo,ɣfront,ðback] > ∅ / __ [αhi,βlo,ɣfront,ðback]
+
+
+        $ R13D Loss of syllabicity of high vowels
+            $ "The short, unstressed high vowels [i] and [u] become the glides [y] and [w] when adjacent to another vowel."
+            $ Pardess: [+syl,+hi,-long,-stres] > [-syl] // V
+            [-cons,+hi,-long,-stres] > [-syl] / [+syl] __
+            [-cons,+hi,-long,-stres] > [-syl] / __ [+syl]
+            $ "This rule seems to be recurrent..."
+
+        $ R13E Laxing of stressed [e] to [ɛ]
+            $ Pardess: [+syl,-long,-hi,-back,+stres] > [-tense]
+            $ also catches a, reformulating to produce outcome faithful to rule name.
+            [-cons,-long,-hi,-lo,+front,+stres] > [-tense]
+
+        $ R13F Lengthening of word-final [-i(s)]
+            [-cons,+hi,-back] > [+long] / __ ([+cons]) #
+            $ May not be regular sound change. See note about Kiparsky
+            $ Problem: wenit -> *vjej (vine)
+
+        $ R13G Lowering of [i]: Stressed or unstressed [i] > [e]
+            [+syl,-long,+hi,-back] > [-hi]
+
+    $ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a consonant
+        $ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
+        $ Pardess' rule is misformulated
+        e > ∅ / __ [+strid,+ant] [+cons]
+
+    $ R15 Contraction of vowels
+        [+syl,-long,αback] > ∅ / [+cons] __ [+syl,+long,+stres,αback]
+
+    $ R16 Loss of vowel length
+        [+syl] > [-long]
+
+    $ R17 Deletion of wau before a vowel
+        β > ∅ / __ [-cons]
+        $ Problematic but faithful to Pardess
+
+    $ R18 {Many C+j-related changes}
+        $ R18A Gemination of stop when after a vowel and before yod
+            $ Pardess: V [-son,-cont] y > V [-son,-cont] [-son,-cont] y
+            {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ;} / [+syl] __ j
+
+        $ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
+            $ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
+            $ Above does not work in DiaSim
+            d > d͡ʒ / __ j
+            t > t͡ʃ / __ j
+
+        $ R18C Affrication of velars: [g] > [ǰ], [k] > [č] before yod
+            $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ j
+            $ ^Also doesn't work in DiaSim
+            ɡ > d͡ʒ / __ j
+            k > t͡ʃ / __ j
+
+        $ R18D Absorption of yod after affricates
+            $ Pardess: j > ∅ / [-son,-cont,+cor,+delrel] __
+            j > ∅ / [+delrel] __
+
+        $ R18E Assimilation of stops to affricates
+            $ Not catching nasals because he (hopefully) didnt intend to?
+            [-son,-cont] > t͡ʃ / __ t͡ʃ
+            [-son,-cont] > d͡ʒ / __ d͡ʒ
+
+    $ R19 Depalatalization: [ǰ], [č] > [dz], [ts] after a stressed vowel
+        [-ant,+cor,+delrel] > [+ant,-distr,-front] / [-cons,+stres] __
+        $ Added -distr,-front to rectify change in DiaSim
+        $ TODO this rule affects the first part of geminate ǰǰ but not the second. Should affect both.
+        $ Adding a rule:
+        [-ant,+cor,+delrel] > [+ant,-distr,-front] / [+delrel,+ant] __
+        $ problematic at glakiam
+
+    $ R20 Attraction of glides
+        $ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
+        $ TODO make this rule. Below needs tested; brings accuracy down. Disabling for now.
+        ∅ > j / [+stres] __ ([+cons])* j
+        j > ∅ / [+stres] j ([+cons])* __
+        ∅ > w / [+stres] __ ([+cons])* w
+        w > ∅ / [+stres] w ([+cons])* __
+        $ TODO return to this 
+
+    $ R21 Spirantization of [b]
+        b > β / [-cons] __
+        $ Not word-initial, which this gets right.
+
+    $ R22 {Beta becomes v/b/w/g/∅}
+        $ R22A Word-inital [β] > [v]
+            β > v / # __
+            $ Pardess: Occasionally yielded /b/ instead: berbec, batrin
+
+        $ R22B Occlusivization of [β]
+            β > b / [+cons] __
+            $ Problem: quaeroo -> cer
+            $ Look into this. I find this change highly unlikely for stops.
+            $ Investigate environments at time step when lexicon is bigger
+
+        $ R22C [β] becomes the velar glide [w] before a resonant
+            β > w / __ [+son,+cons]
+
+        $ R22D Intervocalic [β] > [g] in the presence of [u]
+            β > ɡ / u __
+            β > ɡ / __ u 
+            $ Pardess: "sporadically"
+
+        $ R22E [β] > ∅ / elsewhere
+            β > ∅
+
+    $ R23 Degemination of consonants except the alveolar resonants [ll], [nn] and [rr]
+        $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually right?
+        {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z; t͡ʃ t͡ʃ;t͡s t͡s;d͡ʒ d͡ʒ;d͡z d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
+
+    $ R24 Affrication of velars: [k], [g] > [č], [ǰ] before a front vowel
+        $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] > __ [-cons,-back]
+        $ Strange notation here. Is this just a typo where > should be / ?
+        $[-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ [-cons,-back]
+        $ Still doesnt work so:
+        k > t͡ʃ / __ [-cons,-back,-lo]
+        ɡ > d͡ʒ / __ [-cons,-back,-lo]
+
+    $ R25 {Final s -> j or ∅}
+        $ R25A Development of final -s in monosyllabic words
+            s > j / __ #
+            $ Pardess' exact rule is [s] > [h] > [ç] > [y] / __ #
+            $ Pardess doesn't scope his formal rule to monosyllabic words but the title shows he intends it
+
+        $ R25B Loss of final [s] in polysyllabic words
+            s > ∅ / __ #
+            $ Pardess doesn't scope his formal rule to polysyllabic words but the title shows he intends it
+            $ TODO scope these rules?
+
+        $ R25C Generalization of word-final [i] as a grammatical marker
+            $ Not phonological but appears to Pardess to result from above rule
+
+~Balkan Romance
+
+$ CHAPTER 5
+$ THE DEVELOPMENT OF COMMON ROMANIAN
+$ (6TH-11TH CENTURIES A.D.)
+$
+    $ R26 {R-trilling}
+        $ R26A [rr] > trill
+            $ r r > [+rep]
+            $ Rather, we'll tap all non-geminates:
+            r > ɾ
+            ɾ ɾ > r r
+
+        $ R26B Initial [r] > [rr]
+            $ r > [+rep] / # __
+            ɾ > r r / # __
+
+    $ R27 {ɛ-tensing pre-NC, Diphthongization of [ɛ]}
+        $ R27A Tensing of [ɛ] before nasal + oral consonant
+            [-cons] > [+tense] / __ [+nas] [+cons,-nas]
+            $ But bɛne > bjene etc. should happen too..? See Pardess p88, p143
+
+        $ R27B Diphthongization of [ɛ]: [ɛ] > [ye]
+            $ Pardess: ∅ > j / __ [-cons,-tense]
+            $ Pardess' rule does not tense the lax e here although title suggests it.
+            {ɛ;ˈɛ} > {j e;j ˈe}
+
+
+    $ R28 Unstressed [o] > [u]
+        $ Pardess: [+syl,+back,-hi,-lo,-stres] > [+hi]
+        o > u
+
+    $ R29 {ELLU-related changes (Not regular)}
+        $ R29A Loss of stress in the postposed forms of 'ellu
+            $ Not a regular change but for reference:
+            $ "e > [-stres] / # __ in the postposed article" is his rule
+
+        $ R29B Apheresis and enclisis of the forms of [ellu]
+            $ Again, not a regular change:
+            $ "e > ∅ / # __ in the postposed article"
+
+    $ R30 Preyodization of initial [e]: [e] > [ye]
+        $ ∅ > j / # __ e 
+        $ ∅ > j / # __ ˈe 
+        $ "in some words"; "probably due to Slavic influence"
+        $ TODO should this be enabled or not?
+        $ "found in MR and IR but not in AR."
+
+    $ R31 {Metaphonic laxing, Diphthongization: ɛ/ɔ > e̯a/o̯a}
+        $ R31A Metaphony: Stressed mid-vowels become lax when followed by [a] or [e] in the following syllable except before [n] or before [m] plus a consonant
+            $ TODO reformulate this rule.
+            [+syl,-hi,-lo,+stres] > [-tense] / __ ([-nas])* [+syl,-hi,-round]
+            $ Problem: bibere
+
+        $ R31B Diphthongization of lax vowels: [ɛ]/[ɔ] > [e̯a]/[o̯a]
+            ∅ > a / [-cons,-tense] __
+            a > ˈa / [-tense,+stres] __
+            [-cons,-tense] > [-syl]
+            $ Also, Pardess appears to also imply tensing...
+            [-syl,-tense] > [+tense]
+
+    $ R32 Displacement of accent and loss of syllabicity: ['ea] > [e'a]
+        ˈe a > e ˈa
+        $ Implied by rule nameː
+        $ e > e̯ / __ [-cons,+lo] DEACTIVATED: this happens later in 38
+
+    $ R33 Raising of [a] and [o] before a non-geminate nasal
+        {a;ˈa} > {ə;ˈə} / __ [+nas] [-cons]
+        {o;ˈo} > {u;ˈu} / __ [+nas] [-cons]
+
+    $ R34 Rhotacism: non-geminate [l] > [r] between vowels
+        l > ɾ / [-cons] __ [-cons]
+        $ "It did not apply to words of Slavic origin" with more info, see p100
+
+    $ R35 {[ll] > [w] before unstressed [a], Degemination of [ll]}
+        $ R35A [ll] > [w] before unstressed [a]
+            l l > w / __ [-cons,+lo,-stres]
+
+        $ R35B Degemination of [ll]
+            l l > l
+
+    $ R36 {Vwa changes}
+        $ R36A Loss of secondary wau: [Vwa] > [Va] when neither vowel is stressed
+            w > ∅ / [-cons,-stres] __ [-cons,+lo,-stres]
+
+        $ R36B  F sg n/a def art [a] > [+long] in all f sg nouns
+            $ a > [+long] __ # in all articulated f sg nouns in the nominative/accusative case
+
+        $ R36C ['uwa] > ['uva]
+            $ Pardess: w > v / u __ a Appears to have forgotten to mark stress.
+            $ check num of forms affected
+            w > v / ˈu __ a
+
+    $ R37 {Raising of non-initial, non-geminate, unstressed [a], Degemination of geminate vowels}
+        $ R37A Raising of non-initial, non-geminate, unstressed [a]
+            $ Pardess: [-cons,+lo,-stres,-long] > ə / [+cons] __
+            $ Looks like he intended to write ə but forgot
+            $ Correction (+cons -> -syl): 
+            [-cons,+lo,-stres,-long] > ə / [-syl] __
+            $ Problem: resinam > răs̩ină
+
+        $ R37B Degemination of geminate vowels
+            $ Collapse [aa], etc into one vowel. TODO make rule
+            [+syl,αhi,βlo,ɣfront,δback] > ∅ / __ [+syl,αhi,βlo,ɣfront,δback]
+
+    $ R38 [e'a] > [e̯'a]
+        $ e > [-syl] / __ a
+        $ Not sure why the a is accented in the rule name. Mistake?
+        $ The only example he provides is v'ulpea
+        $ But it looks like stressed case needs accounted for too so:
+        e > [-syl] / __ [-cons,+lo]
+
+    $ R39 Lowering of unstressed internal [i]
+        i > e / [+cons] __ [+cons]
+
+    $ R40 Diphthongization of [i]: [i] > [yi]
+        ∅ > j / __ i
+        ∅ > j / __ ˈi
+
+    $ R41 {Pre-j palatalization of l,n,s, Absorption of yod after a palatal segment}
+        $ R41A Palatalization of non-occlusive alveolars before yod: [l] > [ʎ], [n] > [ñ], [s] > [š]
+            $ Pardess: [+cont,+ant,+cor] > [+hi,-ant] / __ j
+            $ problematic with received symdefs -- making a disjunction for now:
+            {l;n;s} > {ʎ;ɲ;ʃ} / __ j
+
+        $ R41B Absorption of yod after a palatal segment
+            j > ∅ / [+cons,+hi] __
+            $ Also problematic. Trying adding this:
+            j > ∅ / [+cons,+front] __
+
+    $ R42 {Affrication of t,d before j, Absorption of yod after an affricate}
+        $ R42A Affrication of alveolar stops before yod: [t] > [ts], [d] > [dz]
+            [-cont,+ant,+cor,-delrel] > [+delrel,+strid] / __ j
+            $ TODO also gain stridency - is this covered by implications?
+        
+        $ R42B Absorption of yod after an affricate
+            j > ∅ / [+delrel] __
+
+    $ R43 Palatalization of [l] after a velar consonant
+        $ l > [+hi,-ant] / [-cont,-ant,-cor] __
+        $ For now going to run with this:
+        l > ʎ / [-cont,-ant,-cor] __
+
+    $ R44 Fronting of [ə] after [ʎ] and [ñ]
+        $ə > e / [-cont,+hi,-strid] __
+        $ But these are both actually +cont.
+        ə > e / [+cons,+hi,+front] __
+
+    $ R45 {Assimilation: s > š before č, Dissimilation: č > t after š}
+        $ R45A Assimilation: [s] > [š] before [č]
+            $ s > [-ant] / __ [+delrel,-ant,+cor]
+            $ For compatability:
+            s > ʃ / __ t͡ʃ
+
+        $ R45B Dissimilation: [č] > [t] after [š]
+            $ [+delrel,-ant,+cor] > [-delrel,+ant] / ʃ __
+            $ Again, for compatability:
+            t͡ʃ > t / __ ʃ
+
+~ Common Romanian
+
+$ CHAPTER 6
+$ THE DEVELOPMENT OF DACO-ROMANIAN
+$ (11TH CENTURY TO THE PRESENT)
+$
+
+    $ R46 {e/ə gliding, unstressed a monophthongization}
+        $ R46A [e],[ə] > [e̯],[ə̯] after a labial and before a syllable containing a back vowel
+            $ TODO also figure out what is going on here
+            $ Does he mean e,e̯ > ə,ə̯ ??? Looks like it
+            [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,-front]
+            $ Pardess considers a to be +back. So I'm adding:
+            [-cons,-back,-hi,-lo] > [-front,0tense] / [+cons,+lab] __ ([-syl])* [+syl,+lo]
+
+        $ R46B Loss of [ə̯] before [a]: [ə̯a] > [a]
+            ə̯ > ∅ / __ a
+            ə̯ > ∅ / __ ˈa
+
+    $ R47 {Raising of [ə] before [n] or [m]CV, Raising of [e] before [n]}
+        $ R47A Raising of [ə] before [n] or [m]CV
+            ə > [+hi,+tense] / __ n
+            ˈə > [+hi,+tense] / __ n
+            ə > [+hi,+tense] / __ m [+cons] [-cons]
+            ˈə > [+hi,+tense] / __ m [+cons] [-cons]
+
+        $ R47B Raising of [e] before [n]
+            e > [+hi] / __ [+cons,+nas]
+            ˈe > [+hi] / __ [+cons,+nas]
+            $ "It is possible that some words were inherited from Late Latin with [e] already raised to [i] in this environment."
+    
+    $ R48 Degemination of [nn]: [nn] > [n]
+        n n > n
+
+    $ R49 Raising of [ə] before [r,s] plus consonant
+        ə > ɨ / __ r [+cons]
+        ə > ɨ / __ s [+cons]
+
+    $ R50 backing of front vowels after [rr]
+        $[-cons,+front] > [+back] / r r __
+        $ Pardess calls it a 'backing' but it is not simply [+back]
+        $ i is just -front, e is -front,0tense
+        {e;ˈe} > {ə;ˈə} / r r __
+        {i;ˈi} > {ɨ;ˈɨ} / r r __
+
+    $ R51 Simplification of [rr] to [r]
+        $ r r > [-rep]
+        r r > ɾ
+
+    $ R52 {dz > z, d͡ʒ > ʒ before o/u}
+        $ R52A Deaffrication of voiced alveolar affricate: [dz] > [z]
+            $[+delrel,+ant,+voi] > [-delrel]
+            $ we also need +cont here for it to do what the title says
+            [+delrel,+ant,+voi] > [0delrel,+cont]
+            $ Funny, this is the first time voice comes up as a feature.
+
+        $ R52B Deaffrication of voiced palatal affricate: [ǰ] > [ž] before [o] or [u]
+            [-son,+delrel,-ant] > [+cont] / __ [-cons,+round]
+
+    $ R53 {Monophthongization of [e̯a] after [š] or [ts], Monophthongization of [e̯a] before a syllable containing [e]}
+        $ R53A Monophthongization of [e̯a] after [š] or [ts]
+            $ Pardess calls this sporadic
+            e̯ a > a / ʃ __
+            e̯ ˈa > ˈa / ʃ __
+            e̯ a > a / t͡s __
+            e̯ ˈa > ˈa / t͡s __
+
+        $ R53B Monophthongization of [e̯a] before a syllable containing [e]
+            {e̯ a;e̯ ˈa} > {e;ˈe} / __ ([-syl])* [+syl,+front,-lo,-back]
+
+    $ R54 Delateralization of [ʎ]
+        ʎ > j
+
+    $ R55 Denasalization of [ñ]
+        $ [+son,-ant,+cor] > [-nas,-cons,-lat]
+        $ Reframing because this doesn't work:
+        $ Clayton: add -cor and it will work (Pardess doesn't distinguish postalv from pal)
+        ɲ > j
+
+    $ R56 Loss of yod before [i]
+        j > ∅ / __ i
+        j > ∅ / __ ˈi
+
+    $ R57 [yea] > [ya]
+        e̯ > ∅ / j __ a
+        e̯ > ∅ / j __ ˈa
+
+    $ R58 Assimilation: word-final [ə] > [e] after [i]
+        ə > [-back] / i __ #
+        $ Yeah... thats not gonna work.
+
+    $ R59 {Word-final high vowel changes}
+        $ R59A Devoicing of word-final [u] and [i] except after a consonant plus a liquid
+            [-cons,+hi] > [-voi,-syl] / __ #
+            [-cons,+hi,-voi,-syl] > [+voi,+syl] / [+cons] [+son,+cons,-nas] __ #
+            $ TODO Have not implemented exception
+            $ TODO ^to do this: just keep the global rule then undo it when needed.
+            $ Problem: catches wentum > vîntu, making it vînt
+            $ Problem: catches deum > zeu, making it ze
+
+        $ R59B Loss of word-final voiceless [w̥]
+            w̥ > ∅
+
+        $ R59C Word-final [ii] > [i]
+            i i > i / __ #
+
+    $ R60 Loss of final [l] of m sg definite article
+        $ l > ∅ / __ # "in m sg definite article"
+        $ Not regular.
+
+$Temporary
+ɾ > r
