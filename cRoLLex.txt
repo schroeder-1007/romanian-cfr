@@ -178,7 +178,7 @@ s i n u s , s ɨ n $ sinus>sân !CV 1.2.3
 $*sira>șiră
 s p a tʰ a , s p a t ə $ spatha>spată !CV 1.2.3
 s p i n a l i s , s p i n a r e $spinalis>spinare !CV 1.2.3
-s p l e n , s p l i n ə $splen,-is>splină (?rom) !CV 1.2.3
+s p l e n , s p l i n ə $ splen,-is>splină (?rom) !CV 1.2.3
 s u b u l a , s u b s u o a r ə $ subula>subsuoară !CV 1.2.3
 t i t i a , t͡s ɨ t͡s ɨ $ titia>țâțâ !CV 1.2.3
 t r u n k u l u s , t r u n k i $ trunculus>trunchi !CV 1.2.3
@@ -200,7 +200,7 @@ $medullarium>mădular
 n o d u s , n o d $ nodus>nod !CV 1.2.4
 p a l m a , p a l m ə $ palma>palmă !CV 1.2.4
 p e t i o l u s , p i t͡ʃ o r $ petiolus>picior !CV 1.2.4
-p o l l i k a r i s > p ə l i k a r $ pollicaris>pălicar !CV 1.2.4
+p o l l i k a r i s , p ə l i k a r $ pollicaris>pălicar !CV 1.2.4
 p u g n u s , p u m n $ pugnus>pumn !CV 1.2.4
 p u l p a , p u l p ə $ pulpa>pulpă !CV 1.2.4
 $*stancus>stâng
@@ -345,12 +345,39 @@ t u r b u l a [r e , t u l b u r a $ turbulare>a-tulbura !CV 1.4
 v i r t u s , v ɨ r t u t e $ virtus>vârtute !CV 1.4
 
 $1.5
-
 v e r u m , v e r $ verum>ver !CV 1.5 (arom.)
 $*cauitare<cavitum>a-căuta !CV 1.5
 $circare>cerca done
 k i r k i t a [r e , t͡ʃ e r t͡ʃ e t a $ circitare>a-cerceta !CV 1.5
-k o g i t a [r e , k u d͡ʒ e t a $ cogitare>
+k o g i t a [r e , k u d͡ʒ e t a $ cogitare>a-cugeta !CV 1.5
+k o g n o s k e [r e , k u n o a ʃ t e $ cognoscere>a-cunoaște !CV 1.5
+k r e d e r e , k r e d e $ credere>a-crede !CV 1.5
+$*discaptare>a-căta !CV 1.5
+i n t e l l e k t i o n i s , ɨ n t͡s e l e p t͡ʃ i u n e $ intellectionis,intellectio !CV 1.5
+i n t e l l e k t u s , ɨ n t͡s e l e p t $ intellectus>înțelept !CV 1.5
+i n t e l l i g e [r e , ɨ n t͡s e l e g e $ intelligere>a-înțelege !CV 1.5
+$*invitiare>a-învăța !CV 1.5
+i u d i k a [r e , d͡ʒ u d e k a $ iudicare>a-judeca !CV 1.5
+m e n s , m i n t e $ mens>minte !CV 1.5
+m e n t i o , m i n t͡ʃ i u n ə $ mentio,-onis>minciună !CV 1.5
+m e n t i o r , m i n t͡s i $ mentior,-iri>a-minți !CV 1.5
+$*oblitare>a-uita
+p a r e [r e , p ə r e a $ parere>a-părea !CV 1.5
+p e r k i p e [r e , p r i t͡ʃ e p e $ percipere>a-pricepe !CV 1.5
+s k i o , ʃ t i $ scio>a-ști !CV 1.5 !!Investigate
+
+$1.6.1
+s a n a r e , s ɨ n e d͡z u $ sanare,a-sânedzu !CV 1.6.1 (arom)
+s a n i t a s , s ə n ə t a t e $ sanitas>sănătate !CV 1.6.1
+s a n i t o s u s , s ə n ə t o s $ sanitosus,sănătos !CV 1.6.1
+s a n u s , s ɨ n $ sanus> sân !CV 1.6.1 (arom)
+v i n d i k a [r e , v i n d e k a $ vindicare>a-vindeca !CV 1.6.1
+$*virtuosus>vârtos !CV 1.6.1
+$virtus>vârtute done @1.4
+
+$1.6.2
+$ammortire>a-amorți !CV 1.6.2
+
 
 
 
@@ -361,3 +388,11 @@ $ ./derive.sh -s -lex ../romanian-cfr/cRoLLex.txt -rules ../romanian-cfr/BaseCle
 
 $ Check for orth ăîâșț in input:
 $     ^[^$]*[ăîâșț]
+
+$ WHEN SET IS POPULATED:
+    $ Figure out how we should treat non-rom reflexes, ie arom. sânedzu
+        $ What sound changes happened / didnțt happen in arom? etc
+    $ Get vowel length, then build lat stress
+    $ Get rom stress
+        $ Both length and stress can be pulled from dex data, maybe?
+    $ Check status of diphthongs
