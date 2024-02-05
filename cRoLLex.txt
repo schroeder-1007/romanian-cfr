@@ -5,17 +5,17 @@ a d , a $"to, at next to". Cf Aromanian <a> "to, at". Now being replaced by <la>
 a d a k w ˈaː r e , a d ə p ˈa $to water, to baste, to drink. Meglenoromanian dap, istr adǒpu ~~ (a)dapå, Aromanian adăpare, Puşcariu, 20; REW, 147; Cioranescu, 69; DER; DAR; Cand-Den 62. Vinereanu (62) dissents arguing that apa is attested in "mulțime de hidronime și toponime din spațiul iliro-daco-trac" and that PIE *kw > p in all of these but this seems to contradict his (other) view that Albanian belongs to Dacian since in Albanian it does not. Going with traditional etymology. 
 a d a p p ˈo s i t u m , a d ə p ˈo s t $shelter. Philippide, Principii , 97; Tiktin; Puşcariu, 21; Rosetti, I, 161; Cioranescu, 70; DAR; DER; Candrea-Densusianu 15. Tiktin argues instead for Latin ad-depositum. Vinereanu argues for a pre-Latin etymology. 
 a d a s t ˈaː r e , a d ə s t ˈa $to wait (archaic). Pușcariu 22; REW 148; DER; DAR. Vinereanu is suspicious noting the total lack of attestation nor appearance elsewhere in Romance but does attribute the form to Latin, apparently suspecting a calque. He suspects it comes "din fondul pre-latin" but DER instead suggests Germanic. 
-a d ˈa w ɡ e r e , a d ə w ɡ ˈa $variants adăugi, adaugi, adauge; in Banat adauș. Meglenoromanian daǔk, Aromanian adăvdzeare, adavdzire, adăvgare. Cand-Den 16; Pușcariu 10; REW 149; Cioranescu 68; Vinereanu 62. Unclear which one is inherited but both Cand-Den (and Vin) uses adăuga as the citation form. 
+a d ˈa w g e r e , a d ə w g ˈa $variants adăugi, adaugi, adauge; in Banat adauș. Meglenoromanian daǔk, Aromanian adăvdzeare, adavdzire, adăvgare. Cand-Den 16; Pușcariu 10; REW 149; Cioranescu 68; Vinereanu 62. Unclear which one is inherited but both Cand-Den (and Vin) uses adăuga as the citation form. 
 a d d e w ˈeː r u m , a d e v ˈə r $correct (of a perception, belief). Puşcariu, 24; REW, 9262; Cioranescu, 77. DER; DAR. Dissent: Cândrea argues for *addevērāre, Pușcariu wonders about *ad ad vērum, and Vinereanu argues for a substrate source. 
 a d i d ˈi p s u m , a d ˈi n s $expressly, purposefully. Per DER. ad idipsum = "for just that". Note however that idipsum in Latin actually meant "together". Supposed cognates in Romance mean "now" ː Italian adesso, Venet adeso, Dalmatian adias, Arp & Cat adés, Mozarabic atášo, Old Sp adieso. REW & DAR ː Vulg *ad ipsum illum ~ "ad de ipso. Candrea argues the DER etymology is "not possible", but the DER has evidence in Latin for a parallel addressing their concerns (https://www.webdex.ro/online/dictionarul_etimologic_roman/adins); Vinereanu thinks it is a derivation off of ins "individual"; he may be right -- check for this. 
-a d i ˈuː n ɡ e r e , a ʒ ˈu n d͡ʒ e $to arrive. DER, Cand -Dens 33. 
+a d i ˈuː n g e r e , a ʒ ˈu n d͡ʒ e $to arrive. DER, Cand -Dens 33. 
 a d i uː t ˈaː r e , a ʒ u t ˈa $to help. Middle Romanian aǧut, Megl jut, istr (a)jut. DER, Cand-Dens 34, Viner 70. 
 a d i uː t ˈoː r i u m , a ʒ u t ˈo r $help, "help!". Cand-Dens 35. 
 a d l ˈa t e r a , a l ˈə t u r j $near, beside. DER. Variant alăturea. Vinereanu  [71] however suspects a later derivation in a(d) +lături. The final -uri does look suspicious, to be fair. 
-a d l ˈe ɡ e r e , a l ˈe d͡ʒ e $to choose, elect. Cand-Dens 47, DER. Latin a(d/l)legere isn't actually attested with the right meaning, but rather phonetically different ALLE:GE:RE meaning "to dispatch"; Vinereanu dissents and does rightly note that the original etymology of alege to allegere conflated things (also with Latin eligere). However the derivation fo this form is semantically trivial as lego, legere; this is much better than Vinereanu's Daco-Thracian proposal based only on Greek leɣw and Alb mb-leth.
+a d l ˈe g e r e , a l ˈe d͡ʒ e $to choose, elect. Cand-Dens 47, DER. Latin a(d/l)legere isn't actually attested with the right meaning, but rather phonetically different ALLE:GE:RE meaning "to dispatch"; Vinereanu dissents and does rightly note that the original etymology of alege to allegere conflated things (also with Latin eligere). However the derivation fo this form is semantically trivial as lego, legere; this is much better than Vinereanu's Daco-Thracian proposal based only on Greek leɣw and Alb mb-leth.
 a d l e n i t ˈaː r e , a l i n t ˈa $to pamper, caress. DER. Unattested but with parallels It,  Sard, Sicil, Fr, Prov, etc. Vin dissents for substr.
-a d l o n ɡ ˈaː r e , a l u n ɡ ˈa $to banish, dismiss. DER, Cand-Dens 1024. *ADLONGA:RE not attested but cf It allongare, Cat alunyar, Fr allonger; others derive it from E:LONGA:RE. Dacian theories unconvincing. 
-a d m a ɡ ˈiː r e , a m a d͡ʒ ˈi $to cheat, bewitch, seduce, cast spells. Cand-Dens 52, DER. Unatttested but with parallels in Sicilian, Sardinian, Calabrese, Catalan, Spanish (though these are in -a:re). Aromanian amaie is a Greek loan. Vin 76 suspects substrate for Rom amăgi, arguing that the Latin form came from  something other than Greek but this loan would have been rather earlier it seems. 
+a d l o n g ˈaː r e , a l u n g ˈa $to banish, dismiss. DER, Cand-Dens 1024. *ADLONGA:RE not attested but cf It allongare, Cat alunyar, Fr allonger; others derive it from E:LONGA:RE. Dacian theories unconvincing. 
+a d m a g ˈiː r e , a m a d͡ʒ ˈi $to cheat, bewitch, seduce, cast spells. Cand-Dens 52, DER. Unatttested but with parallels in Sicilian, Sardinian, Calabrese, Catalan, Spanish (though these are in -a:re). Aromanian amaie is a Greek loan. Vin 76 suspects substrate for Rom amăgi, arguing that the Latin form came from  something other than Greek but this loan would have been rather earlier it seems. 
 a d m i k s t ˈaː r e , a m e s t e k ˈa $ to mix, shuffle, mingle. DER. Dacian theory unconvincing. 
 a d m iː n a k i ˈaː r e , a m e n ˈi n t͡s ə $to threaten. VL but with parallels across Romance. DER, Cand-Dens 56.
 a d n i n ˈaː r e , a n i n ˈa $to hang, grab, catch something. Lat *annina:re (<*ninna) is unattested  but cf Italian ninna-nanna, Albanian ninulë, Engadine niner, Provençal nina. ad+ninare is trivial. Vin however argues for substrate and Pascu argues for *allevinare. 
@@ -33,10 +33,10 @@ a d u n k ˈaː r e , a d ɨ n k ˈa $to deepen. Cand-Den 1
 a d ˈu n k u m , a d ˈɨ n k $deep, abyss. Puș 25, Can-Den 17; Vin 63; DER; DAR. 
 ˈaː eː r , ˈa e r $air. may be [ajer]? Arom, Megl & Mr aeru, Mr also aera (<Gk aéras?). Panromance, and also in Celtic and Albanian (ajër). Cannot be a loanword given its presence in Balkan Romance. 
 a f f l ˈaː r e , a f l ˈa $to find/discover (something), to find onesself in a position (<AFFLA:RE, "to blow forward, blow on". Cf Arom aflu, istro oflu. Cand-Dens 19. Semantically via stage of mihi afflatur "the idea is breathed upon me". 
-a ɡ ɡ ˈe s t u m , a d͡ʒ ˈe s t $ place in river bank where current has gathered shrubs, branches etc. Lat AGGESTUM = "accumulation, mound, dike". Variant agestru is formed via analogy. 
-ˈa ɡ i l e m , ˈa d͡ʒ e r $ smart, clever, resourceful. Cand-Des 19, REW. Turkish acar is related but the loan is likely from Romanian to Turkish not the reverse in this case, since the word is attested elsewhere in Romance.
-a ɡ u r ˈaː r e , a ɡ u r ˈa $ to predict, foresee. *AGURA:RE from Lat AUGURA:RE seen also in Italian agurare, Sp agorar, Prov agurar, Port agourar.  Cand-Des 23. 
-a ɡ ˈu s t u m , ˈa ɡ u s t $August (Rom. "august" is a 19th cent loan; avgust < Greek.). Variants: gust, agustru, Middle Romanian avgustru, Meglen avgust. AVG > AG assumed by sources (DER, Cand-Dens 24, DAR, REW 786) on the basis of Italian/Spanish agosto, Prov/Cat agost; avg- forms from Greek(?). {was AVGV > AGV regular possibly though??} Albanian gusht is not likely a direct source of variant gust -- instead it could have been reinterpreted as "a gust". 
+a g g ˈe s t u m , a d͡ʒ ˈe s t $ place in river bank where current has gathered shrubs, branches etc. Lat AGGESTUM = "accumulation, mound, dike". Variant agestru is formed via analogy. 
+ˈa g i l e m , ˈa d͡ʒ e r $ smart, clever, resourceful. Cand-Des 19, REW. Turkish acar is related but the loan is likely from Romanian to Turkish not the reverse in this case, since the word is attested elsewhere in Romance.
+a g u r ˈaː r e , a g u r ˈa $ to predict, foresee. *AGURA:RE from Lat AUGURA:RE seen also in Italian agurare, Sp agorar, Prov agurar, Port agourar.  Cand-Des 23. 
+a g ˈu s t u m , ˈa g u s t $August (Rom. "august" is a 19th cent loan; avgust < Greek.). Variants: gust, agustru, Middle Romanian avgustru, Meglen avgust. AVG > AG assumed by sources (DER, Cand-Dens 24, DAR, REW 786) on the basis of Italian/Spanish agosto, Prov/Cat agost; avg- forms from Greek(?). {was AVGV > AGV regular possibly though??} Albanian gusht is not likely a direct source of variant gust -- instead it could have been reinterpreted as "a gust". 
 a j e k t ˈaː r e , a j e p t ˈa $to throw. *AIECTA:RE < Lat EIECTARE per DER. Minority proposals include Daco-Thracian, Illyrain via Greek, Thracian via Greek, and Greek (per Vinereanu, Diculescu). But couldn't it better be AD + IECTA:RE ?  
 a j ˈuː n u m , a ʒ ˈu n $fasting, day before holiday. DER. See also ajuna below. 
 a j uː n ˈaː r e , a ʒ u n ˈa $to fast. Cf Alb ngjëroj ("to sample, to taste", via "taste only" in in-aiunaːre), agjëroj ("to fast") from same root, many other derivations across Romance. Cand-Dens 31. 
@@ -72,7 +72,7 @@ a m m u t ˈiː r e , a m u t͡s ˈi $to become mute. Cand-Dens 1191. May be der
 ˈa n n u m , ˈa n $year. DER. 
 a p p a r ˈaː r e , a p ə r ˈa $to dodge, protect, stop, resist, guard (Lat apparāre = to prepare). DER, Cand-Dens 63, REW 534, DAR. Cognates in Istro-Romanian, Aromanian, Provençal, Spanish and Italian; others are neologisms. Dac/Trac theories unnecessary. 
 a p p e n s ˈaː r e , a p ə s ˈa $to release weight, to exert pressure, overwhelming, be annoying, sink, deepen. DER, Cand-Dens 1349, REW 544, DAR. Cf Old French apeser, Provençal apesar. Dac/Trac unnecessary. 
-a p r ˈiː k u m , ˈa p r i ɡ $ violent, rough, blunt. Lat aprīcvs = "exposed to the sun", semantically passed through "heated". DER. This etymology is heavily contested however. DER argues the final k > ɡ is unproblematic in light of stâng and vitreg. Tiktin argues for a Latin *apricus from aper "wild boar", which does better fit the stress pattern. REW and DAR prefer a Greek etymology; Vinereanu of course prefers Dacian. 
+a p r ˈiː k u m , ˈa p r i g $ violent, rough, blunt. Lat aprīcvs = "exposed to the sun", semantically passed through "heated". DER. This etymology is heavily contested however. DER argues the final k > g is unproblematic in light of stâng and vitreg. Tiktin argues for a Latin *apricus from aper "wild boar", which does better fit the stress pattern. REW and DAR prefer a Greek etymology; Vinereanu of course prefers Dacian. 
 a r ˈaː m e n , a r ˈa m ə $ copper;  kind/variety/nature. DER, Cand-Dens 73. *arāmen is unattested -- Class Lat was aerāmen. But this form is widely inheritedː Romansch, Catalan, Provençal, Oold French, Spanish, Portuguese, Italian, plus Albanian aramë (alongside rem -- both likely loaned from Latin, it seems most likely.). "Traco-iliric" unnecessary. 
 a r ˈaː r e , a r ˈa $to plow. DER; Candrea-Dens 67; REW 508; DAR. Well attested in Lat, widely inherited, Dacian theories or even contribution (Vin) unnecessary. 
 a r aː t ˈoː r e m , a r ə t ˈo r $plowman (noun). Now increasingly merging with (adj) arător < arātōrivs. DER. Cand-Dens 70. Lat form arātōr (nominative) cited by some but stress pattern and general behavior across Romance of course suggests it (like almost all other nouns) reflects the accusative.
@@ -83,9 +83,9 @@ a r a t ˈuː r a m , a r ə t ˈu r ə $ploughing, plough land. DER, DAR, REW 6
 ˈa r b o r e m , ˈa r b u r e $tree. Cand-Dens 74, DER. Variant arbore. Megl arburi, Ar arbure, Ir årbur(e). 
 a r b o r ˈeː t u m , a r b u r ˈe t $brush, grove, thicket. Cand-Dens 75. Variant arboret -- this may be citation form. Ar arburet. 
 ˈa r d e r e , ˈa r d e $to burn. Cand-Dens 78. Ir årde, Megl ardiri, Ar ardire. 
-a r ɡ ˈe n t u m , a r d͡ʒ ˈi n t $silver. Cand-Dens 82. Ir arẑint, Megl arzint/rǎzint. Arom arzint, Alb argjent. 
-a r ɡ e n t ˈaː r i u m , a r d͡ʒ i n t ˈa r $silversmith. Cand-Dens 83. Widespread in Romance. 
-a r ɡ e n t ˈoː s u m , a r d͡ʒ i n t ˈo s $container made of silver. Cand-Dens 84. 
+a r g ˈe n t u m , a r d͡ʒ ˈi n t $silver. Cand-Dens 82. Ir arẑint, Megl arzint/rǎzint. Arom arzint, Alb argjent. 
+a r g e n t ˈaː r i u m , a r d͡ʒ i n t ˈa r $silversmith. Cand-Dens 83. Widespread in Romance. 
+a r g e n t ˈoː s u m , a r d͡ʒ i n t ˈo s $container made of silver. Cand-Dens 84. 
 a r k ˈaː r i u m , a r k ˈa r $bowmaker. Cand-Dens 77. Now archaic. 
 ˈa r k u m , ˈa r k $ bow, arch. Cand-Dens 76. Cf Melg arc, Ar arcu, Alb (h)ark etc. 
 aː r s ˈuː r a m , a r s ˈu r ə $burning, fire, conflagration. burn(noun). Cand-Dens 79; DER. 
@@ -123,7 +123,7 @@ s t a t u s , s t a t $ status>stat !CV 1.2
 a u r i k u l a , u r e k e $ auricula>ureche !CV 1.2.1
 b a r b a , b a r b ə $ barba>barbă
 b u k k a , b u k ə $ bucca>bucă !CV 1.2.1
-k a p i t i n a , k ə p ə t͡s ɨ n ă $ capitina>căpățână !CV 1.2.1 From caput + ina.
+k a p i t i n a , k ə p ə t͡s ɨ n ə $ capitina>căpățână !CV 1.2.1 From caput + ina.
 k a p u t , k a p $ caput>cap !CV 1.2.1
 $ k a e l u m , !!! $ "cerul gurii"? see CV 1.2.1
 k e r e b eː l l u m , k r e i e r $ cerebeellum>creier !CV 1.2.1 !!!
@@ -176,7 +176,7 @@ r e n i k u l u s , r i n i k i
 r e n u n k u l u s , r ə r u n k i $ renunculus>rărunchi (rom.pop) !CV 1.2.3
 s i n u s , s ɨ n $ sinus>sân !CV 1.2.3
 $*sira>șiră
-s p a th a , s p a t ə $ spatha>spată !CV 1.2.3
+s p a tʰ a , s p a t ə $ spatha>spată !CV 1.2.3
 s p i n a l i s , s p i n a r e $spinalis>spinare !CV 1.2.3
 s p l e n , s p l i n ə $splen,-is>splină (?rom) !CV 1.2.3
 s u b u l a , s u b s u o a r ə $ subula>subsuoară !CV 1.2.3
@@ -188,8 +188,8 @@ v e n t e r , v i n t r e $ venter>vintre !CV 1.2.3
 v e s i k a , b ə ʃ i k ə $ vesica,vessica>bășică !CV 1.2.3
 
 a r m u s , a r m $ armus>arm (v.drom. dial.) !CV 1.2.4
-b r a kh kh i u m , b r a t͡s $ bracchium>braț !CV 1.2.4
-k a l k a n e u m , k ə l k â i $ calcaneum>călcâi !CV 1.2.4
+b r a kʰ kʰ i u m , b r a t͡s $ bracchium>braț !CV 1.2.4
+k a l k a n e u m , k ə l k ɨ i $ calcaneum>călcâi !CV 1.2.4
 k o k s a , k o a p s ə $ coxa>coapsă !CV 1.2.4
 k u b i t u s , k o t $ cubitus,cubitum>cot !CV 1.2.4 !alt istro kuvit
 d i g i t u s , d e d͡ʒ e t $ digitus>deget !CV 1.2.4
@@ -299,7 +299,7 @@ k o m p i t u m , k u m p ə t $ compitum>cumpăt !CV 1.4
 $*compitare,*computare>a-cumpăta !CV 1.4
 k o t t i z a [r e , k u t e z a $ cottizare>a-cuteza !CV 1.4 
 $d e s i d e r a r e , d e ʃ i d e r a $ desiderare>deșidera,deșira (v.rom) !CV 1.4 !!!sus
-$(directus>drept duplicate?)
+$(directus>drept duplicate?) !CV 1.4
 d o l e [r e , d u r e a $ dolere>a-durea !CV 1.4
 $*doliosus>duios !CV 1.4
 d o l o r , d u r o a r e $ dolor>duroare (v.rom.dial) !CV 1.4
@@ -309,8 +309,55 @@ $*expavimen>spaimă !CV 1.4
 $*expavimento>a-(se)-spăimânta !CV 1.4
 $* extemperare>a-(a)stâmpăra !CV 1.4
 f e l i k s , f e r i t͡ʃ e $ felix>ferice !CV 1.4
+$*horrire>ură !CV 1.4
+i n d u r a [r e , ɨ n d u r a $ indurare>a-îndura !CV 1.4
+i n t e r r i t a [r e , ɨ n t ə r ɨ t a $ interritare>a-întărâta !CV 1.4
+i n v i t a [r e , ɨ n v i t a $ invitare>a-învita !CV 1.4 (v.rom)
+m a l u m , m a r $ malum>mar (arom.) !CV 1.4
+$*manganeare>a-mângâia !CV 1.4
+m a n i a , m ɨ n i e $ mania>mânie !CV 1.4
+m i r o r , m i r a $ miror,-ari>a-(se)-mira !CV 1.4 !!!
+m i s e r e [r e , m e s e r e a r e $ miserere>mesereare !CV 1.4 (v.rom.)
+m o n s t r a [r e , m u s t r a $monstrare>a-mustra !CV 1.4
+p a k a [r e , p ə k a $ pacare>a-păca !CV 1.4 (v.rom.)
+p a e n i t e t , p ə n ə t a $paenitet,paenitere>a-pănăta !CV 1.4 (v.rom.)
+p a t i o r , p ə t͡s i $ patior,pati>a-pați !CV 1.4
+p e n s a r e , p ə s a $ pensare>a-păsa !CV 1.4
+p e n s u m , p ə s $ pensum>păs !CV 1.4
+p i g r i t a [r e , p r e g e t a $ pigritare>a-pregeta ǃCV 1.4 ǃǃmetathesis ǃǃalt form see p59
+p l a k e [r e , p l ə t͡ʃ e a $ placere>a-plăcea !CV 1.4
+p l a n g e [ r e , p l ɨ n g e $ plangere>a-plânge !CV 1.4
+r i d e [r e , r ɨ d e $ ridere>a-râde !CV 1.4
+r i s u s , r ɨ s $ risus>râs !CV 1.4
+$*rosionem>rușine !CV 1.4
+s e n t i [r e , s i m t͡s i $ sentire>a-simți !CV 1.4
+s u f f e r r e , s u f e r i $ sufferre>a-suferi !CV 1.4 !!!INSPECT CLOSELY. -ri could be analogical.
+$*sufflitus>suflet !CV 1.4
+s u p e r a [r e , s u p ə r a $ superare>a-supăra !CV 1.4
+s u s p i r a [r e , s u s p i n a $ suspirare>suspina !CV 1.4
+$*tima>teamă
+t i m e [r e , t e m e $ timere>a-(se)-teme !CV 1.4
+t i m o r , t e m o a r e $ timor>temoare !CV 1.4
+t r e m u l a [r e , t r e m u r a $ tremulare>a-tremura !CV 1.4
+t r i s t i s , t r i s t $ tristis>trist !CV 1.4
+t u r b a [r e , t u r b a $ turbare>a-turba !CV 1.4
+t u r b u l a [r e , t u l b u r a $ turbulare>a-tulbura !CV 1.4
+v i r t u s , v ɨ r t u t e $ virtus>vârtute !CV 1.4
+
+$1.5
+
+v e r u m , v e r $ verum>ver !CV 1.5 (arom.)
+$*cauitare<cavitum>a-căuta !CV 1.5
+$circare>cerca done
+k i r k i t a [r e , t͡ʃ e r t͡ʃ e t a $ circitare>a-cerceta !CV 1.5
+k o g i t a [r e , k u d͡ʒ e t a $ cogitare>
+
+
 
 
 
 
 $ ./derive.sh -s -lex ../romanian-cfr/cRoLLex.txt -rules ../romanian-cfr/BaseCleR.txt -symbols ../romanian-cfr/lrsymbdefs.csv
+
+$ Check for orth ăîâșț in input:
+$     ^[^$]*[ăîâșț]

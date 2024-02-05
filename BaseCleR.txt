@@ -1,12 +1,20 @@
-$ Necessary for Pardess' assumed inputs:
+$ BaseCleR: An implementation of the ordered changes of Pardess (1990) as a DiaSim cascade
 $
+$ The goal of this base cascade is to be as faithful as possible to Pardess' description of the sound changes 
+$ that occurred from Latin to Daco-Romanian.
+$
+$ When a formal rule is not well-suited for computerized application, we change it so that it works in DiaSim while
+$ maintaining Pardess' intentions according to his rule title. This also applies for cases where Pardess made a 
+$ minor mistake in the formal rule but his rule title and example lexica suggest his intentions.
+$
+$ Stages are included when a new chapter is reached in Pardess' rule list: ~Balkan Romance (R25), ~Common Romanian (R45)
 $
 
-$ From CLEF, from Pope (1934)
 
-$p102 s220 (also p73 s156i)  -- yod and w formation -- gliding of unstressed short non-low vowels before other vowels
-$ -- called upon to be this early by p91 s187
-[+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / __ [+syl]
+$ Auxiliary rules necessary for Pardess' assumed Latin inputs -- From CLEF, from Pope (1934):
+
+    $p102 s220 (also p73 s156i)  -- yod and w formation -- gliding of unstressed short non-low vowels before other vowels
+        [+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / __ [+syl]
 
 $ CHAPTER 4
 $ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
@@ -105,7 +113,7 @@ $
         $ Strange because w fronted to beta in 6
         $ Something is wrong here. Putting this for now:
         k > p / __ β [-cons,+lo]
-        ɡ > b / __ β [-cons,+lo]
+        g > b / __ β [-cons,+lo]
         $ "Sometime before Rll and in anticipation of RI7 (w > 0), QUALIS, QUAM, QUANDO, QUANTUS, SQUAMA, etc., must have lost the wau becoming [kâle], [ka], [kândo], [kântu], [skâma], forms to which Rll could not apply."
         $ And ŋ assimilates when expected. Pardess did not formally include this but implies it.
         ŋ > m / __ [+cons,+lab]
@@ -153,7 +161,7 @@ $
 
     $ R14 Apheresis: Loss of unstressed initial [e] before [s] or [z] before a consonant
         $ Pardess: e > ∅ / __ s [+cont,+ant,+cor,+strid]
-        $ Pardess' rule is misformulated
+        $ Pardess' rule is misformulated. Opting for plain-sense interpretation of title
         e > ∅ / __ [+strid,+ant] [+cons]
 
     $ R15 Contraction of vowels
@@ -169,7 +177,7 @@ $
     $ R18 {Many C+j-related changes}
         $ R18A Gemination of stop when after a vowel and before yod
             $ Pardess: V [-son,-cont] y > V [-son,-cont] [-son,-cont] y
-            {p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ;} / [+syl] __ j
+            {p;t;k;b;d;g} > {p p;t t;k k;b b;d d;g g;} / [+syl] __ j
 
         $ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
             $ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
@@ -180,7 +188,7 @@ $
         $ R18C Affrication of velars: [g] > [ǰ], [k] > [č] before yod
             $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ j
             $ ^Also doesn't work in DiaSim
-            ɡ > d͡ʒ / __ j
+            g > d͡ʒ / __ j
             k > t͡ʃ / __ j
 
         $ R18D Absorption of yod after affricates
@@ -202,7 +210,7 @@ $
 
     $ R20 Attraction of glides
         $ Pardess: [+syl,+stres] C0 [+son,-cons,-syl] > [+syl,+stres] [+son,-cons,-syl] C0
-        $ TODO make this rule. Below needs tested; brings accuracy down. Disabling for now.
+        $ Below rules bring accuracy down -- verify faithfulness to Pardess
         ∅ > j / [+stres] __ ([+cons])* j
         j > ∅ / [+stres] j ([+cons])* __
         ∅ > w / [+stres] __ ([+cons])* w
@@ -211,7 +219,6 @@ $
 
     $ R21 Spirantization of [b]
         b > β / [-cons] __
-        $ Not word-initial, which this gets right.
 
     $ R22 {Beta becomes v/b/w/g/∅}
         $ R22A Word-inital [β] > [v]
@@ -228,16 +235,16 @@ $
             β > w / __ [+son,+cons]
 
         $ R22D Intervocalic [β] > [g] in the presence of [u]
-            β > ɡ / u __
-            β > ɡ / __ u 
+            β > g / u __
+            β > g / __ u 
             $ Pardess: "sporadically"
 
         $ R22E [β] > ∅ / elsewhere
             β > ∅
 
     $ R23 Degemination of consonants except the alveolar resonants [ll], [nn] and [rr]
-        $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually right?
-        {p p;t t;k k;b b;d d;ɡ ɡ;s s;z z; t͡ʃ t͡ʃ;t͡s t͡s;d͡ʒ d͡ʒ;d͡z d͡z;m m;ŋ ŋ} > {p;t;k;b;d;ɡ;s;z;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
+        $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually right? Why not at this time?
+        {p p;t t;k k;b b;d d;g g;s s;z z; t͡ʃ t͡ʃ;t͡s t͡s;d͡ʒ d͡ʒ;d͡z d͡z;m m;ŋ ŋ} > {p;t;k;b;d;g;s;z;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
 
     $ R24 Affrication of velars: [k], [g] > [č], [ǰ] before a front vowel
         $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] > __ [-cons,-back]
@@ -245,7 +252,7 @@ $
         $[-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ [-cons,-back]
         $ Still doesnt work so:
         k > t͡ʃ / __ [-cons,-back,-lo]
-        ɡ > d͡ʒ / __ [-cons,-back,-lo]
+        g > d͡ʒ / __ [-cons,-back,-lo]
 
     $ R25 {Final s -> j or ∅}
         $ R25A Development of final -s in monosyllabic words
@@ -508,8 +515,9 @@ $
         e̯ > ∅ / j __ ˈa
 
     $ R58 Assimilation: word-final [ə] > [e] after [i]
-        ə > [-back] / i __ #
-        $ Yeah... thats not gonna work.
+        $ Pardess: ə > [-back] / i __ #
+        $ Reframing:
+        ə > e / i __ #
 
     $ R59 {Word-final high vowel changes}
         $ R59A Devoicing of word-final [u] and [i] except after a consonant plus a liquid
