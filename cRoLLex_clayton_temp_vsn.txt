@@ -44,7 +44,8 @@ a j uː n ˈaː r e , a ʒ u n ˈa $to fast. Cf Alb ngjëroj ("to sample, to ta
 ˈa k i a m , ˈa t͡s ə $thread; "directly, straight on". Puşcariu, 158; REW, 102; Cioranescu, 500; Candrea-Densusianu p2. Vinereanu (p101) and Walde dissent, arguing for either a Latin *aquia or perhaps a loan from Venetian, Calabrese or Engadine. Revisit. est
 a k k a k p t i ˈaː r e , a k ə t͡s ˈa $"to hang (up)". Istroromanian (a)cață; Aromanian acățare. Alt form agăța. Etymology agreed upon by Philippide, Principii, 43; Puşcariu, Lat. ti, 12; Candrea-Densusianu p2; REW, 1663. However, Vinereanu (58) dissents, questioning it on phonological grounds (pt > ț). He argues for a Dacian source reflecting a proposed (by him?) PIE *kati, which he thinks also reflects in Albanian kace "brier", Bulgarian kace/kacja "bramble", and Hittite aggati "catching net". This disitribution is very suspicious however I would note. Schuhardt (see Candrea-Densusianu p2) argued for influence from Hungarian a-kasztani. Revisit. 
 ˈa k r u m , ˈa k r u $sour. VL nom. *acrus < Latin acer, cognates across Romance. C-D 3[13], Vin 61. 
-ˈa k u m , ˈa k $"needle, sting", neut. Ar, Istr, Megl ac too. Latin acus, acum was fem "wheat husk, needle". Cio 30, Vin 58. 
+ˌɑ k s ˈu n ɡ i ɑ , o s ˈɨ n z ə $pork lard. Alb ushunjë (Gheg: ushûj), Arom. nxunxë. Infleuence of Byzantine Greek oksoungi on at least hte Albanian as per Bonnet 120-121. See also Bonnet 191, 264. For morphological paradigmatic influence of Greek, see Bonnet 290. Vatasescu 1997 p88, see  sources within for other discussion on a > o if necessary. 
+ˈa k u m , ˈa k $"needle, sting", neut. Arom, Istr, Megl ac too. Latin acus, acum was fem "wheat husk, needle". Cio 30, Vin 58. 
 ˈa k w a m , ˈa p ə $water. DER, Cand-Dens 60. Vin (81-82) rightly notes that -apa does appear as a suffix in Daco-Thracian near water bodies-- Zaldapa in Dobrogea, and further afield in Messapic (Salapia) and Celtic (Geldapa, Arnapa, Lenapa, Olepa, Manapia, Appa, Apva) and Pannonia (Apeva). But this is not necessary or even sufficiently convincing. 
 a k w ˈaː r i u m , a p ˈa r $water-bearer (vender). Cand-Dens 60, DER. May instead be apă + ar admittedly. 
 a k w aː t ˈoː s u m , a p ə t ˈo s $watery, aqueous. Cand-Dens 60. Cf Aromanian apîtos, Friulian (?̠) agadôs. 
@@ -69,6 +70,7 @@ a m e n d ˈu i , a m ɨ n d ˈo j $together. Form per DER. From Lat AMBO DUO ul
 a m m a t t e ˈaː r e , a m e t͡s ˈi $to get confused, to lose one's head, to become drunk (easily). DER. Some doubts about the derivation. Greek may be metúw  responsible (Pușcariu), or some substrate thing (medos actually attested as alc. drink "mead" seemingly in Dacian Pannonia -- this is actually plausible -- Vin 78). 
 a m m o r t ˈiː r e , a m o r t͡s ˈi $to enter a period of hibernation, go numb. DER. *ammorti:re is unnattested but has parallels elsewhere in Romance. 
 a m m u t ˈiː r e , a m u t͡s ˈi $to become mute. Cand-Dens 1191. May be derivation, but cf Italian ammutire. 
+ˈa n g e l u m , ˈɨ n d͡ʒ e r $angel. Vatasescu 1997(:448); Alb ëngjëll. 
 ˈa n n oː t ˈe r t i oː , a n t ˈə r t͡s $two years ago. DAR, Cioranescu 295, Vin 81. 
 ˈa n n u m , ˈa n $year. DER. 
 a p p a r ˈaː r e , a p ə r ˈa $to dodge, protect, stop, resist, guard (Lat apparāre = to prepare). DER, Cand-Dens 63, REW 534, DAR. Cognates in Istro-Romanian, Aromanian, Provençal, Spanish and Italian; others are neologisms. Dac/Trac theories unnecessary. 
@@ -92,7 +94,13 @@ a r k ˈaː r i u m , a r k ˈa r $bowmaker. Cand-Dens 77. Now archaic.
 aː r s ˈuː r a m , a r s ˈu r ə $burning, fire, conflagration. burn(noun). Cand-Dens 79; DER. 
 ˈa s c l a , ˈa ʃ k i e $sliver, splinter. Aromanian ashclji, Old Albanian ashklë, ashkje (> ashke, ashkë, ashkël). 
 
+b ˌa p t i d i ˈoː n e m , b o t e ʒ ˈu n e $christening. Vatasescu 1998(:448). Old and dialectal. 
+b ˌa p t i d͡z ˈaː r e , b o t e z ˈa $to baptize. Arom. pătedzu, Alb. pagëzoj. Vatasescu 1998: 448. 
+b ˌa s ˈi l i k a m , b i s ˈe r i k ə $church. Regular form may lie in Daco-Roman dialectal forms băseareca, besearecă, besearică. Vatasescu 1998: 449. 
 b ˌa t t u ˈaː l i a , b ə t ˈa j e $battle. Bonnet 1998(:133). Vatasescu 1997: 371. 
+
+k ˈa e̯ l u m , t͡ʃ e r $sky. Vatasescu 1998: 449. Alb qiell. 
+
 
 e k k u h ˈi k , a t͡ʃ ˈi $here. Variant -- aici, now predominant today (but aci is the inherited one?). Aromanian aoá, ația "there", Istr tśi(a). Camp-Den 2(8),  REW 4129, Pușcariu 12. Vinereanu 60 doesn't totally dissent but wonders about possible Umbrian and Oscan etymologies, it can probably be disregarded though. 
 e k k u h ˈo k , a k ˈo $there. Candrea-Densusianu 3[11]. 
