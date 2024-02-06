@@ -1,0 +1,398 @@
+ˈaː , ˈa $"exclamation of pain, wonder". Tentatively included, but considered of imitative origin by Cioranescu[2]; not at the EDRL and Vinereanu (55), tho, which note PIE *ā > Lat ā, āh, and also Gothic ō, Lithuanian á, Sanskrit ā, etc; cf IEW (1). Using aː for Latin but this is arbitrary, however it's trivial as the h would be regularly lost (though introduced here for onomatopoeia in some Romanian dialects). 
+a b e l l ˈoː n a m , a l ˈu n ə $hazelnut, peanut, testicle. DER, Cand-Dens. Att as -A:NA in Latin (whence Fr avelaine, It avellana etc) but the -ona is evidenced in Provençal, Tarentine and Franco-Provençal with motivations discusted in Meyer-Lübke Dacor 643. 
+a b r ˈu t t u m , a b r ˈu d $Abrud, city in Transylvania. Name originally from Dacian. Unclear if inherited directly, Vinereanu (56) claims it does but this is unclear -- review later, see if there are other sources for this.  
+a d , a $"to, at next to". Cf Aromanian <a> "to, at". Now being replaced by <la>, but widely used in Old Romanian. Puşcariu, 1; Candrea-Densusianu, 1; REW, 136; Cioranescu, 1; Vinereanu, 55. 
+a d a k w ˈaː r e , a d ə p ˈa $to water, to baste, to drink. Meglenoromanian dap, istr adǒpu ~~ (a)dapå, Aromanian adăpare, Puşcariu, 20; REW, 147; Cioranescu, 69; DER; DAR; Cand-Den 62. Vinereanu (62) dissents arguing that apa is attested in "mulțime de hidronime și toponime din spațiul iliro-daco-trac" and that PIE *kw > p in all of these but this seems to contradict his (other) view that Albanian belongs to Dacian since in Albanian it does not. Going with traditional etymology. 
+a d a p p ˈo s i t u m , a d ə p ˈo s t $shelter. Philippide, Principii , 97; Tiktin; Puşcariu, 21; Rosetti, I, 161; Cioranescu, 70; DAR; DER; Candrea-Densusianu 15. Tiktin argues instead for Latin ad-depositum. Vinereanu argues for a pre-Latin etymology. 
+a d a s t ˈaː r e , a d ə s t ˈa $to wait (archaic). Pușcariu 22; REW 148; DER; DAR. Vinereanu is suspicious noting the total lack of attestation nor appearance elsewhere in Romance but does attribute the form to Latin, apparently suspecting a calque. He suspects it comes "din fondul pre-latin" but DER instead suggests Germanic. 
+a d ˈa w g e r e , a d ə w g ˈa $variants adăugi, adaugi, adauge; in Banat adauș. Meglenoromanian daǔk, Aromanian adăvdzeare, adavdzire, adăvgare. Cand-Den 16; Pușcariu 10; REW 149; Cioranescu 68; Vinereanu 62. Unclear which one is inherited but both Cand-Den (and Vin) uses adăuga as the citation form. 
+a d d e w ˈeː r u m , a d e v ˈə r $correct (of a perception, belief). Puşcariu, 24; REW, 9262; Cioranescu, 77. DER; DAR. Dissent: Cândrea argues for *addevērāre, Pușcariu wonders about *ad ad vērum, and Vinereanu argues for a substrate source. 
+a d i d ˈi p s u m , a d ˈi n s $expressly, purposefully. Per DER. ad idipsum = "for just that". Note however that idipsum in Latin actually meant "together". Supposed cognates in Romance mean "now" ː Italian adesso, Venet adeso, Dalmatian adias, Arp & Cat adés, Mozarabic atášo, Old Sp adieso. REW & DAR ː Vulg *ad ipsum illum ~ "ad de ipso. Candrea argues the DER etymology is "not possible", but the DER has evidence in Latin for a parallel addressing their concerns (https://www.webdex.ro/online/dictionarul_etimologic_roman/adins); Vinereanu thinks it is a derivation off of ins "individual"; he may be right -- check for this. 
+a d i ˈuː n g e r e , a ʒ ˈu n d͡ʒ e $to arrive. DER, Cand -Dens 33. 
+a d i uː t ˈaː r e , a ʒ u t ˈa $to help. Middle Romanian aǧut, Megl jut, istr (a)jut. DER, Cand-Dens 34, Viner 70. 
+a d i uː t ˈoː r i u m , a ʒ u t ˈo r $help, "help!". Cand-Dens 35. 
+a d l ˈa t e r a , a l ˈə t u r j $near, beside. DER. Variant alăturea. Vinereanu  [71] however suspects a later derivation in a(d) +lături. The final -uri does look suspicious, to be fair. 
+a d l ˈe g e r e , a l ˈe d͡ʒ e $to choose, elect. Cand-Dens 47, DER. Latin a(d/l)legere isn't actually attested with the right meaning, but rather phonetically different ALLE:GE:RE meaning "to dispatch"; Vinereanu dissents and does rightly note that the original etymology of alege to allegere conflated things (also with Latin eligere). However the derivation fo this form is semantically trivial as lego, legere; this is much better than Vinereanu's Daco-Thracian proposal based only on Greek leɣw and Alb mb-leth.
+a d l e n i t ˈaː r e , a l i n t ˈa $to pamper, caress. DER. Unattested but with parallels It,  Sard, Sicil, Fr, Prov, etc. Vin dissents for substr.
+a d l o n g ˈaː r e , a l u n g ˈa $to banish, dismiss. DER, Cand-Dens 1024. *ADLONGA:RE not attested but cf It allongare, Cat alunyar, Fr allonger; others derive it from E:LONGA:RE. Dacian theories unconvincing. 
+a d m a g ˈiː r e , a m a d͡ʒ ˈi $to cheat, bewitch, seduce, cast spells. Cand-Dens 52, DER. Unatttested but with parallels in Sicilian, Sardinian, Calabrese, Catalan, Spanish (though these are in -a:re). Aromanian amaie is a Greek loan. Vin 76 suspects substrate for Rom amăgi, arguing that the Latin form came from  something other than Greek but this loan would have been rather earlier it seems. 
+a d m i k s t ˈaː r e , a m e s t e k ˈa $ to mix, shuffle, mingle. DER. Dacian theory unconvincing. 
+a d m iː n a k i ˈaː r e , a m e n ˈi n t͡s ə $to threaten. VL but with parallels across Romance. DER, Cand-Dens 56.
+a d n i n ˈaː r e , a n i n ˈa $to hang, grab, catch something. Lat *annina:re (<*ninna) is unattested  but cf Italian ninna-nanna, Albanian ninulë, Engadine niner, Provençal nina. ad+ninare is trivial. Vin however argues for substrate and Pascu argues for *allevinare. 
+a d o l i ˈaː r e , a d i ˈa $to breathe lightly ("of wind"), to shake/tremor; to caress, smooth. Semantic development interesting; different proposals exist. We adopt the DER's proposal -- that is, vulgar Latin *adoliāre "to turn into vapors; to emit -- "to mist (up)" " < Lat.  adolere "to turn into steam". DAR, REW (204a) instead derive *abuliāre from Lat adūlāre. Candrea (817), Pascu ː *adiliāre "to flatter" (cf Romanian a adula). Vinereanu (64) prefers Dacian because of the difficulty of the semantics, and lists possible Slavic cognates. Possibility of being a Slavic loan: Polish odwiač, Bulg duja, BCSM dujem -- all "to breathe". Formed from a + (Slavic-imported root)? 
+a d d o r m ˈiː r e , a d o r m ˈi $To fall asleep; to perish. Aromanian adormu. Latin addormīre "to fall asleep, to bring someone into a state of sleep" < ad + dormīre. DER; Cand-Dens 409; REW 157; DAR. 
+a d p l i k ˈaː r e , a p l e k ˈa $to tiilt, bend, breastfeed, incline, be nauseous (in sense of bend). DER, REW 548. Theories where this comes from IE not via Latin are unnecessary; although it is claimed this word was only inherited elsewhere in Ibero-Romance (Sp allegar, Gal/Port achegar), this is not true: Old French applier, Sicilian appricari, Catalan aplegar, Tourangeau apiager, +Romansch. 
+a d p ˈoː n e r e , a p ˈu n e $ to set, escape, decay, decline, perish, die (Lat adponere "to appoint, assign, place, set before). DER. Candrea-Dens 1462. REW 551; DAR. Although some view it as a derivation, this is unnecessary as Latin a(d/p)pōnere is well attested, and widely inherited across Romance.
+ˈa d p ˈo s t , ˈa p ˈo j $next, subsequent, then. variant apăi. Megl poia. Megl/Istr napoi. Cf Italian appo, Old Sardian appus, Portuguese apos -- Dacian theories unnecessary. DER, Cand-Dens 1423, REw 195, DAR.
+a d p r e h ˈe n d e r e , a p r ˈi n d e $to light (fire, light), turn on. DER, Cand-Dens 1448, REW 554, DAR. Aromanian aprindu, Megl prind, Istr aprindu. Though some protest about the semantics (reflexes in Western Romance all mean "to learn"), relic forms meaning "to light up" are attested in many of these languages, and are seen in Grégoire de Tours. 
+a d p r ˈo p e , a p r o̯ ˈa p e $close, almost. Megl proapi, Istr (a)prope, Arom aproapea. Cogn in Old Ital, Old Prov, Cat, Old French. Cand-Dens 65, REW 197, DAR, DER. 
+a d p r o p i ˈaː r e , a p r o p i ˈa $to approach. Arom (a)prok'u; cf Sard, Old Prov, ofc French approcher -- claims this is a derivation (Vinereanu) are unnecessary. DER, DAR, REW 557, Candrea-Dens 66. 
+a d d ˈuː k e r e , a d ˈu t͡ʃ e $to carry/take something with onesself, to bend, to yield, to resemble. Istro: ducu, megl duc. DER, Cand-Dens 418, REW, DAR. 
+a d u m b r ˈaː r e , a d u m b r ˈi $to shade, to place, to set in the shadow. DER. 
+a d u n k ˈaː r e , a d ɨ n k ˈa $to deepen. Cand-Den 1
+a d ˈu n k u m , a d ˈɨ n k $deep, abyss. Puș 25, Can-Den 17; Vin 63; DER; DAR. 
+ˈaː eː r , ˈa e r $air. may be [ajer]? Arom, Megl & Mr aeru, Mr also aera (<Gk aéras?). Panromance, and also in Celtic and Albanian (ajër). Cannot be a loanword given its presence in Balkan Romance. 
+a f f l ˈaː r e , a f l ˈa $to find/discover (something), to find onesself in a position (<AFFLA:RE, "to blow forward, blow on". Cf Arom aflu, istro oflu. Cand-Dens 19. Semantically via stage of mihi afflatur "the idea is breathed upon me". 
+a g g ˈe s t u m , a d͡ʒ ˈe s t $ place in river bank where current has gathered shrubs, branches etc. Lat AGGESTUM = "accumulation, mound, dike". Variant agestru is formed via analogy. 
+ˈa g i l e m , ˈa d͡ʒ e r $ smart, clever, resourceful. Cand-Des 19, REW. Turkish acar is related but the loan is likely from Romanian to Turkish not the reverse in this case, since the word is attested elsewhere in Romance.
+a g u r ˈaː r e , a g u r ˈa $ to predict, foresee. *AGURA:RE from Lat AUGURA:RE seen also in Italian agurare, Sp agorar, Prov agurar, Port agourar.  Cand-Des 23. 
+a g ˈu s t u m , ˈa g u s t $August (Rom. "august" is a 19th cent loan; avgust < Greek.). Variants: gust, agustru, Middle Romanian avgustru, Meglen avgust. AVG > AG assumed by sources (DER, Cand-Dens 24, DAR, REW 786) on the basis of Italian/Spanish agosto, Prov/Cat agost; avg- forms from Greek(?). {was AVGV > AGV regular possibly though??} Albanian gusht is not likely a direct source of variant gust -- instead it could have been reinterpreted as "a gust". 
+a j e k t ˈaː r e , a j e p t ˈa $to throw. *AIECTA:RE < Lat EIECTARE per DER. Minority proposals include Daco-Thracian, Illyrain via Greek, Thracian via Greek, and Greek (per Vinereanu, Diculescu). But couldn't it better be AD + IECTA:RE ?  
+a j ˈuː n u m , a ʒ ˈu n $fasting, day before holiday. DER. See also ajuna below. 
+a j uː n ˈaː r e , a ʒ u n ˈa $to fast. Cf Alb ngjëroj ("to sample, to taste", via "taste only" in in-aiunaːre), agjëroj ("to fast") from same root, many other derivations across Romance. Cand-Dens 31. 
+ˈa k i a m , ˈa t͡s ə $thread; "directly, straight on". Puşcariu, 158; REW, 102; Cioranescu, 500; Candrea-Densusianu p2. Vinereanu (p101) and Walde dissent, arguing for either a Latin *aquia or perhaps a loan from Venetian, Calabrese or Engadine. Revisit. est
+a k k a k p t i ˈaː r e , a k ə t͡s ˈa $"to hang (up)". Istroromanian (a)cață; Aromanian acățare. Alt form agăța. Etymology agreed upon by Philippide, Principii, 43; Puşcariu, Lat. ti, 12; Candrea-Densusianu p2; REW, 1663. However, Vinereanu (58) dissents, questioning it on phonological grounds (pt > ț). He argues for a Dacian source reflecting a proposed (by him?) PIE *kati, which he thinks also reflects in Albanian kace "brier", Bulgarian kace/kacja "bramble", and Hittite aggati "catching net". This disitribution is very suspicious however I would note. Schuhardt (see Candrea-Densusianu p2) argued for influence from Hungarian a-kasztani. Revisit. 
+ˈa k r u m , ˈa k r u $sour. VL nom. *acrus < Latin acer, cognates across Romance. C-D 3[13], Vin 61. 
+ˈa k u m , ˈa k $"needle, sting", neut. Ar, Istr, Megl ac too. Latin acus, acum was fem "wheat husk, needle". Cio 30, Vin 58. 
+ˈa k w a m , ˈa p ə $water. DER, Cand-Dens 60. Vin (81-82) rightly notes that -apa does appear as a suffix in Daco-Thracian near water bodies-- Zaldapa in Dobrogea, and further afield in Messapic (Salapia) and Celtic (Geldapa, Arnapa, Lenapa, Olepa, Manapia, Appa, Apva) and Pannonia (Apeva). But this is not necessary or even sufficiently convincing. 
+a k w ˈaː r i u m , a p ˈa r $water-bearer (vender). Cand-Dens 60, DER. May instead be apă + ar admittedly. 
+a k w aː t ˈoː s u m , a p ə t ˈo s $watery, aqueous. Cand-Dens 60. Cf Aromanian apîtos, Friulian (?̠) agadôs. 
+ˈa k w i l a m , ˈa t͡ʃ e r ə $eagle. Puşcariu, 10; REW , 582; DAR; Cioranescu, 44; Vinereanu 59. 
+a k w oː s u m , a p ˈo s $aquatic. Alternatively, apă+os. Cand-Dens 60, DER. 
+a l b ˈa s t r u m , a l b ˈa s t r u $blue. Variant nălbasatru in Bănat; Arom albastru. *ALBASTER, -ER, -RVM formed from Latin ALBVS, parallel to the formation of French blanchâtre and Italian biancastro, in the sense of "sky lihgt --> light blue --> blue". DER, Cand-Dens 37. Vinereanu considers it a post-Latin formation in Proto-Romanian off of albus... which is plausible but not necessary. 
+a l b ˈiː r e , a l b ˈi $to whiten. Cand-Dens 41. Megl albiri, Arom alǵire, alǵare -- seem to dispel worries of later derivation. 
+a l b ˈi t i a m , a l b e̯ ˈa t͡s ə $whiteness, pillowcase on the eye. Megl albeț ~ albe̩ță; arom albeață. from classical Latin ALBITIES. Cand-Dens 38. 
+a l b ˈoː r e m , a l b o̯ ˈa r e $whiteness, diffused light. DER, Cand-Dens 39. 
+ˈa l b u m , ˈa l b $white. Cand-Dens 36, DER, REW, DAR. Aro albu, Melg alb, Istr åb, Vegl jualb. Although the Latin here is unproblematic, this is attested for Dacian and Thracian onomsatics as well as Celtic and Albanian.
+ˈa l i u m , ˈa j $garlic. Widely attested across Romance. DER, Cand-Dens 25. Vinereanu's argument for pre-Latin loan is unsubstantiated, Alb aj easily comes from a widespread Latin word and it is a trade item. 
+a l l e w ˈaː t u m , a l u ˈa t $dough. DER. 
+a l t ˈaː r i u m , a l t ˈa r $altar. Istr altår, Megl altar, Albanian llter, etc. Cand-Dens 49. 
+ˈa l t e r u m , ˈa l t $other, different. Istr åt, Megl alt, Arom alt. Cand-Dens 48, DER. via ALTRVM. -r- lost to dissimilation. 
+a l t ˈi t i a m , a l t ˈi t͡s ə $embroidery at the top of a shirt. Variant altițe. DER. Vin dissents that this comes from BCSM latica, but the derivation may be the other way -- cf Italian altezza. 
+a l w e ˈaː r i u m , a l b i ˈe r $made of wood. Cand-Dens 45, possibly via a vulgar Latin ALBIARIVS, but this may be regular phonology.
+a l w ˈe o l a m , a l b i o̯ ˈa r ə $little cradle. Cand-Dens 44. Now obselete. From fem of Lat ALVEOLVM, iteslf from ALVEVS. May have been stressed on the penultimate /o/ː cf Old French aujoel "cradle". Cand-Dens lists *ALBIOLA, -AM, but this is likely unnecessary. The gender isn't a problem as Albanian nullë is actually from a similarly derived form alveolam, as surprising as that looks at first sight. 
+a l w ˈiː n a m , a l b ˈi n ə $bee; insect producing honey or wax; type of orchid. DER, Cand-Dens 46. cF Istr albire, melg albină, Arom albină and alghina, supposedly Venetian albina "hive" too (??). Posited Latin meant  "hive", as it still does in Aromanian and Venetian. However *ALBI:NA as asserted by Cand-Dens is unattested, as is the *ALVI:NA asserted by DER. Both would be from ALVEVS "hollow, cavity". Vinereanu dissents instead prefering PIE *bhei- > *bheina with a rather complicated derivation process. DER does note Albanian bletë possibly indicative of a non-Latin source however. If the Venetian form cannot be verified, exclusion may be warranted.  
+a m ˈaː r u m , a m ˈa r $bitter. DER, Cand-Dens 53. 
+a m aː r ˈi t i a m , a m ə r e̯ ˈa t͡s ə $bitterness. VL, from CL ama:ri:tie:s. -ities > -itia for Romanian. 
+a m e n d ˈu i , a m ɨ n d ˈo j $together. Form per DER. From Lat AMBO DUO ultimately, parallel forms elsewhere in Romance (via ambe in doi?)). 
+a m m a t t e ˈaː r e , a m e t͡s ˈi $to get confused, to lose one's head, to become drunk (easily). DER. Some doubts about the derivation. Greek may be metúw  responsible (Pușcariu), or some substrate thing (medos actually attested as alc. drink "mead" seemingly in Dacian Pannonia -- this is actually plausible -- Vin 78). 
+a m m o r t ˈiː r e , a m o r t͡s ˈi $to enter a period of hibernation, go numb. DER. *ammorti:re is unnattested but has parallels elsewhere in Romance. 
+a m m u t ˈiː r e , a m u t͡s ˈi $to become mute. Cand-Dens 1191. May be derivation, but cf Italian ammutire. 
+ˈa n n oː t ˈe r t i oː , a n t ˈə r t͡s $two years ago. DAR, Cioranescu 295, Vin 81. 
+ˈa n n u m , ˈa n $year. DER. 
+a p p a r ˈaː r e , a p ə r ˈa $to dodge, protect, stop, resist, guard (Lat apparāre = to prepare). DER, Cand-Dens 63, REW 534, DAR. Cognates in Istro-Romanian, Aromanian, Provençal, Spanish and Italian; others are neologisms. Dac/Trac theories unnecessary. 
+a p p e n s ˈaː r e , a p ə s ˈa $to release weight, to exert pressure, overwhelming, be annoying, sink, deepen. DER, Cand-Dens 1349, REW 544, DAR. Cf Old French apeser, Provençal apesar. Dac/Trac unnecessary. 
+a p r ˈiː k u m , ˈa p r i g $ violent, rough, blunt. Lat aprīcvs = "exposed to the sun", semantically passed through "heated". DER. This etymology is heavily contested however. DER argues the final k > g is unproblematic in light of stâng and vitreg. Tiktin argues for a Latin *apricus from aper "wild boar", which does better fit the stress pattern. REW and DAR prefer a Greek etymology; Vinereanu of course prefers Dacian. 
+a r ˈaː m e n , a r ˈa m ə $ copper;  kind/variety/nature. DER, Cand-Dens 73. *arāmen is unattested -- Class Lat was aerāmen. But this form is widely inheritedː Romansch, Catalan, Provençal, Oold French, Spanish, Portuguese, Italian, plus Albanian aramë (alongside rem -- both likely loaned from Latin, it seems most likely.). "Traco-iliric" unnecessary. 
+a r ˈaː r e , a r ˈa $to plow. DER; Candrea-Dens 67; REW 508; DAR. Well attested in Lat, widely inherited, Dacian theories or even contribution (Vin) unnecessary. 
+a r aː t ˈoː r e m , a r ə t ˈo r $plowman (noun). Now increasingly merging with (adj) arător < arātōrivs. DER. Cand-Dens 70. Lat form arātōr (nominative) cited by some but stress pattern and general behavior across Romance of course suggests it (like almost all other nouns) reflects the accusative.
+a r aː t ˈoː r i u m , a r ə t ˈo r $arable; related to plowing. Rare. DER. Cand-Dens 70. Could be contaminated by reflex of arātōrem, reexamine. 
+a r ˈaː t r u m , a r ˈa t $plow. DER. Cand-Dens 69. Rare word, seems limited to the Muscel region. Increasingly replaced with "plug". 
+a r ˈaː t u m , a r ˈa t $plowing. Cand-Dens 68. Argued to be derivative by some but unnecessaryː arātvs att in Latin w same meaning, cf Old French aré, Provençal/Spanish/Portuguese arado. Perhaps reexamine however. 
+a r a t ˈuː r a m , a r ə t ˈu r ə $ploughing, plough land. DER, DAR, REW 602, Cand-Dens 71. 
+ˈa r b o r e m , ˈa r b u r e $tree. Cand-Dens 74, DER. Variant arbore. Megl arburi, Ar arbure, Ir årbur(e). 
+a r b o r ˈeː t u m , a r b u r ˈe t $brush, grove, thicket. Cand-Dens 75. Variant arboret -- this may be citation form. Ar arburet. 
+ˈa r d e r e , ˈa r d e $to burn. Cand-Dens 78. Ir årde, Megl ardiri, Ar ardire. 
+a r g ˈe n t u m , a r d͡ʒ ˈi n t $silver. Cand-Dens 82. Ir arẑint, Megl arzint/rǎzint. Arom arzint, Alb argjent. 
+a r g e n t ˈaː r i u m , a r d͡ʒ i n t ˈa r $silversmith. Cand-Dens 83. Widespread in Romance. 
+a r g e n t ˈoː s u m , a r d͡ʒ i n t ˈo s $container made of silver. Cand-Dens 84. 
+a r k ˈaː r i u m , a r k ˈa r $bowmaker. Cand-Dens 77. Now archaic. 
+ˈa r k u m , ˈa r k $ bow, arch. Cand-Dens 76. Cf Melg arc, Ar arcu, Alb (h)ark etc. 
+aː r s ˈuː r a m , a r s ˈu r ə $burning, fire, conflagration. burn(noun). Cand-Dens 79; DER. 
+e k k u h ˈi k , a t͡ʃ ˈi $here. Variant -- aici, now predominant today (but aci is the inherited one?). Aromanian aoá, ația "there", Istr tśi(a). Camp-Den 2(8),  REW 4129, Pușcariu 12. Vinereanu 60 doesn't totally dissent but wonders about possible Umbrian and Oscan etymologies, it can probably be disregarded though. 
+e k k u h ˈo k , a k ˈo $there. Candrea-Densusianu 3[11]. 
+e k k e ˈi l l u m , a t͡ʃ ˈe l $"that" (dem prn.). Aromanian ațel. DER. Diez, I, 337; Pușcariu, 9; Candrea-Dens., 532; REW 4266; DAR. Vinereanu 59 dissents, with some interesting arguments, arguing for ac + ăl, citing Walde-Pokorny and the IEW (p24) for PIE *al, ol, implying a non-Latin source, and argues for a Balkan sprachbund relationship with Albanian kë, with later elements of analogy. His arguments that the closely related form acela has roots in some blend with Albanian or another Balkan language is more convincing however, cf Wolde-Pokorny. Revisit perhaps, consult Candrea-Densusianu. 
+e k k u ˈi s t u m , a t͡ʃ ˈe s t $"this". Megl țista, Istr țăsta. DER. DAR, Pușcariu 11; Candrea-Dens., 103; REW 4553. Vinereanu 59 is sceptical, arguing for "earlier" ăst being analogically prefixed with ac(e) at͡ʃ(e), arguing for toher Indo-European forms, while also noting that it is possible to explain acest's masculine forms through Latin, but argue that the feminine forms show parallels with Albanian and elsehwere. Keeping here for now however, revisit perhaps, look at Candrea-Densusianu.
+e k s ˈa l b i d u m , s ˈa r b ə d $pale. Arom sa(l/r)bit; cognates also in Italo-Romance (Sic sarvidu et). Cand-Dens 42. 
+m a n u ˈaː r i u m , a m n ˈa r $piece of steel with which strike sparks in a flame,  maybe used to sharpen. DER. May need revision: could also be *ignarium in another view, or from elsewhere. 
+eː r ˈi k i u m , a r ˈi t͡ʃ j $
+m a s t i k ˈaː r e , m e s t e k ˈa $to chew. DER. 
+m i k s t i k ˈaː r e , m e s t e k ˈa $to mix. DER. Unatt in Latin but widely attested in Italo-Romance (plus Albanian). 
+o k k u p ˈaː r e , a p u k ˈa $to take, catch, seize. DER. Mr apuc. Disputed etymon. All of its various senses align to Latin occupare; oc . ac is attested elsewhere: Portuguese (Puerto Santo) "acupada", Calabrese accupari. Rohlfs argues for Latin *adcupare from an obsccure *cupus -- circular logicc. Others, including but not limited to Vinereanu, instead trace it back to Indo-European *puk-, cf Greek púka, Albanian puth. Another view holds that it was from Latin occupare but not the less the metathesis was influenced by this root -- the DER holds this view. Reexamine. 
+
+a v u s , a u ʃ $ avus>auș !CV 1.1 !drom.dial 
+b a r b a t u s , b ə r b a t $ barbatus>bărbat !CV 1.1
+f a m i l i a , f ə m e a l ə $ familia>fămeal'ă !CV 1.1
+$ *feminus<femina>vrom famăn
+$ * fetiolus<fetus>rom fecior
+$ * fetiola<feta>rom fecioară
+f e t u s , f ə t $ fetus>făt !CV 1.1
+f e t a , f a t ə $ feta>fată !CV 1.1
+i u v e n i s , ʒ u n e $ iuvenis>june !CV 1.1
+m a s k u l u s , m a s k u r $ masculus>mascur !CV 1.1 !arom
+m u l i e r , m u i e r e $ mulier>muiere !CV 1.1 !alt lat: mulieris
+n a t u s , n a t $ natus>nat !CV 1.1 !drom.dial
+p u p p a , p u p ə $ puppa>pupă !CV 1.1 !arom !alt lat: puupa, arom: pup
+t e n e r , t ɨ n ə r $ tener>tânăr !CV 1.1
+v e t e r a n u s , b ə t r ɨ n $ veteranus>bătrân !CV 1.1
+$ *virgula>vrom vărgură, vergură !CV 1.1
+
+k o r p u s , k o r p $ corpus>drom.dial corp, arom corpu, megl corp !CV 1.2
+s t a t u s , s t a t $ status>stat !CV 1.2
+
+a u r i k u l a , u r e k e $ auricula>ureche !CV 1.2.1
+b a r b a , b a r b ə $ barba>barbă
+b u k k a , b u k ə $ bucca>bucă !CV 1.2.1
+k a p i t i n a , k ə p ə t͡s ɨ n ə $ capitina>căpățână !CV 1.2.1 From caput + ina.
+k a p u t , k a p $ caput>cap !CV 1.2.1
+$ k a e l u m , !!! $ "cerul gurii"? see CV 1.2.1
+k e r e b eː l l u m , k r e i e r $ cerebeellum>creier !CV 1.2.1 !!!
+k e r e b r u m , k r e i e r $ $ cerebrum>creier,creieri !CV 1.2.1 SEE NOTE
+$ *crescitus>creștet leaving out - unattested and possibly from crește + -et
+d e n s , d i n t e $ dens>dinte !CV 1.2.1
+f a k i e s , f a t͡s ə $ facies>față !CV 1.2.1
+f a l k s , f a l k ə $ falx/falcis>falcă !CV 1.2.1 !!! Verify this rom pronunciation
+f l o k k u s , f l o k $ floccus>floc !CV 1.2.1
+f r o n s , f r u n t e $ frons,frontis>frunte !CV 1.2.1
+g e n a e , g e a n ə $ genae>geană,gene !CV 1.2.1
+g i n g i v a , g i n g i e $ gingiva>gingie !CV 1.2.1
+g u l a , g u r ə $ gula>gură !CV 1.2.1
+l i n g u a , l i m b ə $ lingua>limbă !CV 1.2.1 !!! decide how to treat latin ng
+m a k s i l l a , m ə s e a $ maxilla>măsea !CV 1.2.1
+$*mustacea>mustață
+n a r i s , n a r ə $ naris>nară !CV 1.2.1
+n a s u s , n a s $ nasus>nas !CV 1.2.1
+p a l a t u m , p ə r a t͡s $ palatum>păraț (v.drom) !CV 1.2.1 also variant părătuș
+p i l u s , p ə r $ pilus>păr !CV 1.2.1
+r o s t r u m , r o s t $ rostrum>rost !CV 1.2.1 (v.rom, dial.)
+s u p e r k i l i u m , s p r ɨ n t͡ʃ a n ə $ supercilium>sprânceană !CV 1.2.1 !!! verify pronunciation
+t e m p u s , t ɨ m p l ə $ tempus>tâmplă !CV 1.2.1 (tempula attested)
+t e s t a , t͡s e a s t ə $ testa>țeastă !CV 1.2.1
+
+k e r v i k s , k e r b i t͡ʃ e $ cervix>cerbice !CV 1.2.2
+
+a n i m a , i n i m ə $ anima>inimă !CV 1.2.3
+k a t e n a , k ə t i n ə $ catena>cătină !CV 1.2.3
+k o l e u s , k o i $ coleus,coi (drom) !CV 1.2.3 (replaced w Fr?: testicul)
+k o s t a , k o a s t ə $ costa>coastă !CV 1.2.3
+k u l u s , k u r $ culus>cur !CV 1.2.3
+d o r s u m , d o s $ dorsum>dos !CV 1.2.3
+f e l , f i e r e $ fel/fellis>fiere !CV 1.2.3
+f i k a t u m , f i k a t $ ficatum>ficat
+f o l l i s , f o a l e $ follis>foale
+g l a n d u l a , g h i n d u r ə $ glandula>ghindură (arom gl'indură) !CV 1.2.3
+h u m e r u s , u m ə r $ humerus>umăr !CV 1.2.3
+$i l i a , i i e $ ilia>iie (v.rom.) !alt lat ilium !CV 1.2.3
+m a t i a , m a t͡s $ matia>maț !CV 1.2.3 !alt lat mattia
+m i n u t a l i a , m ə r u n t a i e $ minutalia>măruntaie !CV 1.2.3 !alt lat minutalium
+m u s k u l u s , m u ʃ k i $ musculus>mușchi !CV 1.2.3 !alt lat mus 
+$*noda>noadă
+p a n t e k s , p ɨ n t e s e $ pantex,panticis>pântece
+p e k t u s , p i e p t $ pectus>piept !CV 1.2.3
+p i s k i s , p e ʃ t e $ piscis>pește  (rom.pop.) !CV 1.2.3 !alt rom pescuț
+$pulmo,-onis>drom.v many variants
+r e n , r ɨ n ə $ ren,renis;renes>rână,dial.râlă !CV 1.2.3
+r e n i k u l u s , r i n i k i 
+r e n u n k u l u s , r ə r u n k i $ renunculus>rărunchi (rom.pop) !CV 1.2.3
+s i n u s , s ɨ n $ sinus>sân !CV 1.2.3
+$*sira>șiră
+s p a tʰ a , s p a t ə $ spatha>spată !CV 1.2.3
+s p i n a l i s , s p i n a r e $spinalis>spinare !CV 1.2.3
+s p l e n , s p l i n ə $ splen,-is>splină (?rom) !CV 1.2.3
+s u b u l a , s u b s u o a r ə $ subula>subsuoară !CV 1.2.3
+t i t i a , t͡s ɨ t͡s ɨ $ titia>țâțâ !CV 1.2.3
+t r u n k u l u s , t r u n k i $ trunculus>trunchi !CV 1.2.3
+u m b i l i k u s , b u r i k $ umbilicus>buric !CV 1.2.3
+v e n e n u m , v e n i n $ venenum>venin !CV 1.2.3
+v e n t e r , v i n t r e $ venter>vintre !CV 1.2.3
+v e s i k a , b ə ʃ i k ə $ vesica,vessica>bășică !CV 1.2.3
+
+a r m u s , a r m $ armus>arm (v.drom. dial.) !CV 1.2.4
+b r a kʰ kʰ i u m , b r a t͡s $ bracchium>braț !CV 1.2.4
+k a l k a n e u m , k ə l k ɨ i $ calcaneum>călcâi !CV 1.2.4
+k o k s a , k o a p s ə $ coxa>coapsă !CV 1.2.4
+k u b i t u s , k o t $ cubitus,cubitum>cot !CV 1.2.4 !alt istro kuvit
+d i g i t u s , d e d͡ʒ e t $ digitus>deget !CV 1.2.4
+d i r e k t u s , d r e p t $ directus>drept !CV 1.2.4 !! dexter - see p35(49)
+g e n u k u l u m , d͡ʒ e n u n k i $ genuculum>genunchi !CV 1.2.4 !!(where is the n from?)
+m a n u s , m ɨ n ə $ manus>mână !CV 1.2.4
+$medullarium>mădular
+n o d u s , n o d $ nodus>nod !CV 1.2.4
+p a l m a , p a l m ə $ palma>palmă !CV 1.2.4
+p e t i o l u s , p i t͡ʃ o r $ petiolus>picior !CV 1.2.4
+p o l l i k a r i s , p ə l i k a r $ pollicaris>pălicar !CV 1.2.4
+p u g n u s , p u m n $ pugnus>pumn !CV 1.2.4
+p u l p a , p u l p ə $ pulpa>pulpă !CV 1.2.4
+$*stancus>stâng
+$*talpa>talpă
+u n g u l a , u n g i e $ ungula>unghie !CV 1.2.4
+
+k a r o , k a r n e $ caro,carnis>carne !CV 1.2.5
+m e d u l l a , m ə d u v ə $ medulla>măduvă !CV 1.2.5
+o s , o s $ os,ossum>os !CV 1.2.5
+p e l l i s , p i e l e $ pellis>piele !CV 1.2.5
+s a n g u i s , s ɨ n g e $ sanguis>sânge !CV 1.2.5
+v e n a , v ɨ n ə $ vena>vână !CV 1.2.5
+
+a u d i [r e , a u z i $ audire>a-auzi !CV 1.3.1
+a s k u l t a [r e , a s k u l t a $ a(u)scultare>a-asculta !CV 1.3.1
+k i r k a [r e , t͡ʃ e r k a $ circare>a-cerca !CV 1.3.1
+g u s t a [r e , g u s t a $ gustare>a-gusta !CV 1.3.1
+g u s t u s , g u s t $ gustus>gust !CV 1.3.1
+s e n t i [r e , s i m t͡s i $ sentire>a-simți !CV 1.3.1
+v i d e [r e , v e d e a $ videre>a-vedea !CV 1.3.1
+
+$*cascare>a-căsca !CV 1.3.2
+$*resuflare>a-răsufla !CV 1.3.2
+s t e r n u t a [r e , s t r ə n u t a $ sternutare>a-strănuta !CV 1.3.2
+s u f f l a [r e , s u f l a $ sufflare>a-sufla !CV 1.3.2
+
+a s s u d a [r e , a s u d a $ assudare>a-asuda !CV 1.3.3
+$*baba>bale !CV 1.3.3
+b i b e [r e , b e a $ bibere>a-bea !CV 1.3.3
+k a k a [r e , k ə k a $ cacare>a-căca !CV 1.3.3
+e k s p r i m a [r e , s k r e m e $ exprimare>a-screme !CV 1.3.3
+f a m e s , f o a m e $ fames>foame !CV 1.3.3
+$*flammabundus>flămând !CV 1.3.3
+$*imbuccare>a-îmbuca !CV 1.3.3
+i n g l u t t i [r e , ɨ n g i t͡s i $ ingluttire>a-înghiți !CV 1.3.3
+i n t i n g e [r e , ɨ n t i n d͡ʒ e $ intingere>a-întinge !CV 1.3.3 !!!note p42
+l a k r i m a , l a k r i m ə $ lacrima>lacrimă !CV 1.3.3
+$(masticare>a-mesteca done by clayton ln99)
+m u k k u s , m u k $ muc(c)us>muc !CV 1.3.3
+$*pissi(a)re>pișa !CV 1.3.3
+$*satium>saț(iu) !CV 1.3.3
+s a t u l l u s , s ə t u l $ satullus>sătul !CV 1.3.3 (dim. of satur)
+s a t u r a [r e , s ə t u r a $ saturare>a-sătura !CV 1.3.3 !!!(see note p.44)
+$*scu(p)pire>a-scuipa !CV 1.3.3
+s i n g u l t i [r e , s u g i t͡s a $ singultire>a-sughița !CV 1.3.3
+s o r b e [r e , s o r b i $ sorbeo,-ere>a-sorbi !CV 1.3.3
+s u d o r , s u d o a r e $ sudor>sudoare !CV 1.3.3
+s u g e [r e , s u d͡ʒ e $ sugere>a-suge !CV 1.3.3
+
+k o n s t a [r e , k u s t a $ constare>a-custa (v.rom) !CV 1.3.4
+f a k t u r a , f ə p t u r ə $ factura>făptură !CV 1.3.4
+f i e [r i , f i $ fieri>a-fi !CV 1.3.4
+$futuo,-ere>??? !CV 1.3.4 !!!(missing or forgotten - see p.46)
+$*ingrevicare>a-îngreca !CV 1.3.4
+l a p i d a [r e , l e p ə d a $ lapidare>a-lepăda !CV 1.3.4 !!(?)
+n a s k o r , n a ʃ t e $nascore>a-(se)-naște !CV 1.3.4
+$*vivitia>viață !CV 1.3.4
+v i v u s , v i u $ vivus>viu !CV 1.3.4
+v i v e [r e , v i e $ vivere>a-vie,a-via !CV 1.3.4
+
+k a s t i g a [r e , k ɨ ʃ t i g a $ castigare>a-câștiga !CV 1.3.4.1
+k r e s k e [r e , k r e ʃ t e $ crescere>a-crește !CV 1.3.4.1
+$*dismerdare>a-desmierda !CV 1.3.4.1
+$*(in)fasciare>a-înfășa,fășa !CV 1.3.4.1
+$*liginare>a-legăna !CV 1.3.4.1
+
+$(addormire>a-adormi done by clayton ln23) !CV 1.3.5
+$*astruicare>a-astruca !CV 1.3.5
+$*attepire>a-ațipi !CV 1.3.5
+k o l l o k a [r e , k u l k a $ collocare>a-culca !CV 1.3.5
+$*deexcitare>a-deștepta !CV 1.3.5
+d o r m i [r e , d o r m i $ dormire>a-dormi !CV 1.3.5
+d o r m i t a [r e , d o r m i t a $ dormire>a-dormita !CV 1.3.5
+$*excubulare>a-(se)-scula !CV 1.3.5
+m a n e [r e , m ɨ n e a $ manere>a-mânea !CV 1.3.5
+m a n i k a [r e , m ɨ n e k a $ manicare>a-(se)-mâneca !CV 1.3.5
+r e p a u s a [r e , r ə p o s a $ repausare>a-răposa (v.rom) !CV 1.3.5 !alt
+p e r v i g i l a [r e , p r i v e g e a $ pervigilare>a-priveghea !CV 1.3.5
+s o m n u s , s o m n $ somnus>somn !CV 1.3.5
+v i g i l a [r e , v e g e a $ vigilare>a-veghea !CV 1.3.5
+v i s u m , v i s $ visum>vis !CV 1.3.5
+
+e k s k a l d a [r e , s k ə l d a $ excaldare>a-scălda !CV 1.3.6
+$*experlavare>a-spăla
+l a v a r e , la $ lavare>a-la,a-lăia !CV 1.3.6
+p a g a n u s , p ɨ n g ə r i $ paganus>a-pângări !CV 1.3.6 !!!adj-vb
+p e k t i n a [r e , p i e p t ə n a $ pectinare>a-pieptăna !CV 1.3.6
+s p u r k a [r e , s p u r k a $ spurcare>a-spurca !CV 1.3.6
+
+a s p e r , a s p r u $ asper>aspru !CV 1.4
+b l a n d u s , b l ɨ n d $ blandus>blând !CV 1.4
+b l a n d i t i a , b l ɨ n d e t͡s e $ blanditia>blândețe !CV 1.4
+k e r t a [r e , k e r t a $ certare>a-certa !CV 1.4
+k o m m i t t e [r e , k u m e t a $ committere>a-(se)-cumeta,a-(se)-încumete !CV 1.4
+k o m p i t u m , k u m p ə t $ compitum>cumpăt !CV 1.4
+$*compitare,*computare>a-cumpăta !CV 1.4
+k o t t i z a [r e , k u t e z a $ cottizare>a-cuteza !CV 1.4 
+$d e s i d e r a r e , d e ʃ i d e r a $ desiderare>deșidera,deșira (v.rom) !CV 1.4 !!!sus
+$(directus>drept duplicate?) !CV 1.4
+d o l e [r e , d u r e a $ dolere>a-durea !CV 1.4
+$*doliosus>duios !CV 1.4
+d o l o r , d u r o a r e $ dolor>duroare (v.rom.dial) !CV 1.4
+d o l u s , d o r $ dolus>dor !CV 1.4
+e k s p a v e [r e , s p e r i a $ expavere>a-speria !CV 1.4
+$*expavimen>spaimă !CV 1.4
+$*expavimento>a-(se)-spăimânta !CV 1.4
+$* extemperare>a-(a)stâmpăra !CV 1.4
+f e l i k s , f e r i t͡ʃ e $ felix>ferice !CV 1.4
+$*horrire>ură !CV 1.4
+i n d u r a [r e , ɨ n d u r a $ indurare>a-îndura !CV 1.4
+i n t e r r i t a [r e , ɨ n t ə r ɨ t a $ interritare>a-întărâta !CV 1.4
+i n v i t a [r e , ɨ n v i t a $ invitare>a-învita !CV 1.4 (v.rom)
+m a l u m , m a r $ malum>mar (arom.) !CV 1.4
+$*manganeare>a-mângâia !CV 1.4
+m a n i a , m ɨ n i e $ mania>mânie !CV 1.4
+m i r o r , m i r a $ miror,-ari>a-(se)-mira !CV 1.4 !!!
+m i s e r e [r e , m e s e r e a r e $ miserere>mesereare !CV 1.4 (v.rom.)
+m o n s t r a [r e , m u s t r a $monstrare>a-mustra !CV 1.4
+p a k a [r e , p ə k a $ pacare>a-păca !CV 1.4 (v.rom.)
+p a e n i t e t , p ə n ə t a $paenitet,paenitere>a-pănăta !CV 1.4 (v.rom.)
+p a t i o r , p ə t͡s i $ patior,pati>a-pați !CV 1.4
+p e n s a r e , p ə s a $ pensare>a-păsa !CV 1.4
+p e n s u m , p ə s $ pensum>păs !CV 1.4
+p i g r i t a [r e , p r e g e t a $ pigritare>a-pregeta ǃCV 1.4 ǃǃmetathesis ǃǃalt form see p59
+p l a k e [r e , p l ə t͡ʃ e a $ placere>a-plăcea !CV 1.4
+p l a n g e [ r e , p l ɨ n g e $ plangere>a-plânge !CV 1.4
+r i d e [r e , r ɨ d e $ ridere>a-râde !CV 1.4
+r i s u s , r ɨ s $ risus>râs !CV 1.4
+$*rosionem>rușine !CV 1.4
+s e n t i [r e , s i m t͡s i $ sentire>a-simți !CV 1.4
+s u f f e r r e , s u f e r i $ sufferre>a-suferi !CV 1.4 !!!INSPECT CLOSELY. -ri could be analogical.
+$*sufflitus>suflet !CV 1.4
+s u p e r a [r e , s u p ə r a $ superare>a-supăra !CV 1.4
+s u s p i r a [r e , s u s p i n a $ suspirare>suspina !CV 1.4
+$*tima>teamă
+t i m e [r e , t e m e $ timere>a-(se)-teme !CV 1.4
+t i m o r , t e m o a r e $ timor>temoare !CV 1.4
+t r e m u l a [r e , t r e m u r a $ tremulare>a-tremura !CV 1.4
+t r i s t i s , t r i s t $ tristis>trist !CV 1.4
+t u r b a [r e , t u r b a $ turbare>a-turba !CV 1.4
+t u r b u l a [r e , t u l b u r a $ turbulare>a-tulbura !CV 1.4
+v i r t u s , v ɨ r t u t e $ virtus>vârtute !CV 1.4
+
+$1.5
+v e r u m , v e r $ verum>ver !CV 1.5 (arom.)
+$*cauitare<cavitum>a-căuta !CV 1.5
+$circare>cerca done
+k i r k i t a [r e , t͡ʃ e r t͡ʃ e t a $ circitare>a-cerceta !CV 1.5
+k o g i t a [r e , k u d͡ʒ e t a $ cogitare>a-cugeta !CV 1.5
+k o g n o s k e [r e , k u n o a ʃ t e $ cognoscere>a-cunoaște !CV 1.5
+k r e d e r e , k r e d e $ credere>a-crede !CV 1.5
+$*discaptare>a-căta !CV 1.5
+i n t e l l e k t i o n i s , ɨ n t͡s e l e p t͡ʃ i u n e $ intellectionis,intellectio !CV 1.5
+i n t e l l e k t u s , ɨ n t͡s e l e p t $ intellectus>înțelept !CV 1.5
+i n t e l l i g e [r e , ɨ n t͡s e l e g e $ intelligere>a-înțelege !CV 1.5
+$*invitiare>a-învăța !CV 1.5
+i u d i k a [r e , d͡ʒ u d e k a $ iudicare>a-judeca !CV 1.5
+m e n s , m i n t e $ mens>minte !CV 1.5
+m e n t i o , m i n t͡ʃ i u n ə $ mentio,-onis>minciună !CV 1.5
+m e n t i o r , m i n t͡s i $ mentior,-iri>a-minți !CV 1.5
+$*oblitare>a-uita
+p a r e [r e , p ə r e a $ parere>a-părea !CV 1.5
+p e r k i p e [r e , p r i t͡ʃ e p e $ percipere>a-pricepe !CV 1.5
+s k i o , ʃ t i $ scio>a-ști !CV 1.5 !!Investigate
+
+$1.6.1
+s a n a r e , s ɨ n e d͡z u $ sanare,a-sânedzu !CV 1.6.1 (arom)
+s a n i t a s , s ə n ə t a t e $ sanitas>sănătate !CV 1.6.1
+s a n i t o s u s , s ə n ə t o s $ sanitosus,sănătos !CV 1.6.1
+s a n u s , s ɨ n $ sanus> sân !CV 1.6.1 (arom)
+v i n d i k a [r e , v i n d e k a $ vindicare>a-vindeca !CV 1.6.1
+$*virtuosus>vârtos !CV 1.6.1
+$virtus>vârtute done @1.4
+
+$1.6.2
+$ammortire>a-amorți !CV 1.6.2
+
+
+
+
+
+
+
+$ ./derive.sh -s -lex ../romanian-cfr/cRoLLex.txt -rules ../romanian-cfr/BaseCleR.txt -symbols ../romanian-cfr/lrsymbdefs.csv
+
+$ Check for orth ăîâșț in input:
+$     ^[^$]*[ăîâșț]
+
+$ WHEN SET IS POPULATED:
+    $ Figure out how we should treat non-rom reflexes, ie arom. sânedzu
+        $ What sound changes happened / didnțt happen in arom? etc
+    $ Get vowel length, then build lat stress
+    $ Get rom stress
+        $ Both length and stress can be pulled from dex data, maybe?
+    $ Check status of diphthongs
