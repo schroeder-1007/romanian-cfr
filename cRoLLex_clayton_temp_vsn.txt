@@ -99,7 +99,7 @@ b ˌa p t i d͡z ˈaː r e , b o t e z ˈa $to baptize. Arom. pătedzu, Alb. pag
 b ˌa s ˈi l i k a m , b i s ˈe r i k ə $church. Regular form may lie in Daco-Roman dialectal forms băseareca, besearecă, besearică. Vatasescu 1998: 449. 
 b ˌa t t u ˈaː l i a , b ə t ˈa j e $battle. Bonnet 1998(:133). Vatasescu 1997: 371. 
 b r ˈaː k a e̯ , b r ˈa t͡ʃ e. Bonnet 1998: 376, Alb brekë. From plural. 
-b r ˈoː tʰ a k u m , b r ˈo a̯ t e k $frog. Vatasescu 1997: 219. Alb. bretk, bretkosë. 
+b r ˈoː tʰ a k u m , b r ˈo a̯ t e k $frog. Vatasescu 1997: 219. Alb. bretk, bretkosë. Also involved: Romanian broască, probably. 
 
 d ˌa m n ˈaː r e , d ə u n ˈa $to damage, harm, injure. Vatasescu 1997: 421. Alb. dënoj, Old Gheg dëmënim. 
 d ˈa m n a , d ˈa w n ə $damage, injury. Seems to be from a neut. plural in -a, or a feminized form. Cf. Alb dëm. Vatasescu 1997: 421, Bonnet 1998: 378. 
@@ -113,7 +113,7 @@ d ˌo l ˈoː r e m , d u r ˈo a̯ r e $pain. CV 54. OAlb. dullye.
 d ˌu p l i k ˈaː r e , d u p l e k ˈa $to double. CV 311. Albanian dulpëkoj (Gheg dylpëkoj). 
 
 k ˈa e̯ l u m , t͡ʃ e r $sky. Vatasescu 1998: 449. Alb qiell. 
-
+$k r ˈaː t e m , g r a t ˈi e $bar, hurdle. CV 98. Alb. gratë. May have been already voiced in source. Extension in -ie? or may be from cratārium? May need to reëxamine 
 
 e k k u h ˈi k , a t͡ʃ ˈi $here. Variant -- aici, now predominant today (but aci is the inherited one?). Aromanian aoá, ația "there", Istr tśi(a). Camp-Den 2(8),  REW 4129, Pușcariu 12. Vinereanu 60 doesn't totally dissent but wonders about possible Umbrian and Oscan etymologies, it can probably be disregarded though. 
 e k k u h ˈo k , a k ˈo $there. Candrea-Densusianu 3[11]. 
@@ -313,15 +313,15 @@ $*liginare>a-legăna !CV 1.3.4.1
 $(addormire>a-adormi done by clayton ln23) !CV 1.3.5
 $*astruicare>a-astruca !CV 1.3.5
 $*attepire>a-ațipi !CV 1.3.5
-k o l l o k a [r e , k u l k a $ collocare>a-culca !CV 1.3.5
+k o l l o k aː [r e , k u l k a $ collocare>a-culca !CV 1.3.5
 $*deexcitare>a-deștepta !CV 1.3.5
-d o r m i [r e , d o r m i $ dormire>a-dormi !CV 1.3.5
+d o r m iː [r e , d o r m i $ dormire>a-dormi !CV 1.3.5
 d o r m i t a [r e , d o r m i t a $ dormire>a-dormita !CV 1.3.5
 $*excubulare>a-(se)-scula !CV 1.3.5
 m a n e [r e , m ɨ n e a $ manere>a-mânea !CV 1.3.5
 m a n i k a [r e , m ɨ n e k a $ manicare>a-(se)-mâneca !CV 1.3.5
-r e p a u s a [r e , r ə p o s a $ repausare>a-răposa (v.rom) !CV 1.3.5 !alt
-p e r v i g i l a [r e , p r i v e g e a $ pervigilare>a-priveghea !CV 1.3.5
+r e p a u s aː [r e , r ə p o s a $ repausare>a-răposa (v.rom) !CV 1.3.5 !alt
+p e r v i g i l aː [r e , p r i v e g e a $ pervigilare>a-priveghea !CV 1.3.5
 s o m n u s , s o m n $ somnus>somn !CV 1.3.5
 v i g i l a [r e , v e g e a $ vigilare>a-veghea !CV 1.3.5
 v i s u m , v i s $ visum>vis !CV 1.3.5
@@ -373,26 +373,26 @@ p l a n g e [ r e , p l ɨ n g e $ plangere>a-plânge !CV 1.4
 r i d e [r e , r ɨ d e $ ridere>a-râde !CV 1.4
 r i s u s , r ɨ s $ risus>râs !CV 1.4
 $*rosionem>rușine !CV 1.4
-s e n t i [r e , s i m t͡s i $ sentire>a-simți !CV 1.4
+s e n t iː [r e , s i m t͡s i $ sentire>a-simți !CV 1.4
 s u f f e r r e , s u f e r i $ sufferre>a-suferi !CV 1.4 !!!INSPECT CLOSELY. -ri could be analogical.
 $*sufflitus>suflet !CV 1.4
-s u p e r a [r e , s u p ə r a $ superare>a-supăra !CV 1.4
-s u s p i r a [r e , s u s p i n a $ suspirare>suspina !CV 1.4
+s u p e r aː [r e , s u p ə r a $ superare>a-supăra !CV 1.4
+s u s p i r aː [r e , s u s p i n a $ suspirare>suspina !CV 1.4
 $*tima>teamă
 t i m e [r e , t e m e $ timere>a-(se)-teme !CV 1.4
-t i m o r , t e m o a r e $ timor>temoare !CV 1.4
-t r e m u l a [r e , t r e m u r a $ tremulare>a-tremura !CV 1.4
+t i m oː r e m , t e m o a r e $ timor>temoare !CV 1.4
+t r e m u l aː [r e , t r e m u r a $ tremulare>a-tremura !CV 1.4
 t r i s t i s , t r i s t $ tristis>trist !CV 1.4
-t u r b a [r e , t u r b a $ turbare>a-turba !CV 1.4
-t u r b u l a [r e , t u l b u r a $ turbulare>a-tulbura !CV 1.4
+t u r b aː [r e , t u r b a $ turbare>a-turba !CV 1.4
+t u r b u l aː [r e , t u l b u r a $ turbulare>a-tulbura !CV 1.4
 v i r t u s , v ɨ r t u t e $ virtus>vârtute !CV 1.4
 
 $1.5
 v e r u m , v e r $ verum>ver !CV 1.5 (arom.)
 $*cauitare<cavitum>a-căuta !CV 1.5
 $circare>cerca done
-k i r k i t a [r e , t͡ʃ e r t͡ʃ e t a $ circitare>a-cerceta !CV 1.5
-k o g i t a [r e , k u d͡ʒ e t a $ cogitare>a-cugeta !CV 1.5
+k i r k i t aː [r e , t͡ʃ e r t͡ʃ e t a $ circitare>a-cerceta !CV 1.5
+k o g i t aː [r e , k u d͡ʒ e t a $ cogitare>a-cugeta !CV 1.5
 k o g n o s k e [r e , k u n o a ʃ t e $ cognoscere>a-cunoaște !CV 1.5
 k r e d e r e , k r e d e $ credere>a-crede !CV 1.5
 $*discaptare>a-căta !CV 1.5
@@ -400,9 +400,9 @@ i n t e l l e k t i o n i s , ɨ n t͡s e l e p t͡ʃ i u n e $ intellectionis,i
 i n t e l l e k t u s , ɨ n t͡s e l e p t $ intellectus>înțelept !CV 1.5
 i n t e l l i g e [r e , ɨ n t͡s e l e g e $ intelligere>a-înțelege !CV 1.5
 $*invitiare>a-învăța !CV 1.5
-i u d i k a [r e , d͡ʒ u d e k a $ iudicare>a-judeca !CV 1.5
-m e n s , m i n t e $ mens>minte !CV 1.5
-m e n t i o , m i n t͡ʃ i u n ə $ mentio,-onis>minciună !CV 1.5
+i u d i k aː [r e , d͡ʒ u d e k a $ iudicare>a-judeca !CV 1.5
+m e n t e m , m i n t e $ mens>minte !CV 1.5
+m e n t i oː n e m , m i n t͡ʃ i u n ə $ mentio,-onis>minciună !CV 1.5
 m e n t i o r , m i n t͡s i $ mentior,-iri>a-minți !CV 1.5
 $*oblitare>a-uita
 p a r e [r e , p ə r e a $ parere>a-părea !CV 1.5
@@ -411,10 +411,10 @@ s k i o , ʃ t i $ scio>a-ști !CV 1.5 !!Investigate
 
 $1.6.1
 s a n a r e , s ɨ n e d͡z u $ sanare,a-sânedzu !CV 1.6.1 (arom)
-s a n i t a s , s ə n ə t a t e $ sanitas>sănătate !CV 1.6.1
-s a n i t o s u s , s ə n ə t o s $ sanitosus,sănătos !CV 1.6.1
+s a n i t ˈaː t e m , s ə n ə t a t e $ sanitas>sănătate !CV 1.6.1
+s a n i t ˈoː s u m , s ə n ə t o s $ sanitosus,sănătos !CV 1.6.1
 s a n u s , s ɨ n $ sanus> sân !CV 1.6.1 (arom)
-v i n d i k a [r e , v i n d e k a $ vindicare>a-vindeca !CV 1.6.1
+v i n d i k ˈaː [r e , v i n d e k a $ vindicare>a-vindeca !CV 1.6.1
 $*virtuosus>vârtos !CV 1.6.1
 $virtus>vârtute done @1.4
 
