@@ -1,0 +1,9 @@
+DER = Dexonline. https://dexonline.ro/
+
+REW = Meyer-Lübke 1935 = Meyer-Lübke, Walter. 1935. Romanisches etymologisches Wörterbuch. Heidelberg: Carl Winter.
+
+Cand-Dens = Candrea, I.-A. and Densusianu, Ovid. Dicționarul etimologic al limbii române. Elementele latine. 1907-14, 2006. https://www.diacronia.ro/ro/indexing/details/B132
+
+Vatasescu 1997 = Vătăsescu, Cătălina. 1997. Vocabularul de origine latină din albaneză în comparație cu româna. Bucureșți: Vavvila Edinf SRL. ISBN 973-97996. 
+
+Bonnet 1998 = Bonnet, Guillaume. 1998. Les mots latins de l’albanais. L’Harmattan.
