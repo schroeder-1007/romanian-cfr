@@ -99,7 +99,7 @@ b ˌa p t i d͡z ˈaː r e , b o t e z ˈa $to baptize. Arom. pătedzu, Alb. pag
 b ˌa s ˈi l i k a m , b i s ˈe r i k ə $church. Regular form may lie in Daco-Roman dialectal forms băseareca, besearecă, besearică. Vatasescu 1998: 449. 
 b ˌa t t u ˈaː l i a , b ə t ˈa j e $battle. Bonnet 1998(:133). Vatasescu 1997: 371. 
 b r ˈaː k a e̯ , b r ˈa t͡ʃ e. Bonnet 1998: 376, Alb brekë. From plural. 
-b r ˈoː tʰ a k u m , b r ˈo a̯ t e k $frog. Vatasescu 1997: 219. Alb. bretk, bretkosë. Also involved: Romanian broască, probably. 
+b r ˈoː tʰ a k u m , b r o̯ ˈa t e k $frog. Vatasescu 1997: 219. Alb. bretk, bretkosë. Also involved: Romanian broască, probably. 
 
 d ˌa m n ˈaː r e , d ə u n ˈa $to damage, harm, injure. Vatasescu 1997: 421. Alb. dënoj, Old Gheg dëmënim. 
 d ˈa m n a , d ˈa w n ə $damage, injury. Seems to be from a neut. plural in -a, or a feminized form. Cf. Alb dëm. Vatasescu 1997: 421, Bonnet 1998: 378. 
@@ -109,11 +109,36 @@ d ˌeː r aː m ˈaː r e , d ə r ɨ m ˈa $to demolish, knock down. Vatasescu 
 d ˌeː s ˌiː d e r ˈaː r e , d e ʃ i d e r ˈa $to desire. Alb. dëshiroj. CV 53. 
 d i ˈaː n a , z ˈɨ n ə $type of fairy. Folkloristically and etymologically linked to Aromanian dzănă, Alb. zërë (Gheg zanë). Argued to be Proto-Alb by some but consider Asturian xana, Sardinian giana. OB 378. 
 d ˌi s k ˌa r r i k ˈaː r e , d e s k ə r k ˈa $to unload. Orel 1998: 417 (see ALLex -- Alb. sharkoj). 
-d ˌo l ˈoː r e m , d u r ˈo a̯ r e $pain. CV 54. OAlb. dullye. 
+d ˌo l ˈoː r e m , d u r o̯ ˈa r e $pain. CV 54. OAlb. dullye. 
 d ˌu p l i k ˈaː r e , d u p l e k ˈa $to double. CV 311. Albanian dulpëkoj (Gheg dylpëkoj). 
 
+k ˌɑ b ɑ l l ˈɑː r e m , k ə l ˈa r e $horseman. Alb. kaluar, kalorës. CV 329. 
 k ˈa e̯ l u m , t͡ʃ e r $sky. Vatasescu 1998: 449. Alb qiell. 
+k ˌɑ n t i k ˈe l l u m , k ɨ n t e t͡ʃ ˈɛ l $song. Alb. këngjel. OB 321.
+k ˌɑ p ˈi s t r u m , k ə p ˈə s t r u $harness. Alb. këPpresh. CV 332, OB 272-3.
+k ˌɑ p i t ˈiː n ɑ , k ə p ə t͡s ˈɨ n ə $head of dead animal whose corpse is to be eaten. Old form căpățină. Vatasescu 1997: 21. Alb kaptinë "head (familiar, vulgar)". 
+k ˈɑ w s ɑ m , k ˈa w z ə $cause. May be borrowing? See ALLex, consider removal (Alb kafshë). 
+k ˈɑ w u l ɑ m , ɡ ˈa u r ə $hole. Arom gavrǎ, Alb. gavër. CV 237. 
+k ˈeː p ɑ m , t͡ʃ e̯ a p ə $onion. Alb. qepë. cv 175. 
+k ˌeː r ɑ s i ˈɑː r i u m , t͡ʃ i r e ʃ ˈa r $June. Alb. qershor< qershuar. OB 239. Arom cirishar. 
+k ˌeː r ˈe s i ɑ , t͡ʃ i r e̯ ˈa ʃ ə $cherry. OB 334. Alb. qershi. Arom cireashǎ. 
+k ˌe r t ˈɑː r e , t͡ʃ e r t ˈa $to quarrel. Alb qërtoj. OB 377, CV 52. 
+k ˌi kʰ ˈo r eː ɑ , t͡ʃ i k o̯ ˈa r e $chicory. Alb kore. OB 377, CV 180.
+k ˌi k ˈuː t ɑ , k u k ˈu t ə $fennel, hemlock. Arom cucutǎ, Alb kukutë likely loaned from Arom. Orel 2000ː 34. See ALLex. 
+k ˌo ɡ n ˈɑː t u m , k u m n ˈa t $brother-in-law. Alb kunat. 
+k ˌo k t ˈo r i u m , k u p t ˈo ɾ $oven. Alb koftor. CV 92. 
+k ˌo m m u n i k ˈɑː r e , k u m i n e k ˈa $to recieve communion (Christianity). Alb. kungoj. Arom. cumanic. CV 451. 
+k ˈoː n s o k e r , k ˈu s k r u $father-in-law. Arom. cusc, cuscru. Alb krushk. Orel 1998: 1988-9, De Vaan 2017: 1734; see ALLex. 
+k ˌo r n ˈuː t u m , k o r n ˈu t $horned (pastoral animal). Alb. kërrutë (from fem.), Arom curnut. Topalli 2017ː 758, Orel 2000ː 34. Per ALLex.
+k ˈo r w u m , k ˈo r b $raven. Alb korb. OB 378, De Vaan 2017: 1743. Per ALLex.
+k ˌo t t i d͡z ˈɑː r e , k u t e z ˈa $to dare. Alb. kuxoj. CV 53. 
 $k r ˈaː t e m , g r a t ˈi e $bar, hurdle. CV 98. Alb. gratë. May have been already voiced in source. Extension in -ie? or may be from cratārium? May need to reëxamine 
+k r ˈi s t ɑ m , k r e̯ ˈa s t ə $crest. Alb. kreshtë. OB 378. Orel 1998ː 196. Per ALLex. 
+k ˌu k ˈuː t ɑ m , k u k ˈu t ə $hemlock. Latin was cicu:ta, V Latin form cucu:ta unattested, but well attested in Romance: cf. Romanian cucută, as well as in Gallo-Romance south of the Loire-Voges line. Bonnet 1998: 88. Per ALLEx, Alb. kukutë. 
+k ˌu r t i ˈɑː n i oː , k r u t͡s ˈa $to economize, spare; forgive. Alb. kursej. CV 441. 
+k w ˈɑ d r u m , k ˈo d r u $hill. Alb kodër. May be secondary loan from Alb. Orel 1998ː 188. See ALLex. 
+k w ˈa e̯ r e r e , t͡ʃ ˈe r e $to ask. Alb. qëroj. See ALLex. 
+kʰ ˈy l u m , t͡ʃ ˈi r $gruel, polenta. Alb. cull "broth, polenta, fat-mixed cooked flour". CV 89.
 
 e k k u h ˈi k , a t͡ʃ ˈi $here. Variant -- aici, now predominant today (but aci is the inherited one?). Aromanian aoá, ația "there", Istr tśi(a). Camp-Den 2(8),  REW 4129, Pușcariu 12. Vinereanu 60 doesn't totally dissent but wonders about possible Umbrian and Oscan etymologies, it can probably be disregarded though. 
 e k k u h ˈo k , a k ˈo $there. Candrea-Densusianu 3[11]. 
@@ -129,13 +154,37 @@ eː r ˈi k i u m , a r ˈi t͡ʃ j $TODO here.
 f ˌa b r i k ˈaː r e , f e r e k ˈa $ to hoop, chain, fetter, fortify with metal. CV 394. Alb. farkoj. 
 f ˈa l k e m , f ˈa l k ə $jaw. CV 24. 
 f ˈa r m a k u m , f ˈa r k ə k $venom. CV 480. Variant farmec perhaps influenced by derived verb a farmeca. Arom. farmac and Alb. farmak from Greek, but Old Albanian farmëk is cognate. 
-f ˌe b r u ˈaː r i u s , f ə w r ˈa r $February, dialectal. Old Gheg Alb. fruer. CV 133. 
+f ˌe b r u ˈaː r i u m , f ə w r ˈa r $February, dialectal. Old Gheg Alb. fruer. CV 133. 
 f l ˈa k u l a , f l ˈa k ə r ə $flame(s). See Alb. flakë, flakëra in ALLex for details.
 f ˌo r t ˈuː n a m , f u r t ˈu n ə $storm. Cf. Alb furtunë. CV 123.
+f ˌo s s ˈɑː t u m , s ˈa t $village. Old Romanian fsat. Alb. fshat. Aromanian fusat. CV 423. 
 f r ˈeː n u m , f r 'ɨ w $bridle, reins, restraint. Cf. Alb fre. OB 379. 
 f r ˈiː ɡ e r e , f r ˈi d͡ʒ e $to roast, fry, bake, grill. Alb fërgoj. OB 303, 380. 
 
+ɡ ˌɑ l l iː n ˈɑː k e u m , ɡ ə i n ˈa t͡s $bird droppings, especially that of a hen. CV 366. 
+ɡ l ˈɑ n d ɑ m , ɡ ˈi n d ə $acorn. Bonnet 1998: 249; see ALLex for details (Alb. lëndë, Arom. gljindǎ). This form from the -a appears inherited in a lot of Romance --REW p281-2 (n.3778). 
+ɡ l ˈɑ n d u l ɑ m , ɡ ˈi n d u r ə $gland. Aromanian gljindură, Alb. gjëndër, etc. CV p28, see ALLex for details. 
+ɡ ˈu l ɑ m , ɡ ˈu r ə $mouth. CV 25. Alb. gojë (Arb. golë). 
+ɡ ˈyː r u m , ʒ ˈu r $swirling. CV 272. Old Romanian giur. Old Albanian gjir, gjër > modern Alb. gjir. 
+ˌi n p ˌe r ɡ ˈyː r u m , ɨ m p r e ʒ ˈu r $around. CV 272. 
+
+h ˈa e̯ d u m , j e d $buck. CV 201. Arom ed, Sard edu, Alb edh. 
 h ˈo m i n e m , ˈo m $man, person. Pl. oameni. Vatasescu 1997: 17. 
+h ˌo r r ˈiː r e , u r ˈɨ $to hate. Alb. urrej, Arom. urâscu (from inchoative). CV 55. 
+
+ˌi m p ˌe r ɑː t ˈi s s ɑ m , ɨ m p ə r ə t e̯ ˈa s a $empress. Cf. Alb. perëndeshë "goddess", mbretëreshë "queen". CV 425. 
+ˌi m p e r ˈɑː t u m , ɨ m p ə r ˈa t $emperor. Cf. Alb mbret "king" < OAlb mpëret. CV 426. 
+ˌi n ˈɑ l t u m , ɨ n ˈa l t $tall, high. Alb. i naltë "tall", and separately i lartë "high". CV 224. 
+ˌi n ˌɑ l t i ˈɑː r e , ɨ n ə l t͡s ˈa $to raise. Alb. nalcoj. CV 283. 
+ˌi n k ˌɑ r r i k ˈɑː r e , ɨ n k ə r k a $to load, charge. Arom ncarcu. Alb ngarkoj. CV 46. 
+ˌi n k ˌo n ɡ ˌyː r ˈɑː r e , ɨ n k u n ʒ u r ˈa $to surround. Alb. ngashëroj. Orel 1998: 294.  
+ˌi n d i r eː k t ˈɑː r e , ɨ n d r e p t ˈa $to build. Alb ndërtoj or ndreq may be cognate. CV 308. 
+ˌi n f ˌɑ s k i ˈɑː r e , ɨ n f ə ʃ ˈa $to tie, wrap. Alb. fashqoj. CV 47.
+ˌi n ɡ ˌɑ n n ˈɑː r e , ɨ n ɡ ə n ˈa $to lie. Arom angan, ngan. Alb. ngënjej, gënjej. OB 380.  
+ˌi n w ˌi t i ˈɑː r e , ɨ n v ə t͡s ˈa $to learn. Alb. mësoj. OB 381. 
+i ˌuː d i k ˈɑː t ɑ m , ʒ u d e k ˈa t ə $judgment, trial. OB 328. Alb gjykatë "court". 
+
+
 
 
 m a n u ˈaː r i u m , a m n ˈa r $piece of steel with which strike sparks in a flame,  maybe used to sharpen. DER. May need revision: could also be *ignarium in another view, or from elsewhere. 
@@ -177,7 +226,7 @@ f a k i e s , f a t͡s ə $ facies>față !CV 1.2.1
 f a l k s , f a l k ə $ falx/falcis>falcă !CV 1.2.1 !!! Verify this rom pronunciation
 f l o k k u s , f l o k $ floccus>floc !CV 1.2.1
 f r o n s , f r u n t e $ frons,frontis>frunte !CV 1.2.1
-g e n a e , g e a n ə $ genae>geană,gene !CV 1.2.1
+g e n a e̯ , g e a n ə $ genae>geană,gene !CV 1.2.1
 g i n g i v a , g i n g i e $ gingiva>gingie !CV 1.2.1
 g u l a , g u r ə $ gula>gură !CV 1.2.1
 l i n g u a , l i m b ə $ lingua>limbă !CV 1.2.1 !!! decide how to treat latin ng
@@ -304,7 +353,7 @@ $*vivitia>viață !CV 1.3.4
 v i v u s , v i u $ vivus>viu !CV 1.3.4
 v i v e [r e , v i e $ vivere>a-vie,a-via !CV 1.3.4
 
-k a s t i g a [r e , k ɨ ʃ t i g a $ castigare>a-câștiga !CV 1.3.4.1
+k a s t i g ˈaː [r e , k ɨ ʃ t i g a $ castigare>a-câștiga !CV 1.3.4.1
 k r e s k e [r e , k r e ʃ t e $ crescere>a-crește !CV 1.3.4.1
 $*dismerdare>a-desmierda !CV 1.3.4.1
 $*(in)fasciare>a-înfășa,fășa !CV 1.3.4.1
@@ -323,7 +372,7 @@ m a n i k a [r e , m ɨ n e k a $ manicare>a-(se)-mâneca !CV 1.3.5
 r e p a u s aː [r e , r ə p o s a $ repausare>a-răposa (v.rom) !CV 1.3.5 !alt
 p e r v i g i l aː [r e , p r i v e g e a $ pervigilare>a-priveghea !CV 1.3.5
 s o m n u s , s o m n $ somnus>somn !CV 1.3.5
-v i g i l a [r e , v e g e a $ vigilare>a-veghea !CV 1.3.5
+v i g i l ˈaː [r e , v e g e a $ vigilare>a-veghea !CV 1.3.5
 v i s u m , v i s $ visum>vis !CV 1.3.5
 
 e k s k a l d a [r e , s k ə l d a $ excaldare>a-scălda !CV 1.3.6
@@ -363,7 +412,7 @@ m i r o r , m i r a $ miror,-ari>a-(se)-mira !CV 1.4 !!!
 m i s e r e [r e , m e s e r e a r e $ miserere>mesereare !CV 1.4 (v.rom.)
 m o n s t r a [r e , m u s t r a $monstrare>a-mustra !CV 1.4
 p a k a [r e , p ə k a $ pacare>a-păca !CV 1.4 (v.rom.)
-p a e n i t e t , p ə n ə t a $paenitet,paenitere>a-pănăta !CV 1.4 (v.rom.)
+p a e̯ n i t e t , p ə n ə t a $paenitet,paenitere>a-pănăta !CV 1.4 (v.rom.)
 p a t i o r , p ə t͡s i $ patior,pati>a-pați !CV 1.4
 p e n s a r e , p ə s a $ pensare>a-păsa !CV 1.4
 p e n s u m , p ə s $ pensum>păs !CV 1.4
