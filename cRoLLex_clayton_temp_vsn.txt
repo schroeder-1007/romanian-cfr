@@ -620,24 +620,131 @@ $cena>cină !CV 1.8.1
 $prandium>prânz !CV 1.8.1
 
 $1.8.2
-$allevatum>aluat
-$axungia>osânzâ
-$buccata>bucată
-$carnaceus>cârnaț (rom.pop)
-$*chylus>cir
-$farina>făină
-$*frictura>friptură
-$fructus>frupt
-$lardum,laridum>lard (rom.reg)
-$merenda>merinde
-$muria>moare (rom.reg)
-$pAnis>pâine !acc pAnem
-$pisatum>păsat
-$*pittula>pătură (drom.dial) (arom petur)
-$placenta>plăcintă
-$sal>sare !acc salem
-$sebum>seu
-$torta,turta>turtă
+$allevatum>aluat !CV 1.8.2
+$axungia>osânzâ !CV 1.8.2
+$buccata>bucată !CV 1.8.2
+$carnaceus>cârnaț (rom.pop) !CV 1.8.2
+$*chylus>cir !CV 1.8.2
+$farina>făină !CV 1.8.2
+$*frictura>friptură !CV 1.8.2
+$fructus>frupt !CV 1.8.2
+$lardum,laridum>lard (rom.reg) !CV 1.8.2
+$merenda>merinde !CV 1.8.2
+$muria>moare (rom.reg) !CV 1.8.2
+$pAnis>pâine !acc pAnem !CV 1.8.2
+$pisatum>păsat !CV 1.8.2
+$*pittula>pătură (drom.dial) (arom petur) !CV 1.8.2
+$placenta>plăcintă !CV 1.8.2
+$sal>sare !acc salem !CV 1.8.2
+$sebum>seu !CV 1.8.2
+$torta,turta>turtă !CV 1.8.2
+$victus>vipt (vrom) !CV 1.8.2
+$zema>zeamă !CV 1.8.2
+
+$1.8.3
+$mustum>must !CV 1.8.3
+$posca>puscă (arom) !CV 1.8.3
+$vinaceus>vinaț !CV 1.8.3
+
+$$$MISSING ENTRIES HERE
+
+$caucus>cauc (drom.v, dial) !CV 1.8.3
+$cavus>căuș !CV 1.8.3 !(note says '*cau+-uș')
+$coctorium>cuptor !CV 1.8.3
+$coopertorium>cărpător,cârpător !CV 1.8.3
+$furnus>furnu (arom) !CV 1.8.3
+$*gratarium>grătar !CV 1.8.3
+$lingula>lingură !CV 1.8.3
+$testum>țest !CV 1.8.3
+$vasum>vas !CV 1.8.3
+
+$1.9.1
+$battitura>bătătură
+$calamus>carămi
+$capreolus>căprior
+$casa>casă
+$cellarium>celar
+$cOrtem>curte
+$cooperimentum>coperământ !!!investigate why the o didn't raise
+$cratis>gratie !!VOV
+$culmen>culme
+$fenestra>fereastră
+$fontana>fântână
+$*fusticellus>fuscel
+$murus>mur (arom)
+$osteolum>ușor,uscior
+$ostium,ustium>ușă
+$paretem,parietem>perete !!(classical had yod - late lat lost it.)
+$porta>poartă
+$puteus>puț
+$scala>scară
+$stylus>stură
+$tenda>tindă
+$titina>țâțână
+$*traiecta>treaptă
+
+$1.9.2
+$armarium>armar (dial)
+$capitaneum>căpătâi
+$mensa>masă
+$*pattus>pat
+$scortea>scoarță
+$stratum>strat
+
+$1.10
+$*falcaria>fălcare (arom)
+$gentis>gint (v.rom)
+
+$1.10.1
+$amita>măt(ușă) !!only occurs with suffix -ușă. difficulty in explaining a-
+$avunculus>unchi !!see notes on beginning of word
+$consobrinus>cusurin (arom)
+$filius,filia>fiu,fie
+$frater>frate
+$geminus>geamăn
+$mamma>îma (drom.dial)
+$nepos>nepot
+$nepota>nepoată
+$pappus>pap
+$parentis>părinte
+$soror>sor(ă)
+$tata>tată
+$verus>văr (arom ver)
+
+1.10.2
+$barbatus>bărbat
+$cognatus>cumnat
+$cOnsocerum>cuscru !!(input form listed is consocer)
+$filiaster>fiastru (drom.v & dial & drom.reg)
+$gener>ginere
+$homo>om
+$maritus>mărit (vrom & dial)
+$noverca>nearcă (arom) !(drom.dial nuiarcă)
+$nurus>nor,noră
+$socer,socrus,socra>socru,soacră
+$socia>soață
+$socius>soț
+$spurius>spur,șpur (drom.dial)
+
+1.10.3
+$commater>cumătră !!(possible irregular stress in CL)
+$compater>cumătru
+$*filianus>fin (&arom hil'inu)
+$nonnus>nun,nunaș,nănaș,naș,nășie
+$orphanus>oarfăn (arom)
+$viduus>văduv,văduvă
+
+1.10.4
+$coronare>a-se-cununa
+$credentia>credință (dial)
+$dextrae>zestre
+$hospitium>ospăț (dial)
+$(in)uxorare>a-se-însura
+$laxare>a-lăsa
+$maritare>a-(se)-mărita
+$nuptiae>nuntă (drom)
+$petere>a-peți
+
 
 
 
