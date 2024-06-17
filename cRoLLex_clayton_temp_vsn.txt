@@ -526,7 +526,118 @@ $*virtuosus>vârtos !CV 1.6.1
 $virtus>vârtute done @1.4
 
 $1.6.2
-$ammortire>a-amorți !CV 1.6.2
+$*ammortire>a-amorți !CV 1.6.2
+$aranea>râie !CV 1.6.2
+$caecia>ceața !CV 1.6.2
+$catellus>cațel !CV 1.6.2
+$cossis,cossus>coș !CV 1.6.2
+$cyma>ciumă !CV 1.6.2
+$dolorosus>dururos !CV 1.6.2 !!'possibly formed from duroare'
+$febris>fior !CV 1.6.2
+$frigora>friguri !CV 1.6.2
+$geme(re)>a-geme !CV 1.6.2
+$gemitus>geamăt,gemet !CV 1.6.2
+$gutta>gută (?) !CV 1.6.2
+$hordeolus>urcior !CV 1.6.2
+$iace(re)>a-zăcea !CV 1.6.2
+$*laesiono>a-leșina !CV 1.6.2
+$languesco>lânjesc !CV 1.6.2
+$languidus>lânced !CV 1.6.2
+$languor>lângoare !CV 1.6.2
+$*malitiare>mărițăscu (arom) !CV 1.6.2
+$morio(r),moriri>a-muri !CV 1.6.2
+$mors>moarte !CV 1.6.2
+$morticIna>mortăciune (inf. by -ciune?) !CV 1.6.2
+$mortuus>mort !CV 1.6.2
+$naevus>neg !CV 1.6.2
+$occide(re)>a-ucide !CV 1.6.2
+$peri(re)>a-pieri !CV 1.6.2
+$petigo>pecingine (petIginem) !CV 1.6.2
+$*puronium>puroi !CV 1.6.2
+$pustula>pușchea !CV 1.6.2
+$repone(re)>a-răpune !CV 1.6.2
+$scabies,*scabia>zgaibă !CV 1.6.2
+$tussi(re)>a-tuși !CV 1.6.2
+$tussis>tuse !CV 1.6.2
+
+$1.6.3
+$balbus>a-(se)-bâlbâi (?) !CV 1.6.3 !!probably don't include
+$mancus>mânc (dial) !CV 1.6.3
+$mutus>mut !CV 1.6.3
+$orbus>orb !CV 1.6.3
+$*scloppus>șchiop !CV 1.6.3
+$*scloppare>a-șchiopa (vrom.dial) !CV 1.6.3
+$surdus>surd !CV 1.6.3
+
+$1.7.1
+$braca,bracae>brace,braci !CV 1.7.1
+$camisia>cămașă !CV 1.7.1
+$gunna>gună !arom !CV 1.7.1
+$linea,lineus>ie,iie (dialectal form ine) !CV 1.7.1
+$manica>mânecă !CV 1.7.1
+$pallium,palliolum>păioară (rom.reg) !CV 1.7.1
+$*sarica>sarică !CV 1.7.1
+$vestimentum>veșmânt !CV 1.7.1
+
+$1.7.2
+$calceamentum,calciamentum>(în)călțământ (v.rom) !CV 1.7.2
+
+$1.7.3
+$anellus>inel  !CV 1.7.3
+$brachiale>brățară !CV 1.7.3
+$circellus>cercel !CV 1.7.3
+$corona>cunună (v.rom curună) !CV 1.7.3
+$margella>mărgea !CV 1.7.3
+
+$1.7.4
+$acia>ața !CV 1.7.4
+$acus>ac !CV 1.7.4
+$balteus>balț (dial) !CV 1.7.4
+$bracile>brăcire !CV 1.7.4
+$cingula>chingă !CV 1.7.4
+$corrigia>curea !CV 1.7.4
+$fascia>fașă !CV 1.7.4
+$fasciola>fâșioară,fășioară !CV 1.7.4
+$filum>fir !CV 1.7.4
+$*glemus>ghem  !CV 1.7.4 !!maybe not from *glemus - see notes
+$ligatura>legătură !CV 1.7.4
+$vitta>bată !CV 1.7.4
+$calceare>a-încălța !CV 1.7.4
+$incingere>a-încinge !CV 1.7.4
+$consuere>a-coase !CV 1.7.4
+$disculcius>desculț !CV 1.7.4
+$discalceare>a-descălța !CV 1.7.4
+$disculciare>a-desculța !CV 1.7.4
+$*imbracare>a-îmbrăca !CV 1.7.4
+$insolare>a-însura !CV 1.7.4
+$*infasciolare>a-înfășura !CV 1.7.4
+$investire>a-învește,învești !CV 1.7.4
+$submittere>a-sumete !CV 1.7.4
+$*suffolicare>a-sufleca !CV 1.7.4
+
+$1.8.1
+$cena>cină !CV 1.8.1
+$prandium>prânz !CV 1.8.1
+
+$1.8.2
+$allevatum>aluat
+$axungia>osânzâ
+$buccata>bucată
+$carnaceus>cârnaț (rom.pop)
+$*chylus>cir
+$farina>făină
+$*frictura>friptură
+$fructus>frupt
+$lardum,laridum>lard (rom.reg)
+$merenda>merinde
+$muria>moare (rom.reg)
+$pAnis>pâine !acc pAnem
+$pisatum>păsat
+$*pittula>pătură (drom.dial) (arom petur)
+$placenta>plăcintă
+$sal>sare !acc salem
+$sebum>seu
+$torta,turta>turtă
 
 
 
@@ -534,6 +645,8 @@ $ammortire>a-amorți !CV 1.6.2
 
 
 
+
+k o l ˈo s t r u m , k o r a s t r ə $ colostrum>corastră !!!regular form should be coroastră
 $ ./derive.sh -s -lex ../romanian-cfr/cRoLLex.txt -rules ../romanian-cfr/BaseCleR.txt -symbols ../romanian-cfr/lrsymbdefs.csv
 
 $ Check for orth ăîâșț in input:
