@@ -217,6 +217,7 @@ p r ˌa e̯ d ˈɑː [r e , p r ə d a $ praedanio>a-prada
 p r ˈa e̯ b y t e r , p r e o t $ praebyter>preot
 p r ˌiː m ɑ w ˈeː r ɑ m , p r i m a v a r a $ primavera>primăvară
 p ˈu n ɡ ɑ m , p ˈu n ɡ ə $pungam>pungă From ALLex: purse, bag. A controversial etymology in Albanian as it is for Romanian pungă and Aromanian pungă. May be Latin (or later Latin), Germanic, perhaps via Latin, Greek... see Vatasescu 1997: 446 and sources therein.
+
 s ˌɑ ɡ ˈi t t ɑ m , s ə g e a t ə $ sagitta>săgeată
 s ˌɑ ɡ i t t ˈɑː [r e , s a g e t a $ sagittare>a-săgeta
 s ˈaː n k t u m , s ɨ n t $ sanctum>sânt
@@ -659,93 +660,364 @@ $testum>țest !CV 1.8.3
 $vasum>vas !CV 1.8.3
 
 $1.9.1
-$battitura>bătătură
-$calamus>carămi
-$capreolus>căprior
-$casa>casă
-$cellarium>celar
-$cOrtem>curte
-$cooperimentum>coperământ !!!investigate why the o didn't raise
-$cratis>gratie !!VOV
-$culmen>culme
-$fenestra>fereastră
-$fontana>fântână
-$*fusticellus>fuscel
-$murus>mur (arom)
-$osteolum>ușor,uscior
-$ostium,ustium>ușă
-$paretem,parietem>perete !!(classical had yod - late lat lost it.)
-$porta>poartă
-$puteus>puț
-$scala>scară
-$stylus>stură
-$tenda>tindă
-$titina>țâțână
-$*traiecta>treaptă
+$battitura>bătătură !CV 1.9.1
+$calamus>carămi !CV 1.9.1
+$capreolus>căprior !CV 1.9.1
+$casa>casă !CV 1.9.1
+$cellarium>celar !CV 1.9.1
+$cOrtem>curte !CV 1.9.1
+$cooperimentum>coperământ  !CV 1.9.1 !!!investigate why the o didn't raise
+$cratis>gratie !!VOV !CV 1.9.1
+$culmen>culme !CV 1.9.1
+$fenestra>fereastră !CV 1.9.1
+$fontana>fântână !CV 1.9.1
+$*fusticellus>fuscel !CV 1.9.1
+$murus>mur (arom) !CV 1.9.1
+$osteolum>ușor,uscior !CV 1.9.1
+$ostium,ustium>ușă !CV 1.9.1
+$paretem,parietem>perete  !CV 1.9.1 !!(classical had yod - late lat lost it.)
+$porta>poartă !CV 1.9.1
+$puteus>puț !CV 1.9.1
+$scala>scară !CV 1.9.1
+$stylus>stură !CV 1.9.1
+$tenda>tindă !CV 1.9.1
+$titina>țâțână !CV 1.9.1
+$*traiecta>treaptă !CV 1.9.1
 
 $1.9.2
-$armarium>armar (dial)
-$capitaneum>căpătâi
-$mensa>masă
-$*pattus>pat
-$scortea>scoarță
-$stratum>strat
+$armarium>armar (dial) !CV 1.9.2
+$capitaneum>căpătâi !CV 1.9.2
+$mensa>masă !CV 1.9.2
+$*pattus>pat !CV 1.9.2
+$scortea>scoarță !CV 1.9.2
+$stratum>strat !CV 1.9.2
 
 $1.10
-$*falcaria>fălcare (arom)
-$gentis>gint (v.rom)
+$*falcaria>fălcare (arom) !CV 1.10
+$gentis>gint (v.rom)!CV 1.10
 
 $1.10.1
-$amita>măt(ușă) !!only occurs with suffix -ușă. difficulty in explaining a-
-$avunculus>unchi !!see notes on beginning of word
-$consobrinus>cusurin (arom)
-$filius,filia>fiu,fie
-$frater>frate
-$geminus>geamăn
-$mamma>îma (drom.dial)
-$nepos>nepot
-$nepota>nepoată
-$pappus>pap
-$parentis>părinte
-$soror>sor(ă)
-$tata>tată
-$verus>văr (arom ver)
+$amita>măt(ușă) !CV 1.10.1 !!only occurs with suffix -ușă. difficulty in explaining a-
+$avunculus>unchi !CV 1.10.1 !!see notes on beginning of word
+$consobrinus>cusurin (arom) !CV 1.10.1
+$filius,filia>fiu,fie !CV 1.10.1
+$frater>frate !CV 1.10.1
+$geminus>geamăn !CV 1.10.1
+$mamma>îma (drom.dial) !CV 1.10.1
+$nepos>nepot !CV 1.10.1
+$nepota>nepoată !CV 1.10.1
+$pappus>pap !CV 1.10.1
+$parentis>părinte !CV 1.10.1
+$soror>sor(ă) !CV 1.10.1
+$tata>tată !CV 1.10.1
+$verus>văr (arom ver) !CV 1.10.1
 
-1.10.2
-$barbatus>bărbat
-$cognatus>cumnat
-$cOnsocerum>cuscru !!(input form listed is consocer)
-$filiaster>fiastru (drom.v & dial & drom.reg)
-$gener>ginere
-$homo>om
-$maritus>mărit (vrom & dial)
-$noverca>nearcă (arom) !(drom.dial nuiarcă)
-$nurus>nor,noră
-$socer,socrus,socra>socru,soacră
-$socia>soață
-$socius>soț
-$spurius>spur,șpur (drom.dial)
+$1.10.2
+$barbatus>bărbat !CV 1.10.2
+$cognatus>cumnat !CV 1.10.2
+$cOnsocerum>cuscru !CV 1.10.2 !!(input form listed is consocer)
+$filiaster>fiastru (drom.v & dial & drom.reg) !CV 1.10.2
+$gener>ginere !CV 1.10.2
+$homo>om !CV 1.10.2
+$maritus>mărit (vrom & dial) !CV 1.10.2
+$noverca>nearcă (arom) !(drom.dial nuiarcă) !CV 1.10.2
+$nurus>nor,noră !CV 1.10.2
+$socer,socrus,socra>socru,soacră !CV 1.10.2
+$socia>soață !CV 1.10.2
+$socius>soț !CV 1.10.2
+$spurius>spur,șpur (drom.dial) !CV 1.10.2
 
-1.10.3
-$commater>cumătră !!(possible irregular stress in CL)
-$compater>cumătru
-$*filianus>fin (&arom hil'inu)
-$nonnus>nun,nunaș,nănaș,naș,nășie
-$orphanus>oarfăn (arom)
-$viduus>văduv,văduvă
+$1.10.3
+$commater>cumătră !CV 1.10.3 !!(possible irregular stress in CL)
+$compater>cumătru !CV 1.10.3
+$*filianus>fin (&arom hil'inu) !CV 1.10.3
+$nonnus>nun,nunaș,nănaș,naș,nășie !CV 1.10.3
+$orphanus>oarfăn (arom) !CV 1.10.3
+$viduus>văduv,văduvă !CV 1.10.3
 
-1.10.4
-$coronare>a-se-cununa
-$credentia>credință (dial)
-$dextrae>zestre
-$hospitium>ospăț (dial)
-$(in)uxorare>a-se-însura
-$laxare>a-lăsa
-$maritare>a-(se)-mărita
-$nuptiae>nuntă (drom)
-$petere>a-peți
+$1.10.4
+$coronare>a-se-cununa !CV 1.10.4
+$credentia>credință (dial) !CV 1.10.4
+$dextrae>zestre !CV 1.10.4
+$hospitium>ospăț (dial) !CV 1.10.4
+$(in)uxorare>a-se-însura !CV 1.10.4
+$laxare>a-lăsa !CV 1.10.4
+$maritare>a-(se)-mărita !CV 1.10.4
+$nuptiae>nuntă (drom) !CV 1.10.4
+$petere>a-peți !CV 1.10.4
 
+$2
+$lumen>lume !CV 2
 
+$2.1
+$aperire>apir (arom) !CV 2.1
+$apponere>a-apune !CV 2.1
+$caelum>cer !CV 2.1
+$circinus>cearcăn !CV 2.1
+$excapitare>scăpăta !CV 2.1
+$lucifer>luceafăr !CV 2.1
+$luna>lună !CV 2.1
+$*resalire>a-răsări !CV 2.1
+$solem>soare !CV 2.1
+$stella>stea !CV 2.1
+
+$2.2
+$aer>aer !CV 2.2
+$aura>avră (arom) !CV 2.2
+$auster>austru !CV 2.2
+$bruma>brumă !CV 2.2
+$caldura>căldură !CV 2.2
+$calor>căroare !CV 2.2
+$fortuna>furtună !CV 2.2
+$frigus>frig !CV 2.2
+$fulgur>fulger !CV 2.2
+$gelu>ger !CV 2.2
+$glaciem>gheată !CV 2.2 !!Late lat has an alt form glaciam
+$grandinis>grindină !CV 2.2
+$nebula>negură (?) !CV 2.2
+$ninguere>a-ninge !CV 2.2
+$nix,nivis>nea !CV 2.2
+$nubilum>nor !CV 2.2
+$pluere>a-ploua !CV 2.2
+$pluvia>ploaie !CV 2.2
+$*recoris>răcoare !CV 2.2
+$ros,roris>rouă !CV 2.2
+$serenus>senin !CV 2.2
+$siccitas>secetă !CV 2.2
+$tonare>a-tuna !CV 2.2
+$ventus>vânt !CV 2.2
+
+$2.3
+$data>dată !CV 2.3
+$hora>oară !CV 2.3
+$tempus>timp !CV 2.3
+
+$2.3.1
+$alba>alba !CV 2.3.1
+$dies>ziuă !CV 2.3.1
+$hac-die,hodie>azi !CV 2.3.1
+$heri>ieri !CV 2.3.1
+$mane>mâine !CV 2.3.1
+$de-*manitia>dimineață !CV 2.3.1
+$media-nocte>miazănoapte !CV 2.3.1
+$meridies>meriză (drom.dial) !CV 2.3.1
+$nox>noapte !CV 2.3.1
+$sera>seară !CV 2.3.1
+
+$2.3.2
+$dominica>duminică !CV 2.3.2
+$iovis>joi !CV 2.3.2
+$lunae-dies>luni !CV 2.3.2
+$martis>marți !CV 2.3.2
+$mercurii>miercuri !CV 2.3.2
+$sabbatum>sâmbătă !CV 2.3.2
+$septimana>săptămână !CV 2.3.2
+$veneris>vineri !CV 2.3.2
+
+$2.3.3
+$aprilis>prier (drom.v) !CV 2.3.3
+$a(u)gustus>agust (v.rom) !CV 2.3.3
+$calendarius>cărindar !CV 2.3.3
+$febr(u)arius>făurar !CV 2.3.3
+$maius>mai (?) !CV 2.3.3
+$martius>marț (v.rom) !CV 2.3.3
+$mensis>mes (arom) !CV 2.3.3
+
+$2.3.4
+$annus>an !CV 2.3.4
+$autumnus>toamnă !CV 2.3.4
+$hibernum>iarnă !CV 2.3.4
+$ver>vară !CV 2.3.4
+$pavimentum>pământ !CV 2.3.4
+$terra>țară !CV 2.3.4
+
+$2.4.1
+$arena>arină (dial) !CV 2.4.1
+$limus>im (dial) !CV 2.4.1
+$lutum>lut !CV 2.4.1
+$petram>piatră !CV 2.4.1
+$pulveris>pulbere !CV 2.4.1
+$sessus>șes !CV 2.4.1
+$*terrina>țărână !CV 2.4.1
+
+$2.4.2
+$carbonis>cărbune !CV 2.4.2
+$marmoris>marmură !CV 2.4.2
+$picula>păcură (drom) !CV 2.4.2
+$*puteosus>pucioasă !CV 2.4.2
+
+$2.4.3
+$rugina>rugină !CV 2.4.3
+$argentum>argint !CV 2.4.3
+$aurum>aur !CV 2.4.3
+$ferrum>fier !CV 2.4.3
+$plumbum>plumb !CV 2.4.3
+
+$2.4.4
+$campus>câmp !CV 2.4.4
+$contremulare>a-cutremura (drom) !CV 2.4.4
+$crista>creastă !CV 2.4.4
+$grumus>grum (drom.dial) !CV 2.4.4
+$grumulus>grumul (drom.dial) !CV 2.4.4
+$montis>munte !CV 2.4.4
+$monticellus>muncel !CV 2.4.4
+$*plagius>plai !CV 2.4.4
+$quadrum>codru (drom) !CV 2.4.4
+$ripa>râpă !CV 2.4.4
+$scala>scara !CV 2.4.4
+$scamnum>scămnelu !! !CV 2.4.4
+$*solinus>surin (arom) !CV 2.4.4
+$vallis,valles>vale !CV 2.4.4
+
+$2.4.5
+$alveus>albie !CV 2.4.5
+$aqua>apă !CV 2.4.5
+$currere>a-cure (dial) !CV 2.4.5
+$exsuccare>usca !CV 2.4.5
+$fundus>fund !CV 2.4.5
+$gutta>gută !CV 2.4.5
+$lacus>lac !CV 2.4.5
+$mare>mare !CV 2.4.5
+$marginis>margine !CV 2.4.5
+$reversare>a-revărsa !CV 2.4.5
+$rivus>râu !CV 2.4.5
+$siccare>a-seca !CV 2.4.5
+$siccus>sec !CV 2.4.5
+$terminus>țărmure !CV 2.4.5 !!termulus - see note
+$turbulus>tulbure !CV 2.4.5
+$unda>undă !CV 2.4.5
+$vadum>vad !CV 2.4.5
+
+$2.5.1
+$cippus>cep !CV 2.5.1
+$floris>floare !CV 2.5.1
+$folium>foaie !CV 2.5.1
+$frondia>frunză !CV 2.5.1
+$*granuceum>grăunț !CV 2.5.1
+$medium>meș (drom.dial) !CV 2.5.1
+$novella>nuia !CV 2.5.1
+$palea>paie !CV 2.5.1
+$pomum>poamă !CV 2.5.1
+$radicina>rădăcină !CV 2.5.1
+$ramus>ram !CV 2.5.1
+$resina>rășină !CV 2.5.1
+$sementia>sămânță !CV 2.5.1
+$spicum>spic !CV 2.5.1
+$spinus>spin !CV 2.5.1
+$sucus>suc (?) !CV 2.5.1
+$surcellus>surcel (v.rom) !CV 2.5.1
+$*vescidus>veșted !CV 2.5.1
+$virga>vargă !CV 2.5.1
+
+$2.5.2.1
+$*alininus>anin,arin !CV 2.5.2.1
+$arboris>arbore !CV 2.5.2.1
+$carpinus>carpen !CV 2.5.2.1
+$cerrus>cer !CV 2.5.2.1
+$fagus>fag !CV 2.5.2.1
+$fraxinus>frasin,frapsăn,frapsin,frapsine !CV 2.5.2.1
+$glans,glandis>ghindă !CV 2.5.2.1
+$iugastrum>jugastru !CV 2.5.2.1
+$iuniperus>ienupăr !CV 2.5.2.1
+$mastichinus>mesteacăn !CV 2.5.2.1
+$palus>pădure !CV 2.5.2.1
+$pinus>pin !CV 2.5.2.1
+$platanus>paltin !CV 2.5.2.1
+$salix>salce !CV 2.5.2.1
+$taeda>zadă !CV 2.5.2.1
+$tilia>tei !CV 2.5.2.1
+$ulmus>ulm !CV 2.5.2.1
+
+$2.5.2.2
+$cerasea,ceresia>cireașă !CV 2.5.2.2
+$cerasus,ceresus,ceresius>cireș !CV 2.5.2.2
+$cydonium>gutăie,gutâie (drom.dial) !CV 2.5.2.2
+$cotoneum>gutui,gutâi !CV 2.5.2.2
+$melus>măr !CV 2.5.2.2
+$nux,nucis>nuc !CV 2.5.2.2
+$persicus>piersic !CV 2.5.2.2
+$persicum>piersică !CV 2.5.2.2
+$pirus>păr !CV 2.5.2.2
+$pomus>pom !CV 2.5.2.2
+$poma>poama !CV 2.5.2.2
+$prunus>prun !CV 2.5.2.2
+
+$2.5.3.1
+$abellana>alună !CV 2.5.3.1
+$columba>coroabă,corombă !CV 2.5.3.1
+$cornus>corn,coarnă !CV 2.5.3.1
+$morus,murus>mur !CV 2.5.3.1
+$mura>mură !CV 2.5.3.1
+$palumba>porumbă !CV 2.5.3.1
+$*peducellus>păducel !CV 2.5.3.1
+$uva>auă (v.rom) !CV 2.5.3.1
+$vitea>viță !CV 2.5.3.1
+
+$2.5.3.2
+$hedera>iederă !CV 2.5.3.2
+$labrusca>lăuruscă !CV 2.5.3.2
+$marrucina>mărăcine !CV 2.5.3.2
+$sabucus>soc !CV 2.5.3.2
+$sorbus>sorb !CV 2.5.3.2
+$tufa>tufă !CV 2.5.3.2
+
+$2.5.4
+$granum>grâu !CV 2.5.4
+$hordeum>orz !CV 2.5.4
+$milium>mei !CV 2.5.4
+$panicum>părinc,părâng !CV 2.5.4
+$secale>secară !CV 2.5.4
+
+$2.5.5
+$al(l)ium>ai,aiu !CV 2.5.5
+$cauliculus>curechi (dial) !CV 2.5.5
+$cepa>ceapă !CV 2.5.5
+$cucurbita>curcubetă !CV 2.5.5
+$lactuca>lăptucă !CV 2.5.5
+$legumen,leguminis>legumă,legume !CV 2.5.5
+$lens,lentis>linte !CV 2.5.5
+$napus>nap !CV 2.5.5
+$peponis>pepene !CV 2.5.5
+$porrum>pur,por !CV 2.5.5
+$radicula>ridiche !CV 2.5.5
+$vir(i)dia>varză !CV 2.5.5
+
+$2.5.6
+$fenum>fân !CV 2.5.6
+$*fenacium>fânaț !CV 2.5.6
+$herba>iarbă !CV 2.5.6
+$trifolium>trifoi !CV 2.5.6
+
+$2.5.7
+$cannabis>cânepă  !CV 2.5.7
+$linum>in !CV 2.5.7
+
+$2.5.8
+$aureolus>alior !CV 2.5.8
+$calx,calcis>calce !CV 2.5.8
+$cichorea>cicoare !CV 2.5.8
+$filix,felix,filicis>ferigă,feregă !CV 2.5.8
+$fraga>fragă !CV 2.5.8
+$fragum>frag !CV 2.5.8
+$lappa>lăpuș,lăpuc !CV 2.5.8
+$laurus>laur !CV 2.5.8
+$malva>nalbă !CV 2.5.8
+$menta>mintă !CV 2.5.8
+$*metula>mătură (?) !CV 2.5.8
+$papyrus>papură !CV 2.5.8 !!doublets papir (gm loan), papirus (lat/fr loan)
+$plantaginis>pătlagină !CV 2.5.8
+$*styphus>stuf !CV 2.5.8 !!investigate etymology
+$sulfina>sulfină !CV 2.5.8
+$urtica>urzică !CV 2.5.8
+$viola>vioară,viorea !CV 2.5.8
+$*volvula>volbură !CV 2.5.8
+
+$2.5.9
+$boletus>burete !CV 2.5.9
+$esca>iască !CV 2.5.9
+$muc(c)us>mucegai !CV 2.5.9 !!unclear to me where this ending comes from
+
+$2.6
 
 
 
