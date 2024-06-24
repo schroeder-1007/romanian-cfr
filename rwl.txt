@@ -1,7 +1,6 @@
 
 a b s k ˈo n d e r e , a s k ˈu n d e
 e ɡ z β o l ˈaː r e , z b u r ˈa
-$e k s t r a p ˈu n ɡ e r e , s t r ə p ˈu n j e $ Did pardess mess this up?
 e k s t r a p ˈu n ɡ e r e , s t r ə p ˈu n d͡ʒ e $ Fixed.
 
 ˈa n n u m , ˈa n
@@ -35,7 +34,7 @@ d ˈo m i n a m , d o̯ ˈa m n ə
 
 d ˈe k e m , z ˈe t͡ʃ e
 d ˈiː k e r e , z ˈi t͡ʃ e
-j a k ˈeː r e , z ə t͡ʃ e̯ ˈa $ (a) zăcea 'to lie'. "Dissimilation" Pardess 145
+j a k ˈeː r e , z ə t͡ʃ e̯ ˈa $ (a) zăcea 'to lie'. "Dissimilation" Pardess 145
 j o k ˈaː r e , ʒ u k ˈa
 
 d ˈe n t e m , d ˈi n t e
@@ -52,8 +51,8 @@ l ˈi ŋ n u m , l ˈe m n $ lemn 'wood'.
 p ˈu ŋ n u m , p ˈu m n $ pumn 'fist'.
 
 f a m ˈi l i a m , f ə m ˈe j e $ femeie 'woman'. "S.T.B. due to assim." Pardess 147
-ɡ a l l ˈiː n a m , ɡ ə ˈi n ə $ găină 'hen'.
-ɡ l ˈa k i a m , ɡ j ˈa t ə $ gheată 'ice'.
+ɡ a l l ˈiː n a m , ɡ ə ˈi n ə $ găină 'hen'.
+ɡ l ˈa k i a m , ɡ j ˈa t ə $ gheată 'ice'.
 
 l a w ˈaː r e , l ˈa $ (a) la 'to wash'.
 h a b ˈeː r e , a v e̯ ˈa $ (a) avea 'to have'. Pardess notes β - v is an exception.
@@ -65,44 +64,44 @@ l ˈeː ɡ e m , l ˈe d͡ʒ e $ lege 'law'.
 l ˈe p o r e m , j ˈe p u r e $ iepure 'hare'.
 l a k s ˈaː r e , l ə s ˈa $ (a) lasa 'to let'.
 
-m ˈe n s a m , m ˈa s ə $ masă 'table'.
-p ˈe n s u m , p ˈə s $ păs 'grievance'.
+m ˈe n s a m , m ˈa s ə $ masă 'table'.
+p ˈe n s u m , p ˈə s $ păs 'grievance'.
 d ˈe n s u m , d ˈe s $ des 'often'.
 
 ˈo k u l u m , ˈo k j $ ochi 'eye'.
 w ˈe t u l u m , v ˈe k j $ vechi 'old'.
 ˈa s s u l a m , ˈa s k j e $ aschie 'splinter'.
 
-p ˈe t r a m , p j ˈa t r ə $ piatră 'stone'.
-t ˈe r r a m , t͡s ˈa r ə $ t̩ară 'land'.
-p e k k ˈaː t u m , p ə k ˈa t $ păcat 'sin'.
+p ˈe t r a m , p j ˈa t r ə $ piatră 'stone'.
+t ˈe r r a m , t͡s ˈa r ə $ țară 'land'.
+p e k k ˈaː t u m , p ə k ˈa t $ păcat 'sin'.
 
 k w ˈaː l e m , k ˈa r e $ care 'which'. In Pardess' w-drop group (p61), evaded R11
-k w ˈa n d oː , k ˈɨ n d $ cînd 'when'. In Pardess' w-drop group (p61), evaded R11
-s k w ˈaː m a m , s k ˈa m ə $ scamă 'lint'. In Pardess' w-drop group (p61), evaded R11
+k w ˈa n d oː , k ˈɨ n d $ cînd 'when'. In Pardess' w-drop group (p61), evaded R11
+s k w ˈaː m a m , s k ˈa m ə $ scamă 'lint'. In Pardess' w-drop group (p61), evaded R11
 
 k w ˈa t t w o r , p ˈa t r u $ patru 'four'. Pardess parenthesizes the 2nd /w/.
-ˈa k w a m , ˈa p ə $ apă 'water'.
-ˈe k w a m , j ˈa p ə $ iapă 'mare'.
-l ˈi ŋ ɡ w a m , l ˈi m b ə $ limbă 'tongue'.
+ˈa k w a m , ˈa p ə $ apă 'water'.
+ˈe k w a m , j ˈa p ə $ iapă 'mare'.
+l ˈi ŋ ɡ w a m , l ˈi m b ə $ limbă 'tongue'.
 
-r e s ˈiː n a m , r ə ʃ i n ə $ răs̩ină 'resin'. Pardess leaves out the final schwa, seems to be a typo.
-r ˈiː w u m , r ˈɨ w $ rî 'river'.
-h o r r ˈe s k oː , u r ˈə s k $ urăsc 'I hate'.
-s k ˈiː r e , ʃ t i $ (a) s̩ti 'to know'.
+r e s ˈiː n a m , r ə ʃ i n ə $ rășină 'resin'. Pardess leaves out the final schwa, seems to be a typo.
+r ˈiː w u m , r ˈɨ w $ rî 'river'.
+h o r r ˈe s k oː , u r ˈə s k $ urăsc 'I hate'.
+s k ˈiː r e , ʃ t i $ (a) ști 'to know'.
 k r ˈeː s k oː , k r ˈe s k $ cresc 'I grow'.
-k r ˈeː s k i s , k r ˈe ʃ t j $ cres̩ti 'you grow'.
-k r ˈeː s k i t , k r ˈe s t e $ cres̩te 'he grows'.
+k r ˈeː s k i s , k r ˈe ʃ t j $ crești 'you grow'.
+k r ˈeː s k i t , k r ˈe s t e $ crește 'he grows'.
 
-s ˈe l l a m , ʃ ˈa $ s̩a 'saddle'.
-s ˈe p t e m , ʃ ˈa p t e $ s̩apte 'seven'.
-s ˈe r p e n s , ʃ ˈa r p e $ s̩arpe 'snake'.
-s ˈeː r a m , s e̯ ˈa r ə $ seară 'evening'.
+s ˈe l l a m , ʃ ˈa $ șa 'saddle'.
+s ˈe p t e m , ʃ ˈa p t e $ șapte 'seven'.
+s ˈe r p e n s , ʃ ˈa r p e $ șarpe 'snake'.
+s ˈeː r a m , s e̯ ˈa r ə $ seară 'evening'.
 s ˈa l e m , s ˈa r e $ sare 'salt'.
 s ˈo l e m , s o̯ ˈa r e $ soare 'sun'.
 
-w ˈeː n a m , v ˈɨ n ə $ vînă 'vein'.
-w ˈe n t u m , v ˈɨ n t u $ vîntu 'wind'.
+w ˈeː n a m , v ˈɨ n ə $ vînă 'vein'.
+w ˈe n t u m , v ˈɨ n t u $ vîntu 'wind'.
 w ˈe n i t , v ˈi n e $ vine 'comes'.
 w ˈiː n u m , v ˈi n $ vin 'wine'.
 w ˈiː n e a m , v ˈi j e $ vie 'vineyard'.

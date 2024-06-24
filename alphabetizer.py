@@ -8,7 +8,7 @@ with open(LEX_LOC,mode='r',encoding='utf-8') as o:
     lines = [ln.split('$')[0].strip() for ln in lines_with_comments]
 
 
-lines = [ln for ln in lines if ln != ''] 
+lines = [ln for ln in lines if ln != '']
 lines = sorted(lines)
 
 lines_with_comments = sorted([ln for ln in lines_with_comments if ln != '' and ln[0] != '$'])
