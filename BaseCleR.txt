@@ -11,10 +11,22 @@ $ Stages are included when a new chapter is reached in Pardess' rule list: ~Balk
 $
 
 
-$ Auxiliary rules necessary for Pardess' assumed Latin inputs -- From CLEF, from Pope (1934):
+$ Auxiliary rules necessary for Pardess' assumed Latin inputs 
 
-    $p102 s220 (also p73 s156i)  -- yod and w formation -- gliding of unstressed short non-low vowels before other vowels
+    $p102 s220 (also p73 s156i)  -- yod and w formation -- gliding of unstressed short non-low vowels before other vowels -- From CLEF, from Pope (1934):
         [+syl,-long,-stres,-lo] > [+hi,-syl,+tense] / __ [+syl]
+
+    $ ensure orthographic -gn- cluster is phonemically fully nasal - should be applied in lexicon but just in case:
+        g > ŋ / __ n
+
+    $ y unrounds, or vacuously any front vowel does.
+        [+front,+round] > [-round,-lab]
+
+    $ aspiration in gk loans is lost
+        [+cons,+sg] > [-sg]
+
+    $ ignore secondary stress, as it is probably not relevant for Romanian
+        [+stres,-prim] > [-stres]
 
 $ CHAPTER 4
 $ THE EARLY CHANGES FROM CLASSICAL LATIN TO THE SLAVIC INVASIONS
@@ -98,6 +110,8 @@ $
 
         $ R10C
             $ R10Ca Partial assimilation of velars
+                $ This is not assimilation, just a change of place of articulation after stressed vowel.
+                    $ Strong case could be made here that this change was phonetically motivated.
                 $ Pardess: [-cont,-ant,-cor] > [+ant] / [+stres] __ [+ant,+cor]
                 k > p / [+stres] __ [+ant,+cor]
                 ŋ > m /  [+stres] __ [+ant,+cor]
@@ -130,13 +144,14 @@ $
             $ Didn't affect deum - Pardess says nothing about this.
 
         $ R13B Raising of [o] and [e]
+            $ (When adjacent to another vowel)
             [+syl,-lo,-long,-stres] > [+hi] / __ [+syl]
             [+syl,-lo,-long,-stres] > [+hi] / [+syl] __
 
         $ R13C Contraction of Vowel Combinations
             $ "Two sequential identical vowels coalesce."
-            [αhi,βlo,ɣfront,ðback] > ∅ / [αhi,βlo,ɣfront,ðback,+stres] __
-            [αhi,βlo,ɣfront,ðback] > ∅ / __ [αhi,βlo,ɣfront,ðback]
+            [+syl,αhi,βlo,ɣfront,ðback] > ∅ / [αhi,βlo,ɣfront,ðback,+stres] __
+            [+syl,αhi,βlo,ɣfront,ðback] > ∅ / __ [+syl,αhi,βlo,ɣfront,ðback]
 
 
         $ R13D Loss of syllabicity of high vowels
@@ -244,7 +259,7 @@ $
 
     $ R23 Degemination of consonants except the alveolar resonants [ll], [nn] and [rr]
         $ TODO look into this; ll,nn,rr > ʎ,ɲ,r eventually right? Why not at this time?
-        {p p;t t;k k;b b;d d;g g;s s;z z; t͡ʃ t͡ʃ;t͡s t͡s;d͡ʒ d͡ʒ;d͡z d͡z;m m;ŋ ŋ} > {p;t;k;b;d;g;s;z;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
+        {p p;t t;k k;b b;d d;g g;s s;z z;f f;v v; t͡ʃ t͡ʃ;t͡s t͡s;d͡ʒ d͡ʒ;d͡z d͡z;m m;ŋ ŋ} > {p;t;k;b;d;g;s;z;f;v;t͡ʃ;t͡s;d͡ʒ;d͡z;m;ŋ}
 
     $ R24 Affrication of velars: [k], [g] > [č], [ǰ] before a front vowel
         $ Pardess: [-cont,-ant,-cor,-delrel] > [+cor,+delrel] > __ [-cons,-back]
@@ -256,7 +271,7 @@ $
 
     $ R25 {Final s -> j or ∅}
         $ R25A Development of final -s in monosyllabic words
-            s > j / __ #
+            s > j / [+stres] __ #
             $ Pardess' exact rule is [s] > [h] > [ç] > [y] / __ #
             $ Pardess doesn't scope his formal rule to monosyllabic words but the title shows he intends it
 
@@ -511,8 +526,7 @@ $
         j > ∅ / __ ˈi
 
     $ R57 [yea] > [ya]
-        e̯ > ∅ / j __ a
-        e̯ > ∅ / j __ ˈa
+        e̯ > ∅ / j __ [+syl,+lo]
 
     $ R58 Assimilation: word-final [ə] > [e] after [i]
         $ Pardess: ə > [-back] / i __ #
