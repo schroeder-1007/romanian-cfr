@@ -616,144 +616,141 @@ p r ˈa n d i u m , p r ˈɨ n z $prandium>prânz !CV 1.8.1
 
 $1.8.2
 $allevatum>aluat !CV 1.8.2
-$axungia>osânzâ !CV 1.8.2
-$buccata>bucată !CV 1.8.2
+a k s ˈu n g i a , o s ɨ n z ɨ $axungia>osânzâ !CV 1.8.2
+! , b u k ˈa t ə $buccata>bucată !CV 1.8.2
 $carnaceus>cârnaț (rom.pop) !CV 1.8.2
-$*chylus>cir !CV 1.8.2
-$farina>făină !CV 1.8.2
-$*frictura>friptură !CV 1.8.2
-$fructus>frupt !CV 1.8.2
-$lardum,laridum>lard (rom.reg) !CV 1.8.2
-$merenda>merinde !CV 1.8.2
-$muria>moare (rom.reg) !CV 1.8.2
-$pAnis>pâine !acc pAnem !CV 1.8.2
-$pisatum>păsat !CV 1.8.2
-$*pittula>pătură (drom.dial) (arom petur) !CV 1.8.2
-$placenta>plăcintă !CV 1.8.2
-$sal>sare !acc salem !CV 1.8.2
-$sebum>seu !CV 1.8.2
-$torta,turta>turtă !CV 1.8.2
-$victus>vipt (vrom) !CV 1.8.2
-$zema>zeamă !CV 1.8.2
+kʰ ˈyː l u m , t͡ʃ ˈi r $*chylus>cir !CV 1.8.2
+f a r ˈiː n a , $farina>făină !CV 1.8.2
+f r i k t ˈuː r a m , f r i p t ˈu r ə $*frictura>friptură !CV 1.8.2
+f r ˈuː k t u s , f r ˈu p t $fructus>frupt !CV 1.8.2
+l ˈa r d u m , l ˈa r d $lardum,laridum>lard (rom.reg) !CV 1.8.2
+m e r ˈe n d a , m e r ˈi n d e $merenda>merinde !CV 1.8.2
+m ˈu r i a m , m o̯ ˈa r e $muria>moare (rom.reg) !CV 1.8.2
+p ˈaː n e m , p ˈɨ j n e$pAnis>pâine !acc pAnem !CV 1.8.2
+p iː s ˈaː t u m , p ə s ˈa t $pisatum>păsat !CV 1.8.2
+p ˈi t t u l a m , p ˈə t u r ə $*pittula>pătură (drom.dial) (arom petur) !CV 1.8.2
+p l a k ˈe n t a , p l ə t͡s ˈi n t ə $placenta>plăcintă !CV 1.8.2
+s ˈaː l e m , s ˈa r e $sal>sare !acc salem !CV 1.8.2
+s ˈeː b u m , s ˈe w $sebum>seu !CV 1.8.2
+t ˈo r t a m , t ˈu r t ə $torta,turta>turtă !CV 1.8.2
+w ˈiː k t u m , v ˈi p t $victus>vipt (vrom) !CV 1.8.2
+z ˈe m a , z e̯ ˈa m ə $zema>zeamă !CV 1.8.2
 
 $1.8.3
-$mustum>must !CV 1.8.3
-$posca>puscă (arom) !CV 1.8.3
-$vinaceus>vinaț !CV 1.8.3
+m ˈu s t u m , m ˈu s t $mustum>must !CV 1.8.3
+p ˈo s c a , p ˈu s c ə $posca>puscă (arom) !CV 1.8.3
+w iː n ˈaː k e u s , v i n ˈa t͡s $vinaceus>vinaț !CV 1.8.3
 
 $$$ MISSING ENTRIES HERE
 
 $caucus>cauc (drom.v, dial) !CV 1.8.3
-$cavus>căuș !CV 1.8.3 !(note says '*cau+-uș')
-$coctorium>cuptor !CV 1.8.3
-$coopertorium>cărpător,cârpător !CV 1.8.3
+k ˈa w u s , k ə u ʃ $cavus>căuș !CV 1.8.3 !(note says '*cau+-uș')
+k o k t ˈo r i u m , k u p t ˈo r $coctorium>cuptor !CV 1.8.3
+k o o p e r t ˈoː r i u m , k ə r p ə t ˈo r $coopertorium>cărpător,cârpător !CV 1.8.3
 $furnus>furnu (arom) !CV 1.8.3
-$*gratarium>grătar !CV 1.8.3
-$lingula>lingură !CV 1.8.3
-$testum>țest !CV 1.8.3
-$vasum>vas !CV 1.8.3
+g r a t ˈaː r i u m , g r ə t ˈa r $*gratarium>grătar !CV 1.8.3
+l ˈi n g u l a m , l i n g u r ə $lingula>lingură !CV 1.8.3
+t ˈe s t u m , t͡s ˈe s t $testum>țest !CV 1.8.3
+w ˈaː s u m , v ˈa s $vasum>vas !CV 1.8.3
 
 $1.9.1
-$battitura>bătătură !CV 1.9.1
-$calamus>carămi !CV 1.9.1
-$capreolus>căprior !CV 1.9.1
-$casa>casă !CV 1.9.1
-$cellarium>celar !CV 1.9.1
-$cOrtem>curte !CV 1.9.1
-$cooperimentum>coperământ  !CV 1.9.1 !!!investigate why the o didn't raise
-$cratis>gratie !!VOV !CV 1.9.1
-$culmen>culme !CV 1.9.1
-$fenestra>fereastră !CV 1.9.1
-$fontana>fântână !CV 1.9.1
-$*fusticellus>fuscel !CV 1.9.1
-$murus>mur (arom) !CV 1.9.1
-$osteolum>ușor,uscior !CV 1.9.1
-$ostium,ustium>ușă !CV 1.9.1
+b a t t i t u r a m , b ə t ə t u r ə $battitura>bătătură !CV 1.9.1
+k ˈa l a m u s , k ˈa r ə m i $calamus>carămi !CV 1.9.1 !!probably alt lex
+k a p r ˈe o l u m , k ə p r i ˈo r $capreolus>căprior !CV 1.9.1 !examine stress shift
+k ˈa s a m , k ˈa s ə $casa>casă !CV 1.9.1
+k e l l ˈaː r i u m , t͡ʃ e l ˈa r $cellarium>celar !CV 1.9.1
+k ˈoː r t e m , k ˈu r t e $cOrtem>curte !CV 1.9.1
+k o o p e r iː m ˈe n t u m , k o p e r ə m ˈɨ n t $cooperimentum>coperământ  !CV 1.9.1 !!!investigate why the o didn't raise
+k r ˈaː t i s , g r ˈa t j e $cratis>gratie !!VOV !CV 1.9.1
+k ˈu l m e n , k u l m e $culmen>culme !CV 1.9.1
+f e n ˈe s t r a m , f e r e̯ ˈa s t r ə $fenestra>fereastră !CV 1.9.1
+f o n t ˈaː n a , f ɨ n t ˈɨ n ə $fontana>fântână !CV 1.9.1
+f u s t i k ˈe l l u s , f u s t͡ʃ e l $*fusticellus>fuscel !CV 1.9.1 !(this is alternately spelled fușcel - what is the pronunciation?)
+o s t ˈe o l u m , u ʃ ˈo r $osteolum>ușor,uscior !CV 1.9.1
+ˈoː s t i u m , ˈu ʃ ə $ostium,ustium>ușă !CV 1.9.1
 $paretem,parietem>perete  !CV 1.9.1 !!(classical had yod - late lat lost it.)
-$porta>poartă !CV 1.9.1
-$puteus>puț !CV 1.9.1
-$scala>scară !CV 1.9.1
-$stylus>stură !CV 1.9.1
-$tenda>tindă !CV 1.9.1
-$titina>țâțână !CV 1.9.1
-$*traiecta>treaptă !CV 1.9.1
+p ˈo r t a m , p o̯ ˈa r t ə $porta>poartă !CV 1.9.1
+p ˈu t e u m , p ˈu t͡s $puteus>puț !CV 1.9.1
+s k ˈaː l a m , s k a r ə $scala>scară !CV 1.9.1
+s t ˈy l u m , s t ˈu r ə $stylus>stură !CV 1.9.1
+t ˈe n d a , t ˈi n d ə $tenda>tindă !CV 1.9.1
+t i t ˈi n a m , t͡s ɨ t͡s ˈɨ n ə $titina>țâțână !CV 1.9.1
+t r aː j ˈe c t a m , t r e̯ ˈa p t ə $*traiecta>treaptă !CV 1.9.1
 
 $1.9.2
-$armarium>armar (dial) !CV 1.9.2
-$capitaneum>căpătâi !CV 1.9.2
-$mensa>masă !CV 1.9.2
-$*pattus>pat !CV 1.9.2
-$scortea>scoarță !CV 1.9.2
-$stratum>strat !CV 1.9.2
+a r m ˈaː r i u m , a r m ˈa r $armarium>armar (dial) !CV 1.9.2
+k a p i t ˈaː n e u m , k ə p ə t ˈɨ j $capitaneum>căpătâi !CV 1.9.2
+m ˈe n s a m , m ˈa s ə $mensa>masă !CV 1.9.2
+p ˈa t t u m , p ˈa t $*pattus>pat !CV 1.9.2
+s k ˈo r t e a , s k o̯ ˈa r t͡s ə $scortea>scoarță !CV 1.9.2
+s t r ˈaː t u m , s t r ˈa t $stratum>strat !CV 1.9.2
 
 $1.10
-$*falcaria>fălcare (arom) !CV 1.10
-$gentis>gint (v.rom)!CV 1.10
+g ˈe n t e m , d͡ʒ ˈi n t $gentis>gint (v.rom)!CV 1.10
 
 $1.10.1
-$amita>măt(ușă) !CV 1.10.1 !!only occurs with suffix -ușă. difficulty in explaining a-
-$avunculus>unchi !CV 1.10.1 !!see notes on beginning of word
-$consobrinus>cusurin (arom) !CV 1.10.1
-$filius,filia>fiu,fie !CV 1.10.1
-$frater>frate !CV 1.10.1
-$geminus>geamăn !CV 1.10.1
-$mamma>îma (drom.dial) !CV 1.10.1
-$nepos>nepot !CV 1.10.1
-$nepota>nepoată !CV 1.10.1
-$pappus>pap !CV 1.10.1
-$parentis>părinte !CV 1.10.1
-$soror>sor(ă) !CV 1.10.1
-$tata>tată !CV 1.10.1
-$verus>văr (arom ver) !CV 1.10.1
+ˈa m i t a , m ə t $amita>măt(ușă) !CV 1.10.1 !!only occurs with suffix -ușă. difficulty in explaining a-
+a w ˈu n k u l u s , u n k j $avunculus>unchi !CV 1.10.1 !!see notes on beginning of word
+f ˈiː l i u m , f i w $filius,filia>fiu,fie !CV 1.10.1
+f ˈiː l i a m , f i e $ (see filium.)
+f r ˈaː t e r , f r ˈa t e $frater>frate !CV 1.10.1
+g ˈe m i n u s , d͡ʒ e̯ ˈa m ə n $geminus>geamăn !CV 1.10.1
+m ˈa m m a , ˈɨ m a $mamma>îma (drom.dial) !CV 1.10.1
+n ˈe p oː s , n e p ˈo t $nepos>nepot !CV 1.10.1 !!stress shift maybe due to analogy with nepoată?
+n e p ˈoː t a , n e p o̯ ˈa t ə $nepota>nepoată !CV 1.10.1
+p ˈa p p u s , p ˈa p $pappus>pap !CV 1.10.1
+p a r ˈe n t i s , p ə r ˈi n t e $parentis>părinte !CV 1.10.1
+s ˈo r o r , s ˈo r $soror>sor(ă) !CV 1.10.1
+t ˈa t a m , t ˈa t ə $tata>tată !CV 1.10.1
+w ˈeː r u m , v ˈə r $verus>văr (arom ver) !CV 1.10.1
 
 $1.10.2
-$barbatus>bărbat !CV 1.10.2
-$cognatus>cumnat !CV 1.10.2
-$cOnsocerum>cuscru !CV 1.10.2 !!(input form listed is consocer)
-$filiaster>fiastru (drom.v & dial & drom.reg) !CV 1.10.2
-$gener>ginere !CV 1.10.2
-$homo>om !CV 1.10.2
-$maritus>mărit (vrom & dial) !CV 1.10.2
-$noverca>nearcă (arom) !(drom.dial nuiarcă) !CV 1.10.2
-$nurus>nor,noră !CV 1.10.2
-$socer,socrus,socra>socru,soacră !CV 1.10.2
-$socia>soață !CV 1.10.2
-$socius>soț !CV 1.10.2
-$spurius>spur,șpur (drom.dial) !CV 1.10.2
+b a r b ˈaː t u m , b ə r b ˈa t $barbatus>bărbat !CV 1.10.2
+k o g n ˈaː t u m , k u m n ˈa t $cognatus>cumnat !CV 1.10.2
+k oː n s o k e r u m , k ˈu s k r u $cOnsocerum>cuscru !CV 1.10.2 !!(input form listed is consocer)
+f iː l i ˈa s t r u m , f j ˈa s t r u $filiaster>fiastru (drom.v & dial & drom.reg) !CV 1.10.2
+g ˈe n e r u m , d͡ʒ ˈi n e r e $gener>ginere !CV 1.10.2
+h ˈo m oː , ˈo m $homo>om !CV 1.10.2
+m a r ˈiː t u s , m ə r ˈi t $maritus>mărit (vrom & dial) !CV 1.10.2
+$n o w ˈe r k a , ??? $noverca>nearcă (arom) !(drom.dial nuiarcă) !CV 1.10.2
+n ˈu r u m , n ˈo r $nurus>nor,noră !CV 1.10.2
+s ˈo k e r u m , s ˈo k r u $socer,socrus,socra>socru,soacră !CV 1.10.2
+s o k i a , s o̯ ˈa t͡s ə $socia>soață !CV 1.10.2
+s ˈo k i u s , s ˈo t͡s $socius>soț !CV 1.10.2
+s p ˈu r i u s , s p ˈu r $spurius>spur,șpur (drom.dial) !CV 1.10.2
 
 $1.10.3
-$commater>cumătră !CV 1.10.3 !!(possible irregular stress in CL)
-$compater>cumătru !CV 1.10.3
-$*filianus>fin (&arom hil'inu) !CV 1.10.3
-$nonnus>nun,nunaș,nănaș,naș,nășie !CV 1.10.3
-$orphanus>oarfăn (arom) !CV 1.10.3
-$viduus>văduv,văduvă !CV 1.10.3
+k o m m ˈaː t r e m , k u m ˈə t r ə $commater>cumătră !CV 1.10.3 !!(possible irregular stress in CL)
+k o m p ˈaː t r e m , k u m ˈə t r u $compater>cumătru !CV 1.10.3
+f iː l i ˈaː n u m , f ˈi n $*filianus>fin (&arom hil'inu) !CV 1.10.3
+n ˈo n n u m , n ˈu n $nonnus>nun,nunaș,nănaș,naș,nășie !CV 1.10.3
+ˈo r pʰ a n u m , o̯ ˈa r f ə n $orphanus>oarfăn (arom) !CV 1.10.3
+w ˈi d u u m , v ˈə d u v $viduus>văduv,văduvă !CV 1.10.3
 
 $1.10.4
-$coronare>a-se-cununa !CV 1.10.4
-$credentia>credință (dial) !CV 1.10.4
-$dextrae>zestre !CV 1.10.4
-$hospitium>ospăț (dial) !CV 1.10.4
-$(in)uxorare>a-se-însura !CV 1.10.4
-$laxare>a-lăsa !CV 1.10.4
-$maritare>a-(se)-mărita !CV 1.10.4
-$nuptiae>nuntă (drom) !CV 1.10.4
-$petere>a-peți !CV 1.10.4
+k o r oː n ˈaː , c u n u n ˈa $coronare>a-se-cununa !CV 1.10.4
+k r eː d ˈe n t i a m , k r e d ˈi n t͡s ə $credentia>credință (dial) !CV 1.10.4
+d ˈe k s t r a e̯ , z ˈe s t r e $dextrae>zestre !CV 1.10.4
+h o s p ˈi t i u m , o s p ˈə t͡s $hospitium>ospăț (dial) !CV 1.10.4
+i n u k s o r ˈaː , ɨ n s u r ˈa $(in)uxorare>a-se-însura !CV 1.10.4
+l a k s ˈaː , l ə s ˈa $laxare>a-lăsa !CV 1.10.4
+m a r i t ˈaː , m ə r i t ˈa $maritare>a-(se)-mărita !CV 1.10.4
+n ˈuː p t i a e̯ , n u n t ə $nuptiae>nuntă (drom) !CV 1.10.4
+p ˈe t e , p ˈe t͡s i $petere>a-peți !CV 1.10.4
 
 $2
-$lumen>lume !CV 2
+l ˈuː m e n , l ˈu m e $lumen>lume !CV 2
 
 $2.1
-$aperire>apir (arom) !CV 2.1
-$apponere>a-apune !CV 2.1
-$caelum>cer !CV 2.1
-$circinus>cearcăn !CV 2.1
-$excapitare>scăpăta !CV 2.1
-$lucifer>luceafăr !CV 2.1
-$luna>lună !CV 2.1
-$*resalire>a-răsări !CV 2.1
-$solem>soare !CV 2.1
-$stella>stea !CV 2.1
+a p p ˈoː n e , a p ˈu n e $apponere>a-apune !CV 2.1
+$k a e̯ l u m , t͡ʃ e r $caelum>cer !CV 2.1 (duplicate)
+k ˈi r k i n u s , t͡ʃ e̯ ˈa r k ə n $circinus>cearcăn !CV 2.1
+e k s k a p i t ˈaː , s k ə p ə t ˈa $excapitare>scăpăta !CV 2.1
+l uː k ˈi f e r u m , l u k e̯ ˈa f ə r $lucifer>luceafăr !CV 2.1
+l ˈuː n a m , l ˈu n ə $luna>lună !CV 2.1
+r e s a l ˈiː , r ə s ə r i $*resalire>a-răsări !CV 2.1
+s ˈoː l e m , s o̯ ˈa r e $solem>soare !CV 2.1
+s t ˈeː l l a m , s t e̯ ˈa $stella>stea !CV 2.1
 
 $2.2
 $aer>aer !CV 2.2
