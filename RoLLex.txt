@@ -259,7 +259,7 @@ $ * fetiola<feta>rom fecioară
 f ˈeː t u s , f ˈə t $ fetus>făt !CV 1.1
 f ˈeː t a , f ˈa t ə $ feta>fată !CV 1.1
 j ˈu w e n i s , ʒ ˈu n e $ iuvenis>june !CV 1.1 ǃǃpossible contamination from jeune?
-m ˈa s k u l u m , m ˈa s k u r $ masculus>mascur !CV 1.1 !arom
+m ˈa s k u l u m , m ˈa s k u r $ In Romanian proper, wild boar. Dialectally, coastrated pig. masculus>mascur. Cf. Alb. mashkull "male", as in Aromanian. !CV 1.1, 2.6 !arom
 m ˈu l i e r e m , m u j ˈe r e $ mulier>muiere !CV 1.1 !alt lat: mulieris
 n ˈaː t u m , n ˈa t $ natus>nat !CV 1.1 !drom.dial
 $p u p p a , p u p ə $ puppa>pupă !CV 1.1 !arom !alt lat: puupa, arom: pup
@@ -1009,6 +1009,11 @@ $esca>iască !CV 2.5.9
 $muc(c)us>mucegai !CV 2.5.9 !!unclear to me where this ending comes from
 
 $2.6 
+ˌa n i m ˈaː l i a , n ə m ˈa j e $sheep. animalia > nămaie. Cf. Aromanian animalium > nămal'ǐǔ, nimal'ǐǔ. 
+d ˌo m ˈe s t i k u m , d u m ˈe s t i k $domestic, tame. domesticus > dumestic, dumestec. Also as dumes(t)nic (influence of Slavic -nic?). Old Romanian dumeas(t)-nic. Cf Vatasescu p191
+
+
+
 
 $2.6.1 
 b r ˈa n k a m , b r ˈɨ n k ə $palm, paw. branca > brâncă. From Celtic og. !CV 2.6.1
