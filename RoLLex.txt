@@ -656,7 +656,7 @@ w ˈaː s u m , v ˈa s $vasum>vas !CV 1.8.3
 $1.9.1
 b a t t i t u r a m , b ə t ə t u r ə $battitura>bătătură !CV 1.9.1
 k ˈa l a m u s , k ˈa r ə m i $calamus>carămi !CV 1.9.1 !!probably alt lex
-k a p r ˈe o l u m , k ə p r i ˈo r $capreolus>căprior !CV 1.9.1 !examine stress shift
+k a p r ˈe o l u m , k ə p r i ˈo r $capreolus>căprior !CV 1.9.1, 2.6.3 !examine stress shift
 k ˈa s a m , k ˈa s ə $casa>casă !CV 1.9.1
 k e l l ˈaː r i u m , t͡ʃ e l ˈa r $cellarium>celar !CV 1.9.1
 k ˈoː r t e m , k ˈu r t e $cOrtem>curte !CV 1.9.1
@@ -1081,6 +1081,17 @@ w ˌi t ˈe l l a m , v i t͡s e̯ ˈa $heifer, young female calf. vitella > vi�
 w ˌi t ˈe l l u m , v i t͡s ˈe l $calf, veal. vitellus > vițel
 w ˌi t ˈu l e u m , v ə t ˈu j $yearling kid (goat), hare. Disputed, may be substrate, and/or related to OAlb fëtujë > Alb ftujë, ftuj-ak, dial ftulë, vetul, vëtulë. Arom vitul'ǔ. Vatasescu 205. vituleus > vătui. 
 w ˌi t ˈu l e a m , v ə t ˈu j e $female kid, young hare. See above. vitulea > vătuie. Arom vitul'e. 
+
+$2.6.3
+b ˈuː b a l u m , b ˈo w r $type of wild cow, esp auroch. Tosk buall, Gheg buell, OAlb (Buzuku) buoll. v.rom. buăr, boăr, buor, boor, bohor, bor. bubalus > bour. 
+k ˈe r w u m , t͡ʃ ˈe r b $deer. cervus > cerb. 
+ˌeː r ˈiː k i u m , a r ˈi t͡ʃ $hedgehog. Alb iriq, uriq. ericius > arici. 
+l ˈe p o r e m , j ˈe p u r e $rabbit. Alb lepur (G lepër). arom. lepure, l'epure, l'ǐopur. lepus > iepure. 
+l ˈu p u m , l ˈu p $wolf. lupus > lup. 
+m ˌi k s t ˈiː k i u m , m i s t r ˈe t͡s $mutt, half-breed, esp of pigs. mixticius > mistreţ. 
+s ˈoː r i k e m , ʃ o̯ ˈa r e t͡ʃ e $mouse. Arom shoaric, shorãc. Sorex > şoarece. 
+ˈu r s u m , ˈu r s $bear. ursus > urs. 
+w ˈu l p e m , v ˈu l p e $fox. vulpes > vulpe. Possibly Alb (Maja) volp-ul.
 
 
 $CV 4.6.4
