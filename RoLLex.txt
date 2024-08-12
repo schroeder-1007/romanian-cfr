@@ -239,11 +239,11 @@ t ˈo r t ɑ , t o a r t ə $ torta>toartă
 
 ˌu l u l ˈɑː , u r l a $ ululare>a-urla
 
-w ˌɑ l ˈoː r e m , v a l o a r e $ valorem>valoare !!! See ALLex - CV regards this as being derived off valere
-w ˌeː s s ˈiː k ɑ m , b ə ʃ i k ə $ vessicam>bășică !!! See notes in ALLex
-w ˈi s k u m , v ɨ s k $ viscum>vâsc
-w ˌi t ˈu l e ɑ , v ə t u j $ vitulea>vătui
-w ˈiː t r i k u s , v i t r e g $ vitricus>vitreg
+w ˌɑ l ˈoː r e m , v a l o̯ ˈa r e $ valorem>valoare !!! See ALLex - CV regards this as being derived off valere
+w ˌeː s s ˈiː k ɑ m , b ə ʃ ˈi k ə $ vessicam>bășică !!! See notes in ALLex
+w ˈi s k u m , v ˈɨ s k $ viscum>vâsc
+w ˌi t ˈu l e ɑ , v ə t ˈu j $ vitulea>vătui
+w ˈiː t r i k u s , v ˈi t r e g $ vitricus>vitreg
 
 
 $
@@ -487,7 +487,7 @@ t i m ˈeː , t e m ˈe $ timere>a-(se)-teme !CV 1.4
 t i m ˈoː r e m , t e m o̯ ˈa r e $ timor>temoare !CV 1.4
 t r e m u l ˈaː , t r e m u r ˈa $ tremulare>a-tremura !CV 1.4
 t r ˈiː s t i s , t r ˈi s t $ tristis>trist !CV 1.4
-t u r b ˈaː , t u r b ˈa $ turbare>a-turba !CV 1.4
+t u r b ˈaː , t u r b ˈa $ turbare>a-turba !CV 1.4, 2.6. Alb tërboj. 
 t u r b u l ˈaː , t u l b u r ˈa $ turbulare>a-tulbura !CV 1.4
 w i r t ˈuː t e m , v ɨ r t ˈu t e $ virtus>vârtute !CV 1.4
 
@@ -616,11 +616,11 @@ p r ˈa n d i u m , p r ˈɨ n z $prandium>prânz !CV 1.8.1
 
 $1.8.2
 $allevatum>aluat !CV 1.8.2
-a k s ˈu n g i a , o s ɨ n z ɨ $axungia>osânzâ !CV 1.8.2
-$! , b u k ˈa t ə $buccata>bucată !CV 1.8.2
+a k s ˈu n g i a , o s ˈɨ n z ɨ $axungia>osânzâ !CV 1.8.2
+! , b u k ˈa t ə $buccata>bucată !CV 1.8.2
 $carnaceus>cârnaț (rom.pop) !CV 1.8.2
 kʰ ˈyː l u m , t͡ʃ ˈi r $*chylus>cir !CV 1.8.2
-$f a r ˈiː n a , $farina>făină !CV 1.8.2
+f a r ˈiː n a , $farina>făină !CV 1.8.2
 f r i k t ˈuː r a m , f r i p t ˈu r ə $*frictura>friptură !CV 1.8.2
 f r ˈuː k t u s , f r ˈu p t $fructus>frupt !CV 1.8.2
 l ˈa r d u m , l ˈa r d $lardum,laridum>lard (rom.reg) !CV 1.8.2
@@ -650,7 +650,7 @@ k o o p e r t ˈoː r i u m , k ə r p ə t ˈo r $coopertorium>cărpător,cârp
 $furnus>furnu (arom) !CV 1.8.3
 g r a t ˈaː r i u m , g r ə t ˈa r $*gratarium>grătar !CV 1.8.3
 l ˈi n g u l a m , l i n g u r ə $lingula>lingură !CV 1.8.3
-t ˈe s t u m , t͡s ˈe s t $testum>țest !CV 1.8.3
+t ˈe s t u m , t͡s ˈe s t $testum>țest !CV 1.8.3, 2.6 
 w ˈaː s u m , v ˈa s $vasum>vas !CV 1.8.3
 
 $1.9.1
@@ -753,8 +753,8 @@ s ˈoː l e m , s o̯ ˈa r e $solem>soare !CV 2.1
 s t ˈeː l l a m , s t e̯ ˈa $stella>stea !CV 2.1
 
 $2.2
-$aer>aer !CV 2.2
-$aura>avră (arom) !CV 2.2
+ˈaː e r e m , ˈa j e r $aer>aer !CV 2.2. Arom air, airu. Nom āēr; other accsg  āera apparently. 
+ˈa w r a m , ˈa w r ə $aura>avră (arom), meglenoromanian aură !CV 2.2. Going with meglenoromanian for now. Consider removal.
 $auster>austru !CV 2.2
 $bruma>brumă !CV 2.2
 $caldura>căldură !CV 2.2
@@ -936,7 +936,7 @@ $prunus>prun !CV 2.5.2.2
 $2.5.3.1
 $abellana>alună !CV 2.5.3.1
 $columba>coroabă,corombă !CV 2.5.3.1
-$cornus>corn,coarnă !CV 2.5.3.1
+k ˈo r n uː , k ˈo r n $horn. Actually from latin cornū. In Vatasescu, cornu>corn,coarnă !CV 2.5.3.1. Aromanian cornu. 
 $morus,murus>mur !CV 2.5.3.1
 $mura>mură !CV 2.5.3.1
 $palumba>porumbă !CV 2.5.3.1
@@ -1009,12 +1009,27 @@ $esca>iască !CV 2.5.9
 $muc(c)us>mucegai !CV 2.5.9 !!unclear to me where this ending comes from
 
 $2.6
+b r ˈa n k a m , b r ˈɨ n k ə $palm, paw. branca > brâncă. From Celtic og. !CV 2.6
+k ˈoː d a m , k o̯ ˈa d ə $tail. cauda, coda > coadă. !CV 2.6
+k ˈo m a m , k o̯ ˈa m ə $mane. coma > coamă. Alb komë. ǃCV 2.6
+d ˌeː p ˈoː n e , d e p ˈu n e $to conceive (cattle), to stay heavy. deponere > a depune. !CV 2.6
+ˌe k s t ˌi r p ˈeː , s t ɨ r p ˈi $to eradicate. May be substrate. Based on extirpus (see below). Cf. Alb shterpoj, shterpënoj. Vatasescu 1997: p193. 
+ˌe k s t ˈi r p u m , s t ˈe r p $sterile (animals). Disputed, cf. Vatasescu 1997: p193. Cf. Alb shterp-ë. extirpus > sterp. 
+f ˌeː t ˈaː , f ə t ˈa $ to birth, foal, litter, calve etc. fetare > a făta. 
+l ˈa k t e , l ˈa p t e $milk. lacte > lapte. 
+m ˈuː l a m , m ˈu r ə $stomach of ruminating animal. Cf. Alb mullë. Arom amură. Claimed as substrate by some. Cf. Vatasescu p194. 
+p ˈa l l i u m , p ˈa j $sheep wool of spring. pallium > pai. Dialectal. 
+p ˈa n t i k e m , p ˈɨ n t e t͡ʃ e $belly, womb. pantex > pântece. Possibly alb plëndës per Vatasescu p195. 
+r ˌuː m i g ˈaː , r u m e g ˈa $chew, masticate, ruminate. Megl rumig, Aromainan aroamig (arumigari). rumigare > a rumega
+ˈuː b e r , ˈu d͡ʒ e r $udder. 
 
 
 
 
 
 
+
+$CV 4.6.4
 
 k o l ˈo s t r u m , k o r a s t r ə $ colostrum>corastră !!!regular form should be coroastră
 $ ./derive.sh -s -lex ../romanian-cfr/cRoLLex.txt -rules ../romanian-cfr/BaseCleR.txt -symbols ../romanian-cfr/lrsymbdefs.csv
