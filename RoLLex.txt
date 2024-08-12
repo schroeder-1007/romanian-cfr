@@ -237,7 +237,7 @@ s t ˈuː l ɑ , s t ˈu r ə $ stula>stură. Romanian dialectal stură, Old Rom
 
 t ˈo r t ɑ , t o̯ ˈa r t ə $ torta>toartă
 
-ˌu l u l ˈɑː , u r l ˈa $ ululare>a-urla
+ˌu l u l ˈɑː , u r l ˈa $ ululare>a-urla. ǃCV 2.6.1 
 
 w ˌɑ l ˈoː r e m , v a l o̯ ˈa r e $ valorem>valoare !!! See ALLex - CV regards this as being derived off valere
 w ˌeː s s ˈiː k ɑ m , b ə ʃ ˈi k ə $ vessicam>bășică. Alb fshikë, mpshikë, mbshikë. ǃCV2.6.1  !!! See notes in ALLex
@@ -1041,9 +1041,10 @@ r ˈa g e , r ˈa d͡ʒ e $to roar, howl, bellow. ragere > a rage.
 r h ˌo n k i d͡z ˈaː , r ɨ n k e z ˈa $to neigh. rhoncizare > a râncheza. 
 r ˌiː m ˈaː , r ɨ m ˈa $to nuzzle, rout. rimare > a râma. 
 
-
-
-
+$2.6.2
+ˌa d m i s s ˈaː r i u m , a r m ə s ˈa r $stallion. Alb. harmëshor. admissarius > armăsar. May be from armissarius, perhaps reconsider. 
+ˌa g n ˈe l l u m , m j ˈe l $lamb. agnellus > miel. Aromanian & Megl njel. istro-Romanian ml'e.
+ˌa n n ˈoː t i n u m , n o̯ ˈa t e n $hogget, yearling (lambs). Arom. and dialectal Romanian noatin. annotinus > noaten.
 
 
 $CV 4.6.4
