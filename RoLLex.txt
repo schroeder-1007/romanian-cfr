@@ -218,26 +218,26 @@ p r ˈa e̯ b y t e r , p r e o t $ praebyter>preot
 p r ˌiː m ɑ w ˈeː r ɑ m , p r i m a v a r a $ primavera>primăvară
 p ˈu n g ɑ m , p ˈu n g ə $pungam>pungă From ALLex: purse, bag. A controversial etymology in Albanian as it is for Romanian pungă and Aromanian pungă. May be Latin (or later Latin), Germanic, perhaps via Latin, Greek... see Vatasescu 1997: 446 and sources therein.
 
-s ˌɑ g ˈi t t ɑ m , s ə g e a t ə $ sagitta>săgeată
-s ˌɑ g i t t ˈɑː , s a g e t a $ sagittare>a-săgeta
-s ˈaː n k t u m , s ɨ n t $ sanctum>sânt
-s ˈa p p a , s a p ə $ sappa>sapă. mattock.
+s ˌɑ g ˈi t t ɑ m , s ə d͡ʒ e̯ ˈa t ə $ sagitta>săgeată
+s ˌɑ g i t t ˈɑː , s a d͡ʒ e t ˈa $ sagittare>a-săgeta
+s ˈaː n k t u m , s ˈɨ n t $ sanctum>sânt
+s ˈa p p a , s ˈa p ə $ sappa>sapă. mattock.
 s a p p ˈa , s ə p ˈa $ sappare>a-sapă. to dig.
-s ˈɑ r i k ɑ m , s a r i k ə $ saricam>sarică
-s ˌe k r ˈeː t u s , s ə k r e t $ secretus>săcret
+s ˈɑ r i k ɑ m , s a r ˈi k ə $ saricam>sarică
+s ˌe k r ˈeː t u s , s ə k r ˈe t $ secretus>săcret
 s ˈe l l ɑ , ʃ ˈa l e $ sella>șale
 s ˈe r r ɑ , ʃ ˈa r ə $ serra>shară. Arom.
-s k ˈɑ m n u m , s k a u n $ scamnum>scaun. !!Look into outcomes of mn
-s k ˌi n t ˈi l i ɑ , s k ɨ n t e j e $ scintilia>scânteie.
-s p ˈi s s u s , s p e s $ spissus>spes. Arom.
-s t r a m b u s , s t r ɨ m b $ strambus>strâmb
-s t ˈu p p ɑ , s t u p ə $ stuppa>stupă
-a d s t u p p a , a s t u p a $ adstuppare>a-astupa
-s t ˈuː l ɑ , s t u r ə $ stula>stură. Romanian dialectal stură, Old Romanian stur. Vatasescu 1997 p93. Clayton notes it may be Gk
+s k ˈɑ m n u m , s k ˈa u n $ scamnum>scaun. !!Look into outcomes of mn
+s k ˌi n t ˈi l i ɑ , s k ɨ n t ˈe j e $ scintilia>scânteie.
+s p ˈi s s u s , s p ˈe s $ spissus>spes. Arom.
+s t r a m b u s , s t r ˈɨ m b $ strambus>strâmb
+s t ˈu p p ɑ , s t ˈu p ə $ stuppa>stupă
+a d s t u p p a , a s t ˈu p a $ adstuppare>a-astupa
+s t ˈuː l ɑ , s t ˈu r ə $ stula>stură. Romanian dialectal stură, Old Romanian stur. Vatasescu 1997 p93. Clayton notes it may be Gk
 
-t ˈo r t ɑ , t o a r t ə $ torta>toartă
+t ˈo r t ɑ , t o̯ ˈa r t ə $ torta>toartă
 
-ˌu l u l ˈɑː , u r l a $ ululare>a-urla
+ˌu l u l ˈɑː , u r l ˈa $ ululare>a-urla
 
 w ˌɑ l ˈoː r e m , v a l o̯ ˈa r e $ valorem>valoare !!! See ALLex - CV regards this as being derived off valere
 w ˌeː s s ˈiː k ɑ m , b ə ʃ ˈi k ə $ vessicam>bășică. Alb fshikë, mpshikë, mbshikë. ǃCV2.6.1  !!! See notes in ALLex
@@ -1011,8 +1011,8 @@ $muc(c)us>mucegai !CV 2.5.9 !!unclear to me where this ending comes from
 $2.6 
 ˌa n i m ˈaː l i a , n ə m ˈa j e $sheep. animalia > nămaie. Cf. Aromanian animalium > nămal'ǐǔ, nimal'ǐǔ. 
 d ˌo m ˈe s t i k u m , d u m ˈe s t i k $domestic, tame. domesticus > dumestic, dumestec. Also as dumes(t)nic (influence of Slavic -nic?). Old Romanian dumeas(t)-nic. Cf Vatasescu p191
-
-
+s ˌi l w ˈaː t i k u m , s ə l b ˈa t i k $wild, savage. Megl. sălbatic. Also Rom dial sălbatec. silvaticus > sălbatec. 
+w ˈiː t a m , v ˈi t ə $cow, ox, beast, brute; beef. From Latin "life". Moldavian jită. vita > vită. 
 
 
 $2.6.1 
@@ -1023,6 +1023,7 @@ d ˌeː p ˈoː n e , d e p ˈu n e $to conceive (cattle), to stay heavy. depone
 ˌe k s t ˌi r p ˈeː , s t ɨ r p ˈi $to eradicate. May be substrate. Based on extirpus (see below). Cf. Alb shterpoj, shterpënoj. Vatasescu 1997: p193. 
 ˌe k s t ˈi r p u m , s t ˈe r p $sterile (animals). Disputed, cf. Vatasescu 1997: p193. Cf. Alb shterp-ë. extirpus > sterp. 
 f ˌeː t ˈaː , f ə t ˈa $ to birth, foal, litter, calve etc. fetare > a făta. 
+ˌi n k ˌa b a l l i k ˈaː , ɨ n k ə l e k ˈa $to mount (a horse). Albanian ngalk-o-.
 l ˈa k t e , l ˈa p t e $milk. lacte > lapte. 
 m ˈuː l a m , m ˈu r ə $stomach of ruminating animal. Cf. Alb mullë. Arom amură. Claimed as substrate by some. Cf. Vatasescu p194. 
 p ˈa l l i u m , p ˈa j $sheep wool of spring. pallium > pai. Dialectal. 
@@ -1030,6 +1031,15 @@ p ˈa n t i k e m , p ˈɨ n t e t͡ʃ e $belly, womb. pantex > pântece. Possib
 r ˌuː m i g ˈaː , r u m e g ˈa $chew, masticate, ruminate. Megl rumig, Aromainan aroamig (arumigari). rumigare > a rumega
 ˈuː b e r , ˈu d͡ʒ e r $udder. 
 
+$2.6.1.1 
+g ˌa r r ˈiː , g ɨ r ˈɨ j $to growl. May be influenced by onomomatopoeia. Also as a cârâi; câr, gâr as nouns(?). Arom. gără'scu "to chirp. garrire > gârâi. Possibly Alb garrit. 
+$ grundīre, grunnīre > Arom grun'edzu. 
+l ˌaː t r ˈaː , l ə t r ˈa $to bark, bay, yelp. latrare > a lătra. 
+m ˌo r s i k ˈaː , m u r s e k ˈa $to bite and tear. morsicare > a murseca. 
+m ˌuː g ˈiː , m u d͡ʒ ˈi $to moo. mugire > a mugi. 
+r ˈa g e , r ˈa d͡ʒ e $to roar, howl, bellow. ragere > a rage. 
+r h ˌo n k i d͡z ˈaː , r ɨ n k e z ˈa $to neigh. rhoncizare > a râncheza. 
+r ˌiː m ˈaː , r ɨ m ˈa $to nuzzle, rout. rimare > a râma. 
 
 
 
