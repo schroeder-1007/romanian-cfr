@@ -617,10 +617,10 @@ p r ˈa n d i u m , p r ˈɨ n z $prandium>prânz !CV 1.8.1
 $1.8.2
 $allevatum>aluat !CV 1.8.2
 a k s ˈu n g i a , o s ɨ n z ɨ $axungia>osânzâ !CV 1.8.2
-! , b u k ˈa t ə $buccata>bucată !CV 1.8.2
+$! , b u k ˈa t ə $buccata>bucată !CV 1.8.2
 $carnaceus>cârnaț (rom.pop) !CV 1.8.2
 kʰ ˈyː l u m , t͡ʃ ˈi r $*chylus>cir !CV 1.8.2
-f a r ˈiː n a , $farina>făină !CV 1.8.2
+$f a r ˈiː n a , $farina>făină !CV 1.8.2
 f r i k t ˈuː r a m , f r i p t ˈu r ə $*frictura>friptură !CV 1.8.2
 f r ˈuː k t u s , f r ˈu p t $fructus>frupt !CV 1.8.2
 l ˈa r d u m , l ˈa r d $lardum,laridum>lard (rom.reg) !CV 1.8.2
