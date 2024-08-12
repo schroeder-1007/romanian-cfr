@@ -259,7 +259,7 @@ $ * fetiola<feta>rom fecioară
 f ˈeː t u s , f ˈə t $ fetus>făt !CV 1.1
 f ˈeː t a , f ˈa t ə $ feta>fată !CV 1.1
 j ˈu w e n i s , ʒ ˈu n e $ iuvenis>june !CV 1.1 ǃǃpossible contamination from jeune?
-m ˈa s k u l u m , m ˈa s k u r $ In Romanian proper, wild boar. Dialectally, coastrated pig. masculus>mascur. Cf. Alb. mashkull "male", as in Aromanian. !CV 1.1, 2.6 !arom
+m ˈa s k u l u m , m ˈa s k u r $ In Romanian proper, wild boar. Dialectally, coastrated pig. masculus>mascur. Cf. Alb. mashkull "male", as in Aromanian. !CV 1.1, 2.6.2 !arom
 m ˈu l i e r e m , m u j ˈe r e $ mulier>muiere !CV 1.1 !alt lat: mulieris
 n ˈaː t u m , n ˈa t $ natus>nat !CV 1.1 !drom.dial
 $p u p p a , p u p ə $ puppa>pupă !CV 1.1 !arom !alt lat: puupa, arom: pup
@@ -524,7 +524,7 @@ $1.6.2
 a m m o r t ˈiː , a m o r t͡s ˈi $*ammortire>a-amorți !CV 1.6.2
 a r ˈa n e a m , r ɨ j e $aranea>râie !CV 1.6.2
 k ˈa e̯ k i a , t͡ʃ e̯ ˈa t͡s ə $caecia>ceața !CV 1.6.2
-k a t ˈe l l u m , k ə t͡s ˈe l $catellus>cațel !CV 1.6.2
+k a t ˈe l l u m , k ə t͡s ˈe l $catellus>cațel !CV 1.6.2, 2.6.2
 k ˈo s s i s , k ˈo ʃ $cossis,cossus>coș !CV 1.6.2
 k ˈy m a , t͡ʃ ˈu m ə $cyma>ciumă !CV 1.6.2
 d o l oː r ˈoː s u s , d u r u r ˈo s $dolorosus>dururos !CV 1.6.2 !!'possibly formed from duroare'
@@ -1045,6 +1045,42 @@ $2.6.2
 ˌa d m i s s ˈaː r i u m , a r m ə s ˈa r $stallion. Alb. harmëshor. admissarius > armăsar. May be from armissarius, perhaps reconsider. 
 ˌa g n ˈe l l u m , m j ˈe l $lamb. agnellus > miel. Aromanian & Megl njel. istro-Romanian ml'e.
 ˌa n n ˈoː t i n u m , n o̯ ˈa t e n $hogget, yearling (lambs). Arom. and dialectal Romanian noatin. annotinus > noaten.
+ˌa r ˈi e t e m , a r ˈe t e $uncastrated ram. aries > arete. Aromanian areate. 
+ˈa s i n u m , ˈa s i n $donkey. asinus > asin.
+b ˈo v e m , b ˈo w $cow. Megl bou, Arom bou. bos > bou. 
+k ˌa b ˈa l l u m , k ˈa l $horse. Alb. kalë, OAlb kual. caballus > cal. 
+k ˈa n e m , k ˈɨ j n e $dog. Alb. qen (?). Aromainan cãni, cãne, cheni; Istr căre; Megl cǫini. Rom dial câne. canis > câine. 
+k ˈa p r a m , k ˈa p r ə $goat. capra > capră. 
+k ˌa p r ˈiː n a m , k ə p r ˈi n ə $Sheep with stretched wool. not in sense of "caprine (type of caprid, goat like animal)", that is a loan. caprina > căprină. 
+k ˌa t ˈe l l a m , k ə t͡s e̯ ˈa $female dog (also derogatory for humans). catella > cățea.  Aromanian cãtsauã, cãtsau.
+k ˈo k k i n u m , k o̯ ˈa t͡ʃ i n $ reddish/brownish spots on head of sheep. Aromanian: coatsin. coccinus > coacin. Dialectal. 
+k ˌo r n ˈu t u m , k o r n ˈu t $horned. Alb kërrut-ë, Arom curnut. cornutus >  cornut.  
+ˈe k w a m , j ˈa p ə $mare. Arom eapã, iapã; Istr  iopě,  Megl iapǎ. equa >  iapă. 
+h ˈa e̯ d u m , j ˈe d $fawn, (donkey) kid. Alb edh. haedus > ied. 
+i ˌuː n ˈiː k e m , ʒ u n ˈi t͡ʃ e $heifer, young female calf. Now resuffixed in juninca, junica, junince. iunix > junincă.
+i ˌu w ˈe n k u m , ʒ ˈu n k $young bullock. Aromanian giuncu. iuvencus > junc. 
+i ˌu w ˈe n k a m , ʒ ˈu n k ə $heifer. iuvenca > juncă.
+m ˈu s k u l u m , m ˈu s k u r $(sheep or goat)of a white color and black spots on the muzzle, or vice versa; (horse) gray, hunt dog(?). Uncertain. May be substrate. Arom mușcur influenced by alb mushkëllyer. musculus > muscur. 
+$ ovinus > arom. uin, uina. 
+ˌo w ˈiː n a m , ˈo j n ə $mutton. Old Romanian. ovina > oină. 
+ˈo w e m , o̯ ˈa j e $sheep. ovis > oaie. 
+p ˌe k u ˈiː n a m , p ə k ˈu j n ə $milk sheep. Dialectal. pecuinus > păcuină. 
+p ˈo r k u m , p ˈo r k $pig. porcus > porc. 
+p ˌo r k ˈe l l u m , p u r t͡ʃ ˈe l $piglet. porcellus > purcel. 
+p ˌo r k ˈe l l a m , p u r t͡ʃ e̯ ˈa $sow. porcella > purcea. 
+p ˌo r k ˈiː n a m , p u r t͡ʃ ˈi n ə $pork (meat). Dialectal. Arom purțină. porcina > porcină. 
+r ˈu b e u m , r ˈo j b $red or brown-haired (horses). Rubeus > roib. 
+s k r ˈoː f a m , s k r o̯ ˈa f ə $sow. scrofa> scroafă. 
+t ˈa w r u m , t ˈa w r $bull. Arom tavru. Alb. ter. taurus > taur.
+t ˌe r t i ˈaː n u m , t e r t͡s ˈɨ n $lamb or calf of 1-3 years. Dialetal. Also as terțin, tersân. tertianus > terțân.
+t ˈe r t i u m , t ˈe r t͡s i w $third. Also as terţâu, tărţiu. tertius > terţiu. 
+w ˈa k k a m , v ˈa k ə $(female) cow. Vacca > vacă. 
+w ˈe r r e m , v j ˈe r $uncastrated pig. verres > vier. 
+b ˌe r b ˈeː k e m , b e r b ˈe t͡ʃ e $wether (castrated ram). berbex > berbece. Version with b- widely in Romance even though its from Latin vervex. 
+w ˌi t ˈe l l a m , v i t͡s e̯ ˈa $heifer, young female calf. vitella > vițea.
+w ˌi t ˈe l l u m , v i t͡s ˈe l $calf, veal. vitellus > vițel
+w ˌi t ˈu l e u m , v ə t ˈu j $yearling kid (goat), hare. Disputed, may be substrate, and/or related to OAlb fëtujë > Alb ftujë, ftuj-ak, dial ftulë, vetul, vëtulë. Arom vitul'ǔ. Vatasescu 205. vituleus > vătui. 
+w ˌi t ˈu l e a m , v ə t ˈu j e $female kid, young hare. See above. vitulea > vătuie. Arom vitul'e. 
 
 
 $CV 4.6.4
