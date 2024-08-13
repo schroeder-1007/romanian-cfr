@@ -136,7 +136,7 @@ $k r ˈaː t e m , g r a t ˈi e $bar, hurdle. CV 98. Alb. gratë. May have bee
 k r ˈi s t ɑ m , k r e̯ ˈa s t ə $crest. Alb. kreshtë. OB 378. Orel 1998ː 196. Per ALLex. 
 k ˌu k ˈuː t ɑ m , k u k ˈu t ə $hemlock. Latin was cicu:ta, V Latin form cucu:ta unattested, but well attested in Romance: cf. Romanian cucută, as well as in Gallo-Romance south of the Loire-Voges line. Bonnet 1998: 88. Per ALLEx, Alb. kukutë. 
 k ˌu r t i ˈɑː n i oː , k r u t͡s ˈa $to economize, spare; forgive. Alb. kursej. CV 441. 
-k w ˈɑ d r u m , k ˈo d r u $hill. Alb kodër. May be secondary loan from Alb. Orel 1998ː 188. See ALLex. 
+k w ˈɑ d r u m , k ˈo d r u $hill. Alb kodër. May be secondary loan from Alb. Orel 1998ː 188. See ALLex. quadrum > codru. !CV 2.4.4
 k w ˈa e̯ r e , t͡ʃ ˈe r e $to ask. Alb. qëroj. See ALLex. 
 kʰ ˈy l u m , t͡ʃ ˈi r $gruel, polenta. Alb. cull "broth, polenta, fat-mixed cooked flour". CV 89.
 
@@ -845,15 +845,14 @@ $ferrum>fier !CV 2.4.3
 $plumbum>plumb !CV 2.4.3
 
 $2.4.4
-$campus>câmp !CV 2.4.4
+k ˈa m p u m , k ˈɨ m p $field. campus>câmp !CV 2.4.4
 $contremulare>a-cutremura (drom) !CV 2.4.4
-$crista>creastă !CV 2.4.4
+k r ˈi s t a m , k r e̯ ˈa s t ə $crest. crista>creastă !CV 2.4.4, 2.6.4
 $grumus>grum (drom.dial) !CV 2.4.4
 $grumulus>grumul (drom.dial) !CV 2.4.4
-$montis>munte !CV 2.4.4
+m ˈo n t e m , m ˈu n t e $mountain. montis>munte !CV 2.4.4
 $monticellus>muncel !CV 2.4.4
 $*plagius>plai !CV 2.4.4
-$quadrum>codru (drom) !CV 2.4.4
 $ripa>râpă !CV 2.4.4
 $scala>scara !CV 2.4.4
 $scamnum>scămnelu !! !CV 2.4.4
@@ -862,11 +861,11 @@ $vallis,valles>vale !CV 2.4.4
 
 $2.4.5
 $alveus>albie !CV 2.4.5
-$aqua>apă !CV 2.4.5
+ˈa k w a m , ˈa p ə $aqua>apă !CV 2.4.5
 $currere>a-cure (dial) !CV 2.4.5
 $exsuccare>usca !CV 2.4.5
-$fundus>fund !CV 2.4.5
-$gutta>gută !CV 2.4.5
+f ˈu n d u m , f ˈu n d $fundus>fund !CV 2.4.5. Alb fund. 
+g ˈu t t a m , g ˈu t ə $gutta>gută !CV 2.4.5
 $lacus>lac !CV 2.4.5
 $mare>mare !CV 2.4.5
 $marginis>margine !CV 2.4.5
@@ -881,14 +880,14 @@ $vadum>vad !CV 2.4.5
 
 $2.5.1
 $cippus>cep !CV 2.5.1
-$floris>floare !CV 2.5.1
+f l ˈoː r e m , f l o̯ ˈa r e $floris>floare !CV 2.5.1
 $folium>foaie !CV 2.5.1
-$frondia>frunză !CV 2.5.1
+f r ˈo n d i a , f r ˈu n z ə $Pluralia tantum. frondia>frunză !CV 2.5.1
 $*granuceum>grăunț !CV 2.5.1
-$medium>meș (drom.dial) !CV 2.5.1
+m ˈe d i u m , m ˈe ʃ $medium>meș (drom.dial) !CV 2.5.1
 $novella>nuia !CV 2.5.1
 $palea>paie !CV 2.5.1
-$pomum>poamă !CV 2.5.1
+p ˈoː m a m , p o̯ ˈa m ə $pomum>poamă !CV 2.5.1. Likely from pōma -- cf. Alb pemë (via MPA pǿmɐ)
 $radicina>rădăcină !CV 2.5.1
 $ramus>ram !CV 2.5.1
 $resina>rășină !CV 2.5.1
@@ -1093,6 +1092,15 @@ s ˈoː r i k e m , ʃ o̯ ˈa r e t͡ʃ e $mouse. Arom shoaric, shorãc. Sorex 
 ˈu r s u m , ˈu r s $bear. ursus > urs. 
 w ˈu l p e m , v ˈu l p e $fox. vulpes > vulpe. Possibly Alb (Maja) volp-ul.
 
+$CV 2.6.4
+ˈa l a p a m , ˈa r i p ə $wing. Aromanian arpã, aripã. Megl iaripă. arapa > aripă.
+k r ˈi s t a m , k r e̯ ˈa s t ə $crest. crista > creastă.
+k r ˌi s t ˈaː t u m , k r e s t ˈa t $crested. cristatus > crestat.
+k ˈu b i u m , k ˈu j b $nest. Og from Greek klubion. cubium > cuib. 
+ˌe k s w o l ˈaː , z b u r ˈa $to fly. exvolare > a zbura. Possible Albanian and/or autochtonous connections proposed in connection to Alb zborak. 
+ˈo w u m , ˈo w $egg. Possibly Alb ve (Buzuu voe, Gheg voe). Arom ou. ovum > ou. 
+p ˈa s s e r e m , p ˈa s ə r e $bird. passer > pasăre. 
+p ˈi n n a m , p ˈa n ə $fin, feather. Alb pendë. Old Romanian, Aromanian peană.
 
 $CV 4.6.4
 
