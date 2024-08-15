@@ -525,7 +525,7 @@ $1.6.2
 ˌa r ˈa n e a m , r ɨ j e $aranea>râie !CV 1.6.2
 k ˈa e̯ k i a , t͡ʃ e̯ ˈa t͡s ə $caecia>ceața !CV 1.6.2
 k a t ˈe l l u m , k ə t͡s ˈe l $catellus>cațel !CV 1.6.2, 2.6.2
-k ˈo s s i s , k ˈo ʃ $cossis,cossus>coș !CV 1.6.2
+k ˈo s s i s , k ˈo ʃ $cossis,cossus>coș !CV 1.6.2, 2.6.7
 k ˈy m a , t͡ʃ ˈu m ə $cyma>ciumă !CV 1.6.2
 d ˌo l oː r ˈoː s u s , d u r u r ˈo s $dolorosus>dururos !CV 1.6.2 !!'possibly formed from duroare'
 f ˈe b r e m , f j ˈo r $febris>fior !CV 1.6.2 !!possibly problematic
@@ -1141,6 +1141,15 @@ s ˌe r p ˈe n t i a m , ʃ e r p ˈɨ n t͡s ə $milkwort, gentian. serpentia 
 w ˈiː p e r a m , v ˈi p e r ə $viper, adder. vipera > viperă. Arom vipiră. 
 
 $2.6.7
+ˌa l w ˈiː n a m , a l b ˈi n ə $bee. Arom. alǵina. alvina > albină.
+k ˈaː r i u m , k ˈa r j u $death-watch beetle. carius > cariu. 
+k ˌa w ˈoː n e m , g ə ˈu n $hornet. Dial. cavo > găun. May be onomatopoeia. 
+$cicada > cicoare -- influened by cicoare "chicory". 
+k ˈiː m i k e m , k ˈi n t͡ʃ e $cimex > cince. bedbug. Alb çimkë "bug".
+$flutulus > fluture excluded for now
+f ˌo r m ˈiː k a m , f u r n ˈi k ə $ant. formica > furnică. Dial. furnigă. Possible relation to Alb thërri instead. 
+$left off at gryllus. 
+
 
 $CV 4.6.4
 
