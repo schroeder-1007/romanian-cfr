@@ -494,14 +494,14 @@ w i r t ˈuː t e m , v ɨ r t ˈu t e $ virtus>vârtute !CV 1.4
 $1.5
 $w ˈeː r u m , v ˈe r $ verum>ver !CV 1.5 (arom.)
 $*cauitare>a-căuta !CV 1.5
-k i r k i t ˈaː , t͡ʃ e r t͡ʃ e t ˈa $ circitare>a-cerceta !CV 1.5
-k oː g i t ˈaː , k u d͡ʒ e t ˈa $ cogitare>a-cugeta !CV 1.5
-k o g n ˈoː s k e , k u n o̯ ˈa ʃ t e $ cognoscere>a-cunoaște !CV 1.5
-k r ˈeː d e r e , k r ˈe d e $ credere>a-crede !CV 1.5
+k ˌi r k i t ˈaː , t͡ʃ e r t͡ʃ e t ˈa $ circitare>a-cerceta !CV 1.5
+k ˌoː g i t ˈaː , k u d͡ʒ e t ˈa $ cogitare>a-cugeta !CV 1.5
+k ˌo g n ˈoː s k e , k u n o̯ ˈa ʃ t e $ cognoscere>a-cunoaște !CV 1.5
+k r ˈeː d e , k r ˈe d e $ credere>a-crede !CV 1.5
 $*discaptare>a-căta !CV 1.5
-i n t e l l ˈeː k t i ˈoː n e m , ɨ n t͡s e l ˈe p t͡ʃ i u n e $ intellectionis,intellectio !CV 1.5
-i n t e l l ˈeː k t u m , ɨ n t͡s e l ˈe p t $ intellectus>înțelept !CV 1.5
-i n t e l l i g e , ɨ n t͡s e l e g e $ intelligere>a-înțelege !CV 1.5
+ˌi n t ˌe l l eː k t i ˈoː n e m , ɨ n t͡s e l e p t͡ʃ j ˈu n e $ intellectionis,intellectio !CV 1.5
+ˌi n t ˌe l l ˈeː k t u m , ɨ n t͡s e l ˈe p t $ intellectus>înțelept !CV 1.5
+ˌi n t ˌe l l ˈi g e , ɨ n t͡s e l ˈe g e $ intelligere>a-înțelege !CV 1.5
 $*invitiare>a-învăța !CV 1.5
 j uː d i k ˈaː , d͡ʒ u d e k ˈa $ iudicare>a-judeca !CV 1.5
 m ˈe n t e m , m ˈi n t e $ mens>minte !CV 1.5
