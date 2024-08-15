@@ -204,7 +204,7 @@ $
 $
 
 pʰ ˌɑ l ˈɑ n g ɑ , p ə r ɨ n g ə
-p ˌɑː w ˈoː n e m , p ə u n $pavonem>păun
+p ˌɑː w ˈoː n e m , p ə u n $pavonem>păun. Alb. pagua, pallua. !CV2.6.4.1
 p ˈe k t e n , p i e p t ə n $pecten?>pieptăn
 p ˌe k ˈu l i u m , p i k u i $ peculium>picui,păcui
 p ˈe r g u l ɑ m , p ɨ r g i e $ pergulam, pârghie
@@ -1100,7 +1100,33 @@ k ˈu b i u m , k ˈu j b $nest. Og from Greek klubion. cubium > cuib.
 ˌe k s w o l ˈaː , z b u r ˈa $to fly. exvolare > a zbura. Possible Albanian and/or autochtonous connections proposed in connection to Alb zborak. 
 ˈo w u m , ˈo w $egg. Possibly Alb ve (Buzuu voe, Gheg voe). Arom ou. ovum > ou. 
 p ˈa s s e r e m , p ˈa s ə r e $bird. passer > pasăre. 
-p ˈi n n a m , p ˈa n ə $fin, feather. Alb pendë. Old Romanian, Aromanian peană.
+p ˈi n n a m , p ˈa n ə $fin, feather. Alb pendë. Old Romanian, Aromanian peană. pinna > pană
+p ˈi n n u l a m , p ə n ˈu r ə $fin. Alb pendull, Alb. dial. penlë. pinnula > pănură.
+p ˈu l l a m , p ˈu l ə $dick. Alb pulë "chicken". pulla > pulă. 
+p ˈu l l e u m , p ˈu j $chicken, chick, dear. Cf. Sp. pollo etc. pulleus > pui. Arom pul'ǐǔ, puǐl'ǐǔ
+
+$CV 2.6.4.1 
+k ˌaː p ˈoː n e m , k ə p ˈu n $capon (gelded cockerel, fattened for table). Interaction with clapon, borrowed from Polish apparently. Alb. kapua (Gheg kapue; pl. akponj). capo > căpun. 
+g ˌa l l ˈiː n a m , g ə ˈi n ə $hen. Arom. gãljinã, Istr-Rom gǎlirě, Megl gǎl'inǎ. gallina > găina
+
+$CV 2.6.4.2
+ˈa k w i l a m , ˈa t͡ʃ e r ə $eagle, hawk. Variant aciră below, which one is regular is unclear. aquila > aceră. 
+ˈa k w i l a m , ˈa t͡ʃ i r ə $see above. 
+k ˈo r w u m , k ˈo r b $raven, brown meagre (fish). Alb korb. Megl corb/corbu/cuărb/cuorb.
+k ˈu k u m , k ˈu k $cuckoo. cucus > cuc. 
+d r ˌe p a n ˈe l l a m , d r e p n e̯ ˈa $swift (bird). drepanella > drepnea. Old Romanian drepănea
+g ˈa i a m , g ˈa j e $kite (bird). gaia > gaje. May be instead from gavia? 
+g ˈa l g u l u m , g r ˈa n g u r $oriole (bird). Old Romanian gangur. Alb. gargull/gargëll/garbul/garbull. Arom gangur. galgulus > grangur. 
+g r ˈa u l u m , g r ˈa u r $starling. graulus > graur. 
+g r ˈu e m , g r ˈu j $crane. grus > grui. Dial. gruiu, gruie. 
+h ˌi r u n d i n ˈe l l a m , r ɨ n d u n e̯ ˈa $swallow (bird). Dial. (Moci?) rândurea. Also rândunică. Arom. (a)rândură from HARUNDULA. hirundinella > rândunea.
+m ˈe r u l a m , m j ˈe r l ə $blackbird, thrush, redwing, merle. merula > mierlă. Arom. njerlă, njirlă. 
+p ˌa l u m b u m , p o r ˈu m b $pigeon, dove (now: maize, corn through a particular semantic shift). Old Romanian părumb. Alb. pëllumb. palumbus > porumb. Arom părumbu, purumbu. 
+p ˌe t u r n ˈiː k u l a m , p o t u r n ˈi k e $partridge. Arom pitrunicl'e, piturnicl'e. peturnicula > poturniche. 
+p ˌe r w ˌi g i l aː t ˈoː r i a m , p r i v i g e t o̯ ˈa r e $nightingale (bird). May instead be derived from a privighea. pervigilatoria > privighetoare. 
+p ˌe r w ˌi g i l ˈaː , p r i v e g e̯ ˈa $to guard, pull an all nighter. pervigilare > a privighea. 
+s t r ˈi g a m , s t r ˈi g ə $nocturnal bird of prey. Arom strigã. Alb shtrigë is a loan? striga > strigă. 
+
 
 $CV 4.6.4
 
