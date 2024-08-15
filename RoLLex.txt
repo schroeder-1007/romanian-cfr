@@ -99,7 +99,7 @@ b ˌa p t i d͡z ˈaː , b o t e z ˈa $to baptize. Arom. pătedzu, Alb. pagëzo
 b ˌa s ˈi l i k a m , b i s ˈe r i k ə $church. Regular form may lie in Daco-Roman dialectal forms băseareca, besearecă, besearică. Vatasescu 1998: 449. 
 b ˌa t t u ˈaː l i a , b ə t ˈa j e $battle. Bonnet 1998(:133). Vatasescu 1997: 371. 
 b r ˈaː k a e̯ , b r ˈa t͡ʃ e $. Bonnet 1998: 376, Alb brekë. From plural. 
-b r ˈoː tʰ a k u m , b r o̯ ˈa t e k $frog. Vatasescu 1997: 219. Alb. bretk, bretkosë. Also involved: Romanian broască, probably. 
+b r ˈoː tʰ a k u m , b r o̯ ˈa t e k $frog. Vatasescu 1997: 219. Alb. bretk, bretkosë. Also involved: Romanian broască, probably. !CV2.6.6
 
 d ˌa m n ˈaː , d ə u n ˈa $to damage, harm, injure. Vatasescu 1997: 421. Alb. dënoj, Old Gheg dëmënim. 
 d ˈa m n a , d ˈa w n ə $damage, injury. Seems to be from a neut. plural in -a, or a feminized form. Cf. Alb dëm. Vatasescu 1997: 421, Bonnet 1998: 378. 
@@ -319,7 +319,7 @@ m ˈuː s k u l u s , m ˈu ʃ k i $ musculus>mușchi !CV 1.2.3 !alt lat mus
 $*noda>noadă
 p ˈa n t i k e m , p ˈɨ n t e t͡ʃ e $ pantex,panticis>pântece
 p ˈe k t u s , p j ˈe p t $ pectus>piept !CV 1.2.3
-p ˈi s k e m , p ˈe ʃ t e $ piscis>pește  (rom.pop.) !CV 1.2.3 !alt rom pescuț
+p ˈi s k e m , p ˈe ʃ t e $ piscis>pește  (rom.pop.). Alb peshk. !CV 1.2.3, 2.6.5 !alt rom pescuț
 $ pulmo,-onis>drom.v many variants
 r ˈeː n e m , r ˈɨ n ə $ ren,renis;renes>rână,dial.râlă !CV 1.2.3
 r ˌeː n ˈi k u l u s , r ˈi n i k j $ !CV 1.2.3
@@ -1003,7 +1003,7 @@ $viola>vioară,viorea !CV 2.5.8
 $*volvula>volbură !CV 2.5.8
 
 $2.5.9
-$boletus>burete !CV 2.5.9
+b ˌoː l ˈeː t e m , b o l ˈe t e $sea sponge. boletus>burete !CV 2.5.9, 2.6.5.
 $esca>iască !CV 2.5.9
 $muc(c)us>mucegai !CV 2.5.9 !!unclear to me where this ending comes from
 
@@ -1126,7 +1126,23 @@ p ˌe t u r n ˈiː k u l a m , p o t u r n ˈi k e $partridge. Arom pitrunicl'e
 p ˌe r w ˌi g i l aː t ˈoː r i a m , p r i v i g e t o̯ ˈa r e $nightingale (bird). May instead be derived from a privighea. pervigilatoria > privighetoare. 
 p ˌe r w ˌi g i l ˈaː , p r i v e g e̯ ˈa $to guard, pull an all nighter. pervigilare > a privighea. 
 s t r ˈi g a m , s t r ˈi g ə $nocturnal bird of prey. Arom strigã. Alb shtrigë is a loan? striga > strigă. 
+s t ˈu r d i u m , s t ˈu r z $thrush (bird). Arom sturdzu, strudz. Influenced by sturnus and the plural it seems. turdus > sturz. 
+t ˈu r t u r e m , t ˈu r t u r ə $turtledove. turtur > turtură. Arom turtură. Alb turtull. 
+t ˌu r t u r ˈe l l a m , t u r t u r e̯ ˈa $turtledove. turturella > turturea. Arom. turtureauã. 
+ˌu p ˈu p a d͡z a m , p ˈu p ə z ə $hoopoe. Megl pupeaza, Arom pupădză. Alb pupë. upupa > pupăză
+w ˈu l t u r e m , v ˈu l t u r $hawk, brave man. Arom vultur. vultur > vultur. 
 
+$2.6.5
+l ˈa k t eː s , l ˈa p t͡s j $lactes > lapți. Milt, soft roe. 
+p ˌi s k ˈaː r i u m , p e s k ˈa r $fisher. piscarius > pescar
+
+$2.6.6
+b r ˈoː s k a m , b r o̯ ˈa s k ə $turtle, frog. Alb. breshkë. Arom broască. brosca > broască. 
+s ˈe r p eː n s , ʃ ˈa r p e $snake. serpens > șarpe. Arom sharpi. 
+s ˌe r p ˈe n t i a m , ʃ e r p ˈɨ n t͡s ə $milkwort, gentian. serpentia > șerpânță. Not explicitly in Vatasescu. 
+w ˈiː p e r a m , v ˈi p e r ə $viper, adder. vipera > viperă. Arom vipiră. 
+
+$2.6.7
 
 $CV 4.6.4
 
