@@ -514,45 +514,45 @@ s k ˈi oː , ʃ t ˈi $ scio>a-ști !CV 1.5 !!Investigate. Why not from scire?
 
 $1.6.1
 $s a n ˈaː r e , s ɨ n ˈe d͡z u $ sanare,a-sânedzu !CV 1.6.1 (arom)
-s a n i t ˈaː t e m , s ə n ə t a t e $ sanitas>sănătate !CV 1.6.1
-s a n i t ˈoː s u m , s ə n ə t o s $ sanitosus,sănătos !CV 1.6.1
+s ˌa n i t ˈaː t e m , s ə n ə t a t e $ sanitas>sănătate !CV 1.6.1
+s ˌa n i t ˈoː s u m , s ə n ə t o s $ sanitosus,sănătos !CV 1.6.1
 $s a n u s , s ɨ n $ sanus> sân !CV 1.6.1 (arom)
-w i n d i k ˈaː , v i n d e k ˈa $ vindicare>a-vindeca !CV 1.6.1
+w ˌi n d i k ˈaː , v i n d e k ˈa $ vindicare>a-vindeca !CV 1.6.1
 $*virtuosus>vârtos !CV 1.6.1
 
 $1.6.2
-a m m o r t ˈiː , a m o r t͡s ˈi $*ammortire>a-amorți !CV 1.6.2
-a r ˈa n e a m , r ɨ j e $aranea>râie !CV 1.6.2
+ˌa m m ˌo r t ˈiː , a m o r t͡s ˈi $*ammortire>a-amorți !CV 1.6.2
+ˌa r ˈa n e a m , r ɨ j e $aranea>râie !CV 1.6.2
 k ˈa e̯ k i a , t͡ʃ e̯ ˈa t͡s ə $caecia>ceața !CV 1.6.2
 k a t ˈe l l u m , k ə t͡s ˈe l $catellus>cațel !CV 1.6.2, 2.6.2
 k ˈo s s i s , k ˈo ʃ $cossis,cossus>coș !CV 1.6.2
 k ˈy m a , t͡ʃ ˈu m ə $cyma>ciumă !CV 1.6.2
-d o l oː r ˈoː s u s , d u r u r ˈo s $dolorosus>dururos !CV 1.6.2 !!'possibly formed from duroare'
+d ˌo l oː r ˈoː s u s , d u r u r ˈo s $dolorosus>dururos !CV 1.6.2 !!'possibly formed from duroare'
 f ˈe b r e m , f j ˈo r $febris>fior !CV 1.6.2 !!possibly problematic
 f r ˈiː g o r a , f r ˈi g u r i $frigora>friguri !CV 1.6.2
 g ˈe m e , d͡ʒ ˈe m e $geme(re)>a-geme !CV 1.6.2
-g e m i t u m , g e̯ ˈa m ə t $gemitus>geamăt,gemet !CV 1.6.2
+g ˈe m i t u m , g e̯ ˈa m ə t $gemitus>geamăt,gemet !CV 1.6.2
 g ˈu t t a m , g ˈu t ə $gutta>gută (?) !CV 1.6.2
-h o r d ˈe o l u m , u r t͡ʃ ˈo r $hordeolus>urcior !CV 1.6.2 !!excl (contamination)
-j a k ˈeː , z ə t͡ʃ e̯ ˈa $iace(re)>a-zăcea !CV 1.6.2
-l a e̯ s i o n ˈaː , l e ʃ i n ˈa $*laesiono>a-leșina !CV 1.6.2
-l a n g w ˈeː s k oː , l ɨ n d͡ʒ e s k $languesco>lânjesc !CV 1.6.2
+h ˌo r d ˈe o l u m , u r t͡ʃ ˈo r $hordeolus>urcior !CV 1.6.2 !!excl (contamination)
+j ˌa k ˈeː , z ə t͡ʃ e̯ ˈa $iace(re)>a-zăcea !CV 1.6.2
+l ˌa e̯ s i o n ˈaː , l e ʃ i n ˈa $*laesiono>a-leșina !CV 1.6.2
+l ˌa n g w ˈeː s k oː , l ɨ n d͡ʒ e s k $languesco>lânjesc !CV 1.6.2
 l ˈa n g w i d u s , l ˈɨ n t͡ʃ e d $languidus>lânced !CV 1.6.2
-l a n g w ˈoː r e m , l ɨ n g o̯ ˈa r e $languor>lângoare !CV 1.6.2
+l ˌa n g w ˈoː r e m , l ɨ n g o̯ ˈa r e $languor>lângoare !CV 1.6.2
 $*malitiare>mărițăscu (arom) !CV 1.6.2
 m o r ˈiː r iː , m u r ˈi $morio(r),moriri>a-muri !CV 1.6.2 (cf. ar. muriri)
 m ˈo r s , m o̯ ˈa r t e $mors>moarte !CV 1.6.2
-m o r t i k ˈiː n a , m o r t ə t͡ʃ u n e $morticIna>mortăciune (inf. by -ciune?) !CV 1.6.2 ǃǃexcl maybe
+m ˌo r t i k ˈiː n a , m o r t ə t͡ʃ u n e $morticIna>mortăciune (inf. by -ciune?) !CV 1.6.2 ǃǃexcl maybe
 m ˈo r t u u m , m ˈo r t $mortuus>mort !CV 1.6.2
 n ˈa e̯ w u s , n ˈe g $naevus>neg !CV 1.6.2 ǃcf favus>fagure
-o k k ˈiː d e , u t͡ʃ ˈi d e $occide(re)>a-ucide !CV 1.6.2
-p e r ˈiː , p j e r ˈi $peri(re)>a-pieri !CV 1.6.2
-p e t ˈiː g i n e m , p e t͡ʃ ˈi n d͡ʒ i n e $petigo>pecingine (petIginem) !CV 1.6.2
+ˌo k k ˈiː d e , u t͡ʃ ˈi d e $occide(re)>a-ucide !CV 1.6.2
+p ˌe r ˈiː , p j e r ˈi $peri(re)>a-pieri !CV 1.6.2
+p ˌe t ˈiː g i n e m , p e t͡ʃ ˈi n d͡ʒ i n e $petigo>pecingine (petIginem) !CV 1.6.2
 p uː r ˈoː n i u m , p u r ˈo j $*puronium>puroi !CV 1.6.2
 p u s t u l a m , p u ʃ k e̯ ˈa $pustula>pușchea !CV 1.6.2 ǃpossibly from *pustulellam 
-r e p ˈoː n e , r ə p ˈu n e $repone(re)>a-răpune !CV 1.6.2
+r ˌe p ˈoː n e , r ə p ˈu n e $repone(re)>a-răpune !CV 1.6.2
 s k ˈa b i a , z g ˈa j b ə $scabies,*scabia>zgaibă !CV 1.6.2
-t u s s ˈiː , t u ʃ ˈi $tussi(re)>a-tuși !CV 1.6.2
+t ˌu s s ˈiː , t u ʃ ˈi $tussi(re)>a-tuși !CV 1.6.2
 t ˈu s s i s , t ˈu s e $tussis>tuse !CV 1.6.2
 
 $1.6.3
@@ -813,10 +813,10 @@ $martius>marț (v.rom) !CV 2.3.3
 $mensis>mes (arom) !CV 2.3.3
 
 $2.3.4
-$annus>an !CV 2.3.4
-$autumnus>toamnă !CV 2.3.4
-$hibernum>iarnă !CV 2.3.4
-$ver>vară !CV 2.3.4
+ˈa n n u m , ˈa n $annus>an !CV 2.3.4
+ˌa w t ˈu m n a m , t o̯ ˈa m n ə $autumnus>toamnă !CV 2.3.4
+h ˌi b ˈe r n a m , j ˈa r n ə $hibernum>iarnă !CV 2.3.4
+w ˈeː r a m , v ˈa r ə $ver>vară !CV 2.3.4. Alb verë. Aromanian: vearã, viare. Istro-Romanian: vęrę. Megleno-Romanian: veară, vęră
 $pavimentum>pământ !CV 2.3.4
 $terra>țară !CV 2.3.4
 
@@ -824,13 +824,13 @@ $2.4.1
 $arena>arină (dial) !CV 2.4.1
 $limus>im (dial) !CV 2.4.1
 $lutum>lut !CV 2.4.1
-$petram>piatră !CV 2.4.1
-$pulveris>pulbere !CV 2.4.1
-$sessus>șes !CV 2.4.1
+p ˈe t r a m , p j ˈa t r ə $stone, weight. petram>piatră !CV 2.4.1
+p ˈu l w e r e m , p ˈu l b e r e $pulveris>pulbere !CV 2.4.1. Alb pluhur. 
+s ˈe s s u m , ʃ ˈe s $sessus>șes !CV 2.4.1
 $*terrina>țărână !CV 2.4.1
 
 $2.4.2
-$carbonis>cărbune !CV 2.4.2
+k ˌa r b ˈoː n e m , k ə r b ˈu n e $carbonis>cărbune !CV 2.4.2
 $marmoris>marmură !CV 2.4.2
 $picula>păcură (drom) !CV 2.4.2
 $*puteosus>pucioasă !CV 2.4.2
