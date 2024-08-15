@@ -125,7 +125,7 @@ k ˌeː r ˈe s i ɑ , t͡ʃ i r e̯ ˈa ʃ ə $cherry. OB 334. Alb. qershi. Aro
 k ˌe r t ˈɑː , t͡ʃ e r t ˈa $to quarrel. Alb qërtoj. OB 377, CV 52. 
 k ˌi kʰ ˈo r eː ɑ , t͡ʃ i k o̯ ˈa r e $chicory. Alb kore. OB 377, CV 180.
 k ˌi k ˈuː t ɑ , k u k ˈu t ə $fennel, hemlock. Arom cucutǎ, Alb kukutë likely loaned from Arom. Orel 2000ː 34. See ALLex. 
-k ˌo g n ˈɑː t u m , k u m n ˈa t $brother-in-law. Alb kunat. 
+k ˌo g n ˈɑː t u m , k u m n ˈa t $brother-in-law. Alb kunat. cognatus>cumnat !CV 1.10.2.
 k ˌo k t ˈo r i u m , k u p t ˈo ɾ $oven. Alb koftor. CV 92. 
 k ˌo m m u n i k ˈɑː , k u m i n e k ˈa $to recieve communion (Christianity). Alb. kungoj. Arom. cumanic. CV 451. 
 k ˈoː n s o k e r , k ˈu s k r u $father-in-law. Arom. cusc, cuscru. Alb krushk. Orel 1998: 1988-9, De Vaan 2017: 1734; see ALLex. 
@@ -160,7 +160,7 @@ f ˈa l k e m , f ˈa l k ə $jaw. CV 24.
 f ˈa r m a k u m , f ˈa r k ə k $venom. CV 480. Variant farmec perhaps influenced by derived verb a farmeca. Arom. farmac and Alb. farmak from Greek, but Old Albanian farmëk is cognate. 
 f ˌe b r u ˈaː r i u m , f ə w r ˈa r $February, dialectal. Old Gheg Alb. fruer. CV 133. 
 f l ˈa k u l a , f l ˈa k ə r ə $flame(s). See Alb. flakë, flakëra in ALLex for details.
-f ˌo r t ˈuː n a m , f u r t ˈu n ə $storm. Cf. Alb furtunë. CV 123.
+f ˌo r t ˈuː n a m , f u r t ˈu n ə $storm. Cf. Alb furtunë. CV 123. !CV2.2.
 f ˌo s s ˈɑː t u m , s ˈa t $village. Old Romanian fsat. Alb. fshat. Aromanian fusat. CV 423. 
 f r ˈeː n u m , f r ˈɨ w $bridle, reins, restraint. Cf. Alb fre. OB 379. 
 f r ˈiː g e , f r ˈi d͡ʒ e $to roast, fry, bake, grill. Alb fërgoj. OB 303, 380. 
@@ -705,61 +705,59 @@ t ˈa t a m , t ˈa t ə $tata>tată !CV 1.10.1
 w ˈeː r u m , v ˈə r $verus>văr (arom ver) !CV 1.10.1
 
 $1.10.2
-b a r b ˈaː t u m , b ə r b ˈa t $barbatus>bărbat !CV 1.10.2
-k o g n ˈaː t u m , k u m n ˈa t $cognatus>cumnat !CV 1.10.2
-k oː n s o k e r u m , k ˈu s k r u $cOnsocerum>cuscru !CV 1.10.2 !!(input form listed is consocer)
+b ˌa r b ˈaː t u m , b ə r b ˈa t $barbatus>bărbat !CV 1.10.2. Alb varvat. 
+k ˌoː n s ˈo k e r u m , k ˈu s k r u $cOnsocerum>cuscru !CV 1.10.2 !!(input form listed is consocer)
 f iː l i ˈa s t r u m , f j ˈa s t r u $filiaster>fiastru (drom.v & dial & drom.reg) !CV 1.10.2
 g ˈe n e r u m , d͡ʒ ˈi n e r e $gener>ginere !CV 1.10.2
-h ˈo m oː , ˈo m $homo>om !CV 1.10.2
+h ˈo m oː , ˈo m $homo>om !CV 1.10.2. From nominative apparently. 
 m a r ˈiː t u s , m ə r ˈi t $maritus>mărit (vrom & dial) !CV 1.10.2
 $n o w ˈe r k a , ??? $noverca>nearcă (arom) !(drom.dial nuiarcă) !CV 1.10.2
 n ˈu r u m , n ˈo r $nurus>nor,noră !CV 1.10.2
 s ˈo k e r u m , s ˈo k r u $socer,socrus,socra>socru,soacră !CV 1.10.2
-s o k i a , s o̯ ˈa t͡s ə $socia>soață !CV 1.10.2
+s ˌo k i a , s o̯ ˈa t͡s ə $socia>soață !CV 1.10.2
 s ˈo k i u s , s ˈo t͡s $socius>soț !CV 1.10.2
 s p ˈu r i u s , s p ˈu r $spurius>spur,șpur (drom.dial) !CV 1.10.2
 
 $1.10.3
-k o m m ˈaː t r e m , k u m ˈə t r ə $commater>cumătră !CV 1.10.3 !!(possible irregular stress in CL)
-k o m p ˈaː t r e m , k u m ˈə t r u $compater>cumătru !CV 1.10.3
-f iː l i ˈaː n u m , f ˈi n $*filianus>fin (&arom hil'inu) !CV 1.10.3
+k ˌo m m ˈaː t r e m , k u m ˈə t r ə $commater>cumătră !CV 1.10.3 !!(possible irregular stress in CL)
+k ˌo m p ˈaː t r e m , k u m ˈə t r u $compater>cumătru !CV 1.10.3
+f ˌiː l i ˈaː n u m , f ˈi n $*filianus>fin (&arom hil'inu) !CV 1.10.3
 n ˈo n n u m , n ˈu n $nonnus>nun,nunaș,nănaș,naș,nășie !CV 1.10.3
 ˈo r pʰ a n u m , o̯ ˈa r f ə n $orphanus>oarfăn (arom) !CV 1.10.3
 w ˈi d u u m , v ˈə d u v $viduus>văduv,văduvă !CV 1.10.3
 
 $1.10.4
-k o r oː n ˈaː , c u n u n ˈa $coronare>a-se-cununa !CV 1.10.4
-k r eː d ˈe n t i a m , k r e d ˈi n t͡s ə $credentia>credință (dial) !CV 1.10.4
+k ˌo r oː n ˈaː , c u n u n ˈa $coronare>a-se-cununa !CV 1.10.4
+k r ˌeː d ˈe n t i a m , k r e d ˈi n t͡s ə $credentia>credință (dial) !CV 1.10.4
 d ˈe k s t r a e̯ , z ˈe s t r e $dextrae>zestre !CV 1.10.4
-h o s p ˈi t i u m , o s p ˈə t͡s $hospitium>ospăț (dial) !CV 1.10.4
-i n u k s o r ˈaː , ɨ n s u r ˈa $(in)uxorare>a-se-însura !CV 1.10.4
-l a k s ˈaː , l ə s ˈa $laxare>a-lăsa !CV 1.10.4
-m a r i t ˈaː , m ə r i t ˈa $maritare>a-(se)-mărita !CV 1.10.4
+h ˌo s p ˈi t i u m , o s p ˈə t͡s $hospitium>ospăț (dial) !CV 1.10.4
+ˌi n ˌu k s o r ˈaː , ɨ n s u r ˈa $(in)uxorare>a-se-însura !CV 1.10.4
+l ˌa k s ˈaː , l ə s ˈa $laxare>a-lăsa !CV 1.10.4
+m ˌa r i t ˈaː , m ə r i t ˈa $maritare>a-(se)-mărita !CV 1.10.4
 n ˈuː p t i a e̯ , n u n t ə $nuptiae>nuntă (drom) !CV 1.10.4
-p ˈe t e , p ˈe t͡s i $petere>a-peți !CV 1.10.4
+p ˈe t e , p ˈe t͡s j $petere>a-peți !CV 1.10.4
 
 $2
 l ˈuː m e n , l ˈu m e $lumen>lume !CV 2
 
 $2.1
-a p p ˈoː n e , a p ˈu n e $apponere>a-apune !CV 2.1
-$k a e̯ l u m , t͡ʃ e r $caelum>cer !CV 2.1 (duplicate)
+ˌa p p ˈoː n e , a p ˈu n e $apponere>a-apune !CV 2.1
+k ˈa e̯ l u m , t͡ʃ ˈe r $caelum>cer !CV 2.1 (duplicate)
 k ˈi r k i n u s , t͡ʃ e̯ ˈa r k ə n $circinus>cearcăn !CV 2.1
 e k s k a p i t ˈaː , s k ə p ə t ˈa $excapitare>scăpăta !CV 2.1
 l uː k ˈi f e r u m , l u k e̯ ˈa f ə r $lucifer>luceafăr !CV 2.1
 l ˈuː n a m , l ˈu n ə $luna>lună !CV 2.1
-r e s a l ˈiː , r ə s ə r i $*resalire>a-răsări !CV 2.1
+r ˌe s a l ˈiː , r ə s ə r i $*resalire>a-răsări !CV 2.1
 s ˈoː l e m , s o̯ ˈa r e $solem>soare !CV 2.1
 s t ˈeː l l a m , s t e̯ ˈa $stella>stea !CV 2.1
 
 $2.2
 ˈaː e r e m , ˈa j e r $aer>aer !CV 2.2. Arom air, airu. Nom āēr; other accsg  āera apparently. 
 ˈa w r a m , ˈa w r ə $aura>avră (arom), meglenoromanian aură !CV 2.2. Going with meglenoromanian for now. Consider removal.
-$auster>austru !CV 2.2
-$bruma>brumă !CV 2.2
+ˈa w s t r u m , ˈa w s t r u $(Dry) south wind. auster>austru !CV 2.2
+b r ˈuː m a m , b r ˈu m ə $frost. Arom brumă. Alb brymë. bruma>brumă !CV 2.2
 $caldura>căldură !CV 2.2
 $calor>căroare !CV 2.2
-$fortuna>furtună !CV 2.2
 $frigus>frig !CV 2.2
 $fulgur>fulger !CV 2.2
 $gelu>ger !CV 2.2
