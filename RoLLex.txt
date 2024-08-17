@@ -208,7 +208,7 @@ p ˌɑː w ˈoː n e m , p ə u n $pavonem>păun. Alb. pagua, pallua. !CV2.6.4.1
 p ˈe k t e n , p i e p t ə n $pecten?>pieptăn
 p ˌe k ˈu l i u m , p i k u i $ peculium>picui,păcui
 p ˈe r g u l ɑ m , p ɨ r g i e $ pergulam, pârghie
-p i s t ˈaː l i a , p ə s t a i e $ pistalia>păstaie
+p ˌi s t ˈaː l i a , p ə s t a i e $ pistalia>păstaie
 p ˈi t t u l ɑ m , p ə t u r ə 
 p l ˈɑː g ɑ , p l ˈa g ə $plaga>plagă
 p l ˈoː p p u s , p l o p $ plopus>plop
@@ -222,7 +222,7 @@ s ˌɑ g ˈi t t ɑ m , s ə d͡ʒ e̯ ˈa t ə $ sagitta>săgeată
 s ˌɑ g i t t ˈɑː , s a d͡ʒ e t ˈa $ sagittare>a-săgeta
 s ˈaː n k t u m , s ˈɨ n t $ sanctum>sânt
 s ˈa p p a , s ˈa p ə $ sappa>sapă. mattock.
-s a p p ˈa , s ə p ˈa $ sappare>a-sapă. to dig.
+s ˌa p p ˈa , s ə p ˈa $ sappare>a-sapă. to dig.
 s ˈɑ r i k ɑ m , s a r ˈi k ə $ saricam>sarică
 s ˌe k r ˈeː t u s , s ə k r ˈe t $ secretus>săcret. Alb i shkretë. !CV 3.1. Rom secret is a loan. 
 s ˈe l l ɑ , ʃ ˈa l e $ sella>șale
@@ -230,7 +230,7 @@ s ˈe r r ɑ , ʃ ˈa r ə $ serra>shară. Arom.
 s k ˈɑ m n u m , s k ˈa u n $ scamnum>scaun. !!Look into outcomes of mn
 s k ˌi n t ˈi l i ɑ , s k ɨ n t ˈe j e $ scintilia>scânteie.
 s p ˈi s s u s , s p ˈe s $ spissus>spes. Arom.
-s t r a m b u s , s t r ˈɨ m b $ strambus>strâmb
+s t r ˈa m b u m , s t r ˈɨ m b $ strambus>strâmb. !CV 3.2. Alb i/e shtremb-ër,-ët. 
 s t ˈu p p ɑ , s t ˈu p ə $ stuppa>stupă
 a d s t u p p a , a s t ˈu p a $ adstuppare>a-astupa
 s t ˈuː l ɑ , s t ˈu r ə $ stula>stură. Romanian dialectal stură, Old Romanian stur. Vatasescu 1997 p93. Clayton notes it may be Gk
@@ -508,7 +508,7 @@ m ˈe n t e m , m ˈi n t e $ mens>minte !CV 1.5
 m e n t i ˈoː n e m , m i n t͡ʃ ˈu n ə $ mentio,-onis>minciună !CV 1.5
 m e n t ˈiː r iː , m i n t͡s ˈi $ mentior,-iri>a-minți !CV 1.5
 $*oblitare>a-uita
-p a r ˈeː , p ə r e̯ ˈa $ parere>a-părea !CV 1.5 (serves as evidence that -re must have clipped before Pardess' rule 53b)
+p a r ˈeː , p ə r e̯ ˈa $ parere>a-părea !CV 1.5, 3.2 (serves as evidence that -re must have clipped before Pardess' rule 53b)
 p e r k ˈi p e , p r i t͡ʃ ˈe p e $ percipere>a-pricepe !CV 1.5
 s k ˈi oː , ʃ t ˈi $ scio>a-ști !CV 1.5 !!Investigate. Why not from scire?
 
@@ -870,7 +870,7 @@ m ˈa r g i n e m , m ˈa r d͡ʒ i n e $edge, margin, border. marginis>margine 
 r ˌe w ˌe r s ˈaː , r e v ə r s ˈa $reversare>a-revărsa !CV 2.4.5
 r ˈiː w u m , r ˈɨ w $river. rivus>râu !CV 2.4.5
 $siccare>a-seca !CV 2.4.5
-$siccus>sec !CV 2.4.5
+$siccus>sec !CV 2.4.5, 3.2
 $terminus>țărmure !CV 2.4.5 !!termulus - see note
 $turbulus>tulbure !CV 2.4.5
 $unda>undă !CV 2.4.5
@@ -1238,6 +1238,21 @@ m ˈuː k k i d u m , m ˈu t͡ʃ e d $moldy, musty, mildewed. muccidus > muced
 m ˈuː t u l u m , m ˈu k j e $edge, top. Not Italic; possibly from Etruscan. Aromanian: muclji, muhlji. Megleno-Romanian: mucľă. Possibly Alb. mykë, myqe. mutulus > muchie. 
 n ˌaː t ˈuː r a m , n a t ˈu r ə $temperament. Cf. Alb natyrë. Dialectal. natura > natură. 
 n ˈi t i d u m , n ˈe t e d $smooth, clear. nitidus > neted. 
+p ˈu t r i d u m , p ˈu t r e d $putrid. putridus > putred. 
+k w ˌi ˈeː t u m , t͡ʃ ˈe t $calm, quiet. Alb. i/e qetë. quietus > cet. 
+k w ˌi ˈeː t a m , t͡ʃ e̯ ˈa t ə $feminine of cet. See quietus > cet. 
+r ˈa n k i d u m , r ˈɨ n t͡ʃ e d $rancid, disguisting. rancidus > rânced
+r ˈa p i d u m , r ˈe p e d $fast. Now reped-e. West Transylvanian rapăd, Aromanian areapit. Possibly Albnaian i/e rëpjetë. rapidus > repede.
+r ˈaː r u m , r ˈa r $rare. Alb. i/e rrallë. rarus > rar. 
+r ˌe t ˈu n d u m , r ə t ˈu n d $round. Gheg Albanian urtundë. From retundus per Vatasescu. rotundus > rătund.
+$rudis > Arom arud; Alb rrudhë. 
+s k r ˈo b u l a m , s k ˈo r b u r ə $hollow (of a tree), hole, cave, cavity. scrobis > scrobula > scorbură. Uncertain. 
+$ scrobis > Arom scrob
+s ˈi g n u m , s ˈe m n $mark, sign, notch, scar, trace. Cf. Alb sheng, and insignia > shenjë. signus > semn. 
+s ˌi m i l ˈaː , s e m ə n a $to be like, to appear, to give the impression of. Alb shëmbellej. similare > a semăna. 
+$spissus > Arom spes, Alb shpesh. 
+
+
 
 $CV 4.6.4
 
