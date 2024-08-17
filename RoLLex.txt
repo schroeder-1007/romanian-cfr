@@ -1,6 +1,6 @@
 ˈaː , ˈa $"exclamation of pain, wonder". Tentatively included, but considered of imitative origin by Cioranescu[2]; not at the EDRL and Vinereanu (55), tho, which note PIE *ā > Lat ā, āh, and also Gothic ō, Lithuanian á, Sanskrit ā, etc; cf IEW (1). Using aː for Latin but this is arbitrary, however it's trivial as the h would be regularly lost (though introduced here for onomatopoeia in some Romanian dialects). 
-a b e l l ˈoː n a m , a l ˈu n ə $hazelnut, peanut, testicle. DER, Cand-Dens. Att as -A:NA in Latin (whence Fr avelaine, It avellana etc) but the -ona is evidenced in Provençal, Tarentine and Franco-Provençal with motivations discusted in Meyer-Lübke Dacor 643. 
-a b r ˈu t t u m , a b r ˈu d $Abrud, city in Transylvania. Name originally from Dacian. Unclear if inherited directly, Vinereanu (56) claims it does but this is unclear -- review later, see if there are other sources for this.  
+ˌa b e l l ˈoː n a m , a l ˈu n ə $hazelnut, peanut, testicle. DER, Cand-Dens. Att as -A:NA in Latin (whence Fr avelaine, It avellana etc) but the -ona is evidenced in Provençal, Tarentine and Franco-Provençal with motivations discusted in Meyer-Lübke Dacor 643. 
+ˌa b r ˈu t t u m , a b r ˈu d $Abrud, city in Transylvania. Name originally from Dacian. Unclear if inherited directly, Vinereanu (56) claims it does but this is unclear -- review later, see if there are other sources for this.  
 a d , a $"to, at next to". Cf Aromanian <a> "to, at". Now being replaced by <la>, but widely used in Old Romanian. Puşcariu, 1; Candrea-Densusianu, 1; REW, 136; Cioranescu, 1; Vinereanu, 55. 
 a d a k w ˈaː , a d ə p ˈa $to water, to baste, to drink. Meglenoromanian dap, istr adǒpu ~~ (a)dapå, Aromanian adăpare, Puşcariu, 20; REW, 147; Cioranescu, 69; DER; DAR; Cand-Den 62. Vinereanu (62) dissents arguing that apa is attested in "mulțime de hidronime și toponime din spațiul iliro-daco-trac" and that PIE *kw > p in all of these but this seems to contradict his (other) view that Albanian belongs to Dacian since in Albanian it does not. Going with traditional etymology. 
 a d a p p ˈo s i t u m , a d ə p ˈo s t $shelter. Philippide, Principii , 97; Tiktin; Puşcariu, 21; Rosetti, I, 161; Cioranescu, 70; DAR; DER; Candrea-Densusianu 15. Tiktin argues instead for Latin ad-depositum. Vinereanu argues for a pre-Latin etymology. 
@@ -1123,7 +1123,7 @@ p ˌa l u m b u m , p o r ˈu m b $pigeon, dove (now: maize, corn through a part
 p ˌe t u r n ˈiː k u l a m , p o t u r n ˈi k e $partridge. Arom pitrunicl'e, piturnicl'e. peturnicula > poturniche. 
 p ˌe r w ˌi g i l aː t ˈoː r i a m , p r i v i g e t o̯ ˈa r e $nightingale (bird). May instead be derived from a privighea. pervigilatoria > privighetoare. 
 p ˌe r w ˌi g i l ˈaː , p r i v e g e̯ ˈa $to guard, pull an all nighter. pervigilare > a privighea. 
-s t r ˈi g a m , s t r ˈi g ə $nocturnal bird of prey. Arom strigã. Alb shtrigë is a loan? striga > strigă. 
+s t r ˈi g a m , s t r ˈi g ə $nocturnal bird of prey. Arom strigã. Alb shtrigë is a loan? striga > strigă. Also !CV 2.6.7. 
 s t ˈu r d i u m , s t ˈu r z $thrush (bird). Arom sturdzu, strudz. Influenced by sturnus and the plural it seems. turdus > sturz. 
 t ˈu r t u r e m , t ˈu r t u r ə $turtledove. turtur > turtură. Arom turtură. Alb turtull. 
 t ˌu r t u r ˈe l l a m , t u r t u r e̯ ˈa $turtledove. turturella > turturea. Arom. turtureauã. 
@@ -1148,7 +1148,18 @@ $cicada > cicoare -- influened by cicoare "chicory".
 k ˈiː m i k e m , k ˈi n t͡ʃ e $cimex > cince. bedbug. Alb çimkë "bug".
 $flutulus > fluture excluded for now
 f ˌo r m ˈiː k a m , f u r n ˈi k ə $ant. formica > furnică. Dial. furnigă. Possible relation to Alb thërri instead. 
-$left off at gryllus. 
+g r ˌy l l ˈi o l u m , g r ˈe j e r $cricket (insect). grylliolus > greier. Regional variants grier, greiere, greir. 
+l ˌa k ˈu s t a m , l ə k ˈu s t ə $locust, grasshopper. Aromanian lãkustã. lacusta > lăcustă. 
+l ˈe n d i n e m , l ˈi n d i n ə $knit, louse, louse egg. lens > lindină. 
+l ˌu m b r ˈiː k u m , l i m b r ˈi k $roundworm. lumbricus > limbric. Aromanian lãmbric, lumburic.
+m ˈu s k a m , m ˈu s k ə $fly (insect). musca > muscă. Cf. also Aromanian mushconju, Alb. mushkonjë "mosquito". 
+ˌo e̯ s t r ˈi k u l u m , s t r ˈe k e $warble fly, sheep botfly, gadfly. oestriculus > streche. 
+p ˌeː d ˈu k u l u m , p ə d ˈu k e $ Aromanian: piduclju, piducljiu. Istro-Romanian: peducľu. Megleno-Romanian: piducľu. Romanian: păduche, păduchi. pediculus > păduche. 
+p ˈuː l i k e m , p ˈu r i t͡ʃ e $flea. pulex > purice. 
+t ˌa b ˈoː n e m , t ə ˈu n $gadfly, horsefly. tabo > tăun. Arom tăun, davan. 
+w ˈe r m e m , v j ˈe r m e $worm. vermis > vierme. 
+w ˈe s p a m , v j ˈe s p e $wasp. vespa > viespe. 
+$excluded claimed *zinzalus > țanțăr, source may suggest this is etymologization of onomatopoeia. 
 
 
 $CV 4.6.4
@@ -1161,7 +1172,7 @@ $     ^[^$]*[ăîâșț]
 
 $ WHEN SET IS POPULATED:
     $ Figure out how we should treat non-rom reflexes, ie arom. sânedzu
-        $ What sound changes happened / didnțt happen in arom? etc
+        $ What sound changes happened / didn't happen in arom? etc
     $ Get vowel length, then build lat stress
     $ Get rom stress
         $ Both length and stress can be pulled from dex data, maybe?
