@@ -518,7 +518,7 @@ s ˌa n i t ˈaː t e m , s ə n ə t a t e $ sanitas>sănătate !CV 1.6.1
 s ˌa n i t ˈoː s u m , s ə n ə t o s $ sanitosus,sănătos !CV 1.6.1
 $s a n u s , s ɨ n $ sanus> sân !CV 1.6.1 (arom)
 w ˌi n d i k ˈaː , v i n d e k ˈa $ vindicare>a-vindeca !CV 1.6.1
-$*virtuosus>vârtos !CV 1.6.1
+w ˌi r t u ˈoː s u m , v ɨ r t ˈo s $strong, thick, solid, hard. *virtuosus>vârtos !CV 1.6.1, 3.2. Starred in source but it's actually attested in Late Latin. 
 
 $1.6.2
 ˌa m m ˌo r t ˈiː , a m o r t͡s ˈi $*ammortire>a-amorți !CV 1.6.2
@@ -1251,8 +1251,15 @@ $ scrobis > Arom scrob
 s ˈi g n u m , s ˈe m n $mark, sign, notch, scar, trace. Cf. Alb sheng, and insignia > shenjë. signus > semn. 
 s ˌi m i l ˈaː , s e m ə n a $to be like, to appear, to give the impression of. Alb shëmbellej. similare > a semăna. 
 $spissus > Arom spes, Alb shpesh. 
+s t r ˈi n k t u m , s t r ˈɨ m t $strict, expensive. Alb i/e shtrenjtë; Arom astrim(p)tu. Variant strâmpt. strictus > strâmt. 
+s ˌu b t ˈiː l e m , s u b t͡s ˈi r e $thin, weak. subtilis > subțire. 
+t ˌa k ˈeː , t ə t͡ʃ e̯ ˈa $to shush, keep quiet, hold one's tongue. Aromanian: tac, tãtseari. tacere > a tăcea. 
+t ˈaː l e m , t ˈa r e $loud, strong. talis > tare. 
+ˈuː d u m , ˈu d $wet. udus > ud. 
+ˌuː d ˈaː , u d ˈa $to wet, humidify, moisten. udare > a uda. 
+w ˌi s k ˈoː s u m , v ɨ s k ˈo s $viscous, sticky. viscosus > vâscos. 
 
-
+$3.3 
 
 $CV 4.6.4
 
