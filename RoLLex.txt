@@ -118,7 +118,7 @@ k ˌɑ n t i k ˈe l l u m , k ɨ n t e t͡ʃ ˈɛ l $song. Alb. këngjel. OB 3
 k ˌɑ p ˈi s t r u m , k ə p ˈə s t r u $harness. Alb. këPpresh. CV 332, OB 272-3.
 k ˌɑ p i t ˈiː n ɑ , k ə p ə t͡s ˈɨ n ə $head of dead animal whose corpse is to be eaten. Old form căpățină. Vatasescu 1997: 21. Alb kaptinë "head (familiar, vulgar)". 
 k ˈɑ w s ɑ m , k ˈa w z ə $cause. May be borrowing? See ALLex, consider removal (Alb kafshë). 
-k ˈɑ w u l ɑ m , g ˈa u r ə $hole. Arom gavrǎ, Alb. gavër. CV 237. 
+k ˈɑ w u l ɑ m , g ˈa u r ə $hole. Arom gavrǎ, Alb. gavër. CV 237. !CV 3.2. 
 k ˈeː p ɑ m , t͡ʃ e̯ a p ə $onion. Alb. qepë. cv 175. 
 k ˌeː r ɑ s i ˈɑː r i u m , t͡ʃ i r e ʃ ˈa r $June. Alb. qershor< qershuar. OB 239. Arom cirishar. 
 k ˌeː r ˈe s i ɑ , t͡ʃ i r e̯ ˈa ʃ ə $cherry. OB 334. Alb. qershi. Arom cireashǎ. 
@@ -136,7 +136,7 @@ $k r ˈaː t e m , g r a t ˈi e $bar, hurdle. CV 98. Alb. gratë. May have bee
 k r ˈi s t ɑ m , k r e̯ ˈa s t ə $crest. Alb. kreshtë. OB 378. Orel 1998ː 196. Per ALLex. 
 k ˌu k ˈuː t ɑ m , k u k ˈu t ə $hemlock. Latin was cicu:ta, V Latin form cucu:ta unattested, but well attested in Romance: cf. Romanian cucută, as well as in Gallo-Romance south of the Loire-Voges line. Bonnet 1998: 88. Per ALLEx, Alb. kukutë. 
 k ˌu r t i ˈɑː n i oː , k r u t͡s ˈa $to economize, spare; forgive. Alb. kursej. CV 441. 
-k w ˈɑ d r u m , k ˈo d r u $hill. Alb kodër. May be secondary loan from Alb. Orel 1998ː 188. See ALLex. quadrum > codru. !CV 2.4.4
+k w ˈɑ d r u m , k ˈo d r u $hill. Alb kodër. May be secondary loan from Alb. Orel 1998ː 188. See ALLex. quadrum > codru. !CV 2.4.4, 3.1 
 k w ˈa e̯ r e , t͡ʃ ˈe r e $to ask. Alb. qëroj. See ALLex. 
 kʰ ˈy l u m , t͡ʃ ˈi r $gruel, polenta. Alb. cull "broth, polenta, fat-mixed cooked flour". CV 89.
 
@@ -178,7 +178,7 @@ h ˌo r r ˈiː , u r ˈɨ $to hate. Alb. urrej, Arom. urâscu (from inchoative)
 
 ˌi m p ˌe r ɑː t ˈi s s ɑ m , ɨ m p ə r ə t e̯ ˈa s a $empress. Cf. Alb. perëndeshë "goddess", mbretëreshë "queen". CV 425. 
 ˌi m p e r ˈɑː t u m , ɨ m p ə r ˈa t $emperor. Cf. Alb mbret "king" < OAlb mpëret. CV 426. 
-ˌi n ˈɑ l t u m , ɨ n ˈa l t $tall, high. Alb. i naltë "tall", and separately i lartë "high". CV 224. 
+ˌi n ˈɑ l t u m , ɨ n ˈa l t $tall, high. Alb. i naltë "tall", and separately i lartë "high". CV 224. altus > înalt. 
 ˌi n ˌɑ l t i ˈɑː , ɨ n ə l t͡s ˈa $to raise. Alb. nalcoj. CV 283. 
 ˌi n k ˌɑ r r i k ˈɑː , ɨ n k ə r k a $to load, charge. Arom ncarcu. Alb ngarkoj. CV 46. 
 ˌi n k ˌo n g ˌyː r ˈɑː , ɨ n k u n ʒ u r ˈa $to surround. Alb. ngashëroj. Orel 1998: 294.  
@@ -224,7 +224,7 @@ s ˈaː n k t u m , s ˈɨ n t $ sanctum>sânt
 s ˈa p p a , s ˈa p ə $ sappa>sapă. mattock.
 s a p p ˈa , s ə p ˈa $ sappare>a-sapă. to dig.
 s ˈɑ r i k ɑ m , s a r ˈi k ə $ saricam>sarică
-s ˌe k r ˈeː t u s , s ə k r ˈe t $ secretus>săcret
+s ˌe k r ˈeː t u s , s ə k r ˈe t $ secretus>săcret. Alb i shkretë. !CV 3.1. Rom secret is a loan. 
 s ˈe l l ɑ , ʃ ˈa l e $ sella>șale
 s ˈe r r ɑ , ʃ ˈa r ə $ serra>shară. Arom.
 s k ˈɑ m n u m , s k ˈa u n $ scamnum>scaun. !!Look into outcomes of mn
@@ -338,17 +338,17 @@ w ˈe n t r e m , v ˈi n t r e $ venter>vintre !CV 1.2.3
 w eː s ˈiː k a m , b ə ʃ ˈi k ə $ vesica,vessica>bășică !CV 1.2.3
 
 ˈa r m u m , ˈa r m $ armus>arm (v.drom. dial.) !CV 1.2.4
-b r ˈa kʰ kʰ i u m , b r ˈa t͡s $ bracchium>braț !CV 1.2.4
+b r ˈa kʰ kʰ i u m , b r ˈa t͡s $ bracchium>braț !CV 1.2.4, 3.1
 k ˌa l k ˈaː n e u m , k ə l k ˈɨ i $ calcaneum>călcâi !CV 1.2.4
 k ˈo k s a m , k o̯ ˈa p s ə $ coxa>coapsă !CV 1.2.4
-k ˈu b i t u m , k ˈo t $ cubitus,cubitum>cot !CV 1.2.4 !alt istro kuvit
+k ˈu b i t u m , k ˈo t $ cubitus,cubitum>cot !CV 1.2.4, 23. !alt istro kuvit
 d ˈi g i t u s , d ˈe d͡ʒ e t $ digitus>deget !CV 1.2.4
-d ˌiː r ˈeː k t u m , d r ˈe p t $ right (side). directus>drept !CV 1.2.4 !! dexter - see p35(49). Old Romanian derept. Old Albanian i dërejtë > modern (i) drejtë. 
+d ˌiː r ˈeː k t u m , d r ˈe p t $ right (side). directus>drept !CV 1.2.4, 3.2 !! dexter - see p35(49). Old Romanian derept. Old Albanian i dërejtë > modern (i) drejtë. 
 g ˌe n ˈu k u l u m , d͡ʒ e n ˈu n k i $ genuculum>genunchi !CV 1.2.4 !!(where is the n from?)
 m ˈa n u m , m ˈɨ n ə $ manus>mână !CV 1.2.4 !! possible alt form mana
 $medullarium>mădular
 n ˈoː d u m , n ˈo d $ nodus>nod !CV 1.2.4
-p ˈa l m a m , p ˈa l m ə $ palma>palmă !CV 1.2.4
+p ˈa l m a m , p ˈa l m ə $ palma>palmă !CV 1.2.4, 3.1 
 p ˌe t i ˈo l u m , p i t͡ʃ ˈo r $ petiolus>picior !CV 1.2.4
 $p ˌo l l i k a r i s , p ə l i k a r $ pollicaris>pălicar !CV 1.2.4 !arom
 p ˈu g n u m , p ˈu m n $ pugnus>pumn !CV 1.2.4
@@ -388,7 +388,7 @@ $*imbuccare>a-îmbuca !CV 1.3.3
 ˌi n g l ˌu t t ˈiː , ɨ n g i t͡s ˈi $ ingluttire>a-înghiți !CV 1.3.3
 ˌi n t ˈi n g e , ɨ n t ˈi n d͡ʒ e $ intingere>a-întinge !CV 1.3.3 !!!note p42
 l ˈaː k r i m a , l ˈa k r i m ə $ lacrima>lacrimă !CV 1.3.3 (CV does not note alt form lacrămă)
-m ˈuː k k u s , m ˈu k $ muc(c)us>muc !CV 1.3.3
+m ˈuː k k u s , m ˈu k $ muc(c)us>muc !CV 1.3.3. Alb myk. 
 $*pissi(a)re>pișa !CV 1.3.3
 $*satium>saț(iu) !CV 1.3.3
 s ˌa t ˈu l l u m , s ə t ˈu l $ satullus>sătul !CV 1.3.3 (dim. of satur)
@@ -400,7 +400,7 @@ s ˌuː d ˈoː r e m , s u d o̯ ˈa r e $ sudor>sudoare !CV 1.3.3
 s ˈuː g e , s ˈu d͡ʒ e $ sugere>a-suge !CV 1.3.3
 
 k ˌoː n s t ˈaː , k u s t ˈa $ constare>a-custa (v.rom) !CV 1.3.4
-f ˌa k t ˈuː r a m , f ə p t ˈu r ə $ factura>făptură !CV 1.3.4
+f ˌa k t ˈuː r a m , f ə p t ˈu r ə $ factura>făptură !CV 1.3.4, 3.2
 f ˌi e r ˈiː , f ˈi $ fieri>a-fi !CV 1.3.4
 $futuo,-ere>??? !CV 1.3.4 !!!(missing or forgotten - see p.46)
 $*ingrevicare>a-îngreca !CV 1.3.4
@@ -449,28 +449,28 @@ k o t t i z ˈaː , k u t e z ˈa $ cottizare>a-cuteza !CV 1.4
 $d e s i d e r a r e , d e ʃ i d e r a $ desiderare>deșidera,deșira (v.rom) !CV 1.4 !!!sus
 d o l ˈeː , d u r e̯ ˈa $ dolere>a-durea !CV 1.4
 $*doliosus>duios !CV 1.4
-d o l ˈoː r e m , d u r o̯ ˈa r e $ dolor>duroare (v.rom.dial) !CV 1.4
+d ˌo l ˈoː r e m , d u r o̯ ˈa r e $ dolor>duroare (v.rom.dial) !CV 1.4. Albanian dullye
 d ˈo l u m , d ˈo r $ dolus>dor !CV 1.4
 ˌe k s p ˌaː w ˈeː , s p e r j ˈa $ expavere>a-speria !CV 1.4 ǃǃpossibly confusion between multiple roots here?
 $*expavimen>spaimă !CV 1.4
 $*expavimento>a-(se)-spăimânta !CV 1.4
 $*extemperare>a-(a)stâmpăra !CV 1.4
 f ˌeː l ˈiː k e m , f e r ˈi t͡ʃ e $ felix>ferice !CV 1.4
-$*horrire>ură !CV 1.4
+$*horrire>ură !CV 1.4 
 ˌi n d ˌuː r ˈaː , ɨ n d u r ˈa $ indurare>a-îndura !CV 1.4
 ˌi n t ˌe r r i t ˈaː , ɨ n t ə r ɨ t ˈa $ interritare>a-întărâta !CV 1.4
 ˌi n w iː t ˈaː , ɨ n v i t ˈa $ invitare>a-învita !CV 1.4 (v.rom)
 m ˈa l u m , m ˈa r $ malum>mar (arom.) !CV 1.4
 $*manganeare>a-mângâia !CV 1.4
-m ˈa n i a , m ˈɨ n i e $ mania>mânie !CV 1.4
+m ˈa n i a , m ˈɨ n i e $ mania>mânie !CV 1.4 
 m ˈiː r o r , m ˈi r a $ miror,-ari>a-(se)-mira !CV 1.4 !!!
-m i s e r ˈeː r e, m e s e r e a r e $ miserere>mesereare !CV 1.4 (v.rom.) ǃǃis this the infinitive or imperative?
-m oː n s t r ˈaː , m u s t r ˈa $monstrare>a-mustra !CV 1.4
-p a k ˈaː , p ə k ˈa $ pacare>a-păca !CV 1.4 (v.rom.)
-p a e̯ n i t e t , p ə n ə t a $paenitet,paenitere>a-pănăta !CV 1.4 (v.rom.) ǃǃǃsee note
-p a t ˈiː , p ə t͡s ˈi $ patior,pati>a-pați !CV 1.4
-p e n s ˈaː , p ə s ˈa $ pensare>a-păsa !CV 1.4
-p ˈe n s u m , p ˈə s $ pensum>păs !CV 1.4
+m ˌi s e r ˈeː r e, m e s e r e a r e $ miserere>mesereare !CV 1.4 (v.rom.) ǃǃis this the infinitive or imperative?
+m ˌoː n s t r ˈaː , m u s t r ˈa $monstrare>a-mustra !CV 1.4
+p ˌa k ˈaː , p ə k ˈa $ pacare>a-păca !CV 1.4 (v.rom.)
+p ˌa e̯ n i t e t , p ə n ə t a $paenitet,paenitere>a-pănăta !CV 1.4 (v.rom.) ǃǃǃsee note
+p ˌa t ˈiː , p ə t͡s ˈi $ patior,pati>a-pați !CV 1.4
+p ˌe n s ˈaː , p ə s ˈa $ pensare>a-păsa !CV 1.4, 3.1
+p ˈe n s u m , p ˈə s $ pensum>păs !CV 1.4, 3.1. Old Romanian. 
 p i g r i t ˈaː r iː , p r e d͡ʒ e t ˈa $ pigritari>a-pregeta ǃCV 1.4 ǃǃmetathesis ǃdeponent
 p l aː k ˈeː , p l ə t͡ʃ e̯ ˈa $ placere>a-plăcea !CV 1.4
 p l a n g ˈeː , p l ɨ n g ˈe $ plangere>a-plânge !CV 1.4
@@ -557,7 +557,7 @@ t ˈu s s i s , t ˈu s e $tussis>tuse !CV 1.6.2
 
 $1.6.3
 b ˈa l b u s , b ɨ l b ɨ j $balbus>a-(se)-bâlbâi (?) !CV 1.6.3 !!probably don't include - irregular and onomatopoeiatic
-m ˈa n k u s , m ˈɨ n k $mancus>mânc (dial) !CV 1.6.3
+m ˈa n k u s , m ˈɨ n k $mancus>mânc (dial) !CV 1.6.3, 3.1. Alb mangët. 
 m ˈuː t u m , m ˈu t $mutus>mut !CV 1.6.3
 ˈo r b u m , ˈo r b $orbus>orb !CV 1.6.3
 e k s k l ˈo p p u m , ʃ k j ˈo p $*(ex)scloppus>șchiop !CV 1.6.3 (cf. alb. shqep)
@@ -569,7 +569,7 @@ b r ˈa k a e̯ , b r ˈa t͡ʃ e $braca,bracae>brace,braci !CV 1.7.1
 k a m ˈi s i a m , k ə m a ʃ ə $camisia>cămașă !CV 1.7.1
 $gunna>gună !arom !CV 1.7.1
 l ˈiː n e a m , ˈi j e $linea,lineus>ie,iie (dialectal form ine) !CV 1.7.1
-m a n i c a , m ɨ n e k ə $manica>mânecă !CV 1.7.1
+m a n i c a , m ˈɨ n e k ə $manica>mânecă !CV 1.7.1. Aromanian: mãnicã, menãche. Megleno-Romanian: mǫnică. Romanian: mânecă, mânică — regional. Albanian mëngë. 
 p a l l i ˈoː l a , p ə j o̯ ˈa r ə $pallium,palliolum>păioară (rom.reg) !CV 1.7.1
 s a r i k a , s a r i k ə $*sarica>sarică !CV 1.7.1
 w e s t iː m ˈe n t u m , v e ʃ m ˈɨ n t $vestimentum>veșmânt !CV 1.7.1
@@ -617,7 +617,7 @@ p r ˈa n d i u m , p r ˈɨ n z $prandium>prânz !CV 1.8.1
 $1.8.2
 $allevatum>aluat !CV 1.8.2
 a k s ˈu n g i a , o s ˈɨ n z ɨ $axungia>osânzâ !CV 1.8.2
-! , b u k ˈa t ə $buccata>bucată !CV 1.8.2
+k u k k ˈaː t a m , b u k ˈa t ə $buccata>bucată !CV 1.8.2
 $carnaceus>cârnaț (rom.pop) !CV 1.8.2
 kʰ ˈyː l u m , t͡ʃ ˈi r $*chylus>cir !CV 1.8.2
 f a r ˈiː n a , $farina>făină !CV 1.8.2
@@ -634,7 +634,7 @@ s ˈaː l e m , s ˈa r e $sal>sare !acc salem !CV 1.8.2
 s ˈeː b u m , s ˈe w $sebum>seu !CV 1.8.2
 t ˈo r t a m , t ˈu r t ə $torta,turta>turtă !CV 1.8.2
 w ˈiː k t u m , v ˈi p t $victus>vipt (vrom) !CV 1.8.2
-z ˈe m a , z e̯ ˈa m ə $zema>zeamă !CV 1.8.2
+d͡z ˈe m a , z e̯ ˈa m ə $zema>zeamă !CV 1.8.2
 
 $1.8.3
 m ˈu s t u m , m ˈu s t $mustum>must !CV 1.8.3
@@ -804,13 +804,13 @@ $septimana>săptămână !CV 2.3.2
 $veneris>vineri !CV 2.3.2
 
 $2.3.3
-$aprilis>prier (drom.v) !CV 2.3.3
-$a(u)gustus>agust (v.rom) !CV 2.3.3
-$calendarius>cărindar !CV 2.3.3
-$febr(u)arius>făurar !CV 2.3.3
-$maius>mai (?) !CV 2.3.3
-$martius>marț (v.rom) !CV 2.3.3
-$mensis>mes (arom) !CV 2.3.3
+ˌɑ p r ˈiː l e m , p r ˈi e r $aprilis>prier (drom.v) !CV 2.3.3. Alb prill 
+ˌa w g ˈu s t u m , a g ˈu s t $a(u)gustus>agust (v.rom) !CV 2.3.3. ALb gusht. 
+k ˌɑ l e n d ˈɑː r i u m , k ə r i n d ˈa r $calendarius>cărindar !CV 2.3.3. Alb kallënduor. 
+f ˌe b r u ˈaː r i u m , f ə w r ˈa r $febr(u)arius>făurar !CV 2.3.3. Alb fruor. 
+m ˈa i u m , m ˈa j $maius>mai (?) !CV 2.3.3
+m ˈa r t i u m , m ˈa r t͡s $martius>marț (v.rom) !CV 2.3.3
+m ˈeː n s e m , m ˈe s $mensis>mes (arom) !CV 2.3.3
 
 $2.3.4
 ˈa n n u m , ˈa n $annus>an !CV 2.3.4
@@ -821,7 +821,7 @@ $pavimentum>pământ !CV 2.3.4
 $terra>țară !CV 2.3.4
 
 $2.4.1
-$arena>arină (dial) !CV 2.4.1
+ˌɑ r ˈeː n ɑ m , a r ˈi n ə $arena>arină (dial) !CV 2.4.1. Alb rërë. 
 $limus>im (dial) !CV 2.4.1
 $lutum>lut !CV 2.4.1
 p ˈe t r a m , p j ˈa t r ə $stone, weight. petram>piatră !CV 2.4.1
@@ -837,17 +837,17 @@ $*puteosus>pucioasă !CV 2.4.2
 
 $2.4.3
 $rugina>rugină !CV 2.4.3
-$argentum>argint !CV 2.4.3
+ˌa r g ˈe n t u m , a r d͡ʒ ˈi n t $argentum>argint !CV 2.4.3
 $aurum>aur !CV 2.4.3
-$ferrum>fier !CV 2.4.3
-$plumbum>plumb !CV 2.4.3
+f ˈe r r u m , f j ˈe r $iron. ferrum>fier !CV 2.4.3
+p l ˈu m b u m , p l ˈu m b $lead. plumbum>plumb !CV 2.4.3. Alb plumb
 
 $2.4.4
 k ˈa m p u m , k ˈɨ m p $field. campus>câmp !CV 2.4.4
 $contremulare>a-cutremura (drom) !CV 2.4.4
 k r ˈi s t a m , k r e̯ ˈa s t ə $crest. crista>creastă !CV 2.4.4, 2.6.4
 $grumus>grum (drom.dial) !CV 2.4.4
-$grumulus>grumul (drom.dial) !CV 2.4.4
+$grumulus>grumul (drom.dial) !CV 2.4.4, 3.1 
 m ˈo n t e m , m ˈu n t e $mountain. montis>munte !CV 2.4.4
 $monticellus>muncel !CV 2.4.4
 $*plagius>plai !CV 2.4.4
@@ -860,15 +860,15 @@ $vallis,valles>vale !CV 2.4.4
 $2.4.5
 $alveus>albie !CV 2.4.5
 ˈa k w a m , ˈa p ə $aqua>apă !CV 2.4.5
-$currere>a-cure (dial) !CV 2.4.5
-$exsuccare>usca !CV 2.4.5
-f ˈu n d u m , f ˈu n d $fundus>fund !CV 2.4.5. Alb fund. 
+k ˈu r r e , k ˈu r e $run, flow, drain, run (tears). currere>a-cure (dial) !CV 2.4.5
+ˌe k s s ˌu k k ˈaː , u s k ˈa $to juice, dry. exsuccare>usca !CV 2.4.5, 3.1
+f ˈu n d u m , f ˈu n d $fundus>fund !CV 2.4.5, 3.1. Alb fund. 
 g ˈu t t a m , g ˈu t ə $gutta>gută !CV 2.4.5
-$lacus>lac !CV 2.4.5
-$mare>mare !CV 2.4.5
-$marginis>margine !CV 2.4.5
-$reversare>a-revărsa !CV 2.4.5
-$rivus>râu !CV 2.4.5
+l ˈa k u m , l ˈa k $lacus>lac !CV 2.4.5
+m ˈa r e , m ˈa r e $sea. mare>mare !CV 2.4.5. Aromanian: amari, amare, mari. Istro-Romanian: måre. Megleno-Romanian: mari.
+m ˈa r g i n e m , m ˈa r d͡ʒ i n e $edge, margin, border. marginis>margine !CV 2.4.5, 3.2. Aromanian: mardzinã, mardzine. Some meanings may be "substat". 
+r ˌe w ˌe r s ˈaː , r e v ə r s ˈa $reversare>a-revărsa !CV 2.4.5
+r ˈiː w u m , r ˈɨ w $river. rivus>râu !CV 2.4.5
 $siccare>a-seca !CV 2.4.5
 $siccus>sec !CV 2.4.5
 $terminus>țărmure !CV 2.4.5 !!termulus - see note
@@ -1143,7 +1143,7 @@ w ˈiː p e r a m , v ˈi p e r ə $viper, adder. vipera > viperă. Arom vipiră
 $2.6.7
 ˌa l w ˈiː n a m , a l b ˈi n ə $bee. Arom. alǵina. alvina > albină.
 k ˈaː r i u m , k ˈa r j u $death-watch beetle. carius > cariu. 
-k ˌa w ˈoː n e m , g ə ˈu n $hornet. Dial. cavo > găun. May be onomatopoeia. 
+k ˌa w ˈoː n e m , g ə ˈu n $hornet. Dial. cavo > găun. May be onomatopoeia. Separate from the homonym cavo > găun. 
 $cicada > cicoare -- influened by cicoare "chicory". 
 k ˈiː m i k e m , k ˈi n t͡ʃ e $cimex > cince. bedbug. Alb çimkë "bug".
 $flutulus > fluture excluded for now
@@ -1161,6 +1161,83 @@ w ˈe r m e m , v j ˈe r m e $worm. vermis > vierme.
 w ˈe s p a m , v j ˈe s p e $wasp. vespa > viespe. 
 $excluded claimed *zinzalus > țanțăr, source may suggest this is etymologization of onomatopoeia. 
 
+$CV 3.1 
+ˌe k s k ˈu r t u m , s k ˈu r t $short. curtus > scurt. Alb. shkurt. 
+k ˈu r t u m , k ˈu r t $source of proper name Curtu. curtus > curtu. 
+d ˌe ˈo r s u m , ʒ ˈo s $below. deorsum > jos. 
+d ˌeː s ˈe r t u m , d e ʃ ˈe r t $empty, bare, desolate. desertum > deșert. 
+ˌe k s ˈaː m e n , s ˈa m ə $number, large quantity. Alb shemë. Old Romanian seama. Rival theory attributes it to Hungarian szám, which is from Turkic. 
+f ˈa l k e m , f ˈa l t͡ʃ e $old agricultural metric. falx > falce. 
+g r ˈa w e m , g r ˈe w $heavy. gravis > greu 
+ˌi m p ˌu t ˈaː , i m p u t ˈa $to hold responsible for, charge with, attribute to, reproach, impute. imputare > a imputa. 
+ˌi n t ˈe g r u m , ɨ n t r ˈe g $whole, entire. Aromanian ntreg, ãntreg. 
+$ levis > usor is derived, involving hte derivative suffix -șor
+l ˈo n g u m , l ˈu n g $long. longus > lung 
+$excluding mas, maris "man" > mare "big". Unlikely. Either from maior or from a cognate to the source of Albanian madhe (/ Gheg malle)
+m ˌeː n s ˈuː r a m , m ə s ˈu r ə $measure. mensura > măsură. 
+m ˌeː n s uː r ˈaː , m ə s u r ˈa $to measure. mensurare > a măsura. 
+m ˈiː k a m , m ˈi k ə $crumb, morsel. mica > mică. 
+$excluding mic(c)us as it is "masculin refăcut din MICA" 
+m ˌi n ˈuː t u m , m ə r ˈu n t $very small, trifling, petty. minutus > mărunt. Aromanian: minut, minutu. Megleno-Romanian: minut
+m 'u l t u m , m 'u l t $many. multus > mult. 
+n ˌu m e r ˈaː , n u m ə r ˈa $to enumerate. numerare > a număra. Alb numëroj
+n ˈu m e r u m , n ˈu m ə r $numer. numerus > număr. Alb numëroj, nëmër. 
+p ˌa r ˈi k u l u m , p e r ˈe k e $pair. pariculus > pereche. 
+p ˈa r t e m , p ˈa r t e $part. pars > parte 
+p ˈa s s u m , p ˈa s $pace, foot(step), also a metric. passus > pas. 
+p ˈe t t i a m , p ˈɨ t͡s ə $meat. from Gaulish pettya-, possibly cf Alb. pjesë if that is not via French. pettia > pâță
+p l ˈeː n u m , p l ˈi n $full. plenus > plin 
+k w ˈa n t u m , k ˈɨ t $how/so much. quantus > cât.
+s ˈi n g u l u m , s ˈi n g u r $alone, single. singulus > singur. 
+$ excluding șir -- this sira 
+s ˈu m m a m , s ˈu m ə $sum. summus > șumă. This is a dialectal form. Cf. Alb shumë. 
+ˌe k k u m t ˈa n t u m $so, so much (adverb). tantum > atât. 
+t ˈoː t u m , t ˈo t $all, still, nevertheless, anyway, exclusively, only, every (period). Possibly Alb dot, if not do të. totus > tot. Aromanian tut. 
+t ˈoː t a m , t o̯ ˈa t ə $feminine of the above. 
+
+$3.1.1 
+ˈa m b iː , ˈɨ m b j $both. Archaic Old Romanian. ambi > îmbi. 
+ˌa n t ˈa n e u m , ɨ n t ˈɨ j $the first. Aromanian ntãnj, ntãnjiu, ntãnji, ãntãnj etc. Lat *antaneus is metathesis of anteanus (cf. French ancien). 
+k w ˈiː n k w e , t͡ʃ ˈi n t͡ʃ j $five. quinque > cinci. 
+d ˈe k e m , z ˈe t͡ʃ e $ten. decem > zece. 
+d ˈoː s , d ˈo j $two. dos > doi. 
+m ˈiː l i a , m ˈi j e $thousand. Aromanian n'il'e . Meglenoromanian mil'ǎ. 
+n ˈo w e m , n ˈo w ə $nine. novem > nouă. 
+ˈo k t oː , ˈo p t $eight. octo > opt. 
+k w ˈa t t u o r , p ˈa t r u $four. quattuor > patru. 
+s ˈe p t e m , ʃ ˈa p t e $seven. septem > șapte. 
+s ˈe s s e m , ʃ ˈa s e $six. sex > șase. Aromanian: shasi, shase, sheasi, shease. Istro-Romanian: șåse. Megleno-Romanian: șasi
+ˌa n n oː t ˈe r t i oː , a n t͡s ˈə r t͡s $two years ago. Aromanian anţărţu, antserts, antsãrtsu; Meglenoromanian țărț. 
+t r ˈeː s , t r ˈe j $three. tres > trei. 
+ˈuː n u m , ˈu n u $one (m.). unus > unu. 
+$viginti > Aromanian ɣiɣints. 
+
+$3.2 
+ˌa d ˈu n k u m , a d ˈɨ n k $deep, profound, serious. aduncus > adânc. 
+ˈa n g u l u m , ˈu n g j $angle. angulus > unghi. 
+ˌa n g ˈu s t u m , ɨ n g ˈu s t $narrow, strait; close, contracted. angustus > îngust. Alb. i/e ngushtë. 
+ˈa s p e r u m , ˈa s p r u $rough, course; severe, harsh; rugged; keen. Alb. i ashpër. asper > aspru. 
+k ˌa w ˈoː n e m , g ə ˈu n $the scurvy, hollow or dry part of an object. cavo > gǎun. Separate from the homophone gǎun "hornet". 
+$ circulus > ţercl'ǐu. 
+k ˈi r k u m , t͡ʃ ˈe r k $circle. Alb. qark. circus > cerc. 
+d ˈeː n s u m , d ˈe s $often. densus > des. Arom. des. 
+f ˌoː r m ˈoː s u m , f r u m ˈo s $beautiful, handsome. formosus > frumos. 
+f r ˈa g i d u m , f r ˈa d͡ʒ e d $rotten. Latin fracidus crossed with fragilis Laitn internally apparently per Vatasescu. fracidus > fraged
+g r ˈa s s u m , g r ˈa s $fat, dense. crassus > gras. Crossed with grossus per Vatasescu. 
+g r ˈo s s u m , g r ˈo s $thick. grossus > gros. 
+h ˈuː m i d u m , ˈu m e d $humid, wet, moist. humidus > umed. 
+l ˈa r g u m , l ˈa r g $wide. Aromanian largu. Albanian larg. largus > larg. 
+l ˈaː t u m , l ˈa t $wide, broad. latus > lat. 
+l ˈeː n e m , l ˈi n $even, smooth, calm, quiet, mild, gentle, sweet. lenis > lin.
+l ˈu k r u m , l ˈu k r u $object, thing. lucrum > lucru. 
+m ˈa k r u m , m ˈa k r u $without fat (meat). macer > macru.
+m ˈa r k i d u m , m ˈɨ r t͡ʃ e d $barren, withered (plants). marcidus > mârced. Regional Daco-Romanian only. 
+m ˈe d i u m , m j ˈe z $middle, core. Alb. mes, mjez. Arom mese, mesi from Greek, njedzu is inherited from Latin though. medius > miez 
+m ˈo l l e m , m o̯ ˈa l e $soft. mollis > moale. 
+m ˈuː k k i d u m , m ˈu t͡ʃ e d $moldy, musty, mildewed. muccidus > muced
+m ˈuː t u l u m , m ˈu k j e $edge, top. Not Italic; possibly from Etruscan. Aromanian: muclji, muhlji. Megleno-Romanian: mucľă. Possibly Alb. mykë, myqe. mutulus > muchie. 
+n ˌaː t ˈuː r a m , n a t ˈu r ə $temperament. Cf. Alb natyrë. Dialectal. natura > natură. 
+n ˈi t i d u m , n ˈe t e d $smooth, clear. nitidus > neted. 
 
 $CV 4.6.4
 
