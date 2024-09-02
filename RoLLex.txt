@@ -119,7 +119,7 @@ k ˌɑ p ˈi s t r u m , k ə p ˈə s t r u $harness. Alb. këPpresh. CV 332, 
 k ˌɑ p i t ˈiː n ɑ , k ə p ə t͡s ˈɨ n ə $head of dead animal whose corpse is to be eaten. Old form căpățină. Vatasescu 1997: 21. Alb kaptinë "head (familiar, vulgar)". 
 k ˈɑ w s ɑ m , k ˈa w z ə $cause. May be borrowing? See ALLex, consider removal (Alb kafshë). 
 k ˈɑ w u l ɑ m , g ˈa u r ə $hole. Arom gavrǎ, Alb. gavër. CV 237. !CV 3.2. 
-k ˈeː p ɑ m , t͡ʃ e̯ a p ə $onion. Alb. qepë. cv 175. 
+k ˈeː p ɑ m , t͡ʃ e̯ a p ə $onion. Alb. qepë. cv 175. !CV 2.5.5
 k ˌeː r ɑ s i ˈɑː r i u m , t͡ʃ i r e ʃ ˈa r $June. Alb. qershor< qershuar. OB 239. Arom cirishar. 
 k ˌeː r ˈe s i ɑ , t͡ʃ i r e̯ ˈa ʃ ə $cherry. OB 334. Alb. qershi. Arom cireashǎ. 
 k ˌe r t ˈɑː , t͡ʃ e r t ˈa $to quarrel. Alb qërtoj. OB 377, CV 52. 
@@ -786,11 +786,11 @@ $alba>alba !CV 2.3.1
 $dies>ziuă !CV 2.3.1
 $hac-die,hodie>azi !CV 2.3.1
 $heri>ieri !CV 2.3.1
-$mane>mâine !CV 2.3.1
+m ˈaː n e , m ˈɨ j n e $tomorrow. mane>mâine !CV 2.3.1
 $de-*manitia>dimineață !CV 2.3.1
 $media-nocte>miazănoapte !CV 2.3.1
 $meridies>meriză (drom.dial) !CV 2.3.1
-$nox>noapte !CV 2.3.1
+n ˈo k t e m , n o̯ ˈa p t e $night. nox>noapte !CV 2.3.1
 $sera>seară !CV 2.3.1
 
 $2.3.2
@@ -959,7 +959,6 @@ $secale>secară !CV 2.5.4
 $2.5.5
 $al(l)ium>ai,aiu !CV 2.5.5
 $cauliculus>curechi (dial) !CV 2.5.5
-$cepa>ceapă !CV 2.5.5
 $cucurbita>curcubetă !CV 2.5.5
 $lactuca>lăptucă !CV 2.5.5
 $legumen,leguminis>legumă,legume !CV 2.5.5
@@ -1002,7 +1001,7 @@ $*volvula>volbură !CV 2.5.8
 
 $2.5.9
 b ˌoː l ˈeː t e m , b o l ˈe t e $sea sponge. boletus>burete !CV 2.5.9, 2.6.5.
-$esca>iască !CV 2.5.9
+ˈeː s k a m , j ˈa s k ə $tinder; hard, dry mushrooms used to kindle fires. esca>iască !CV 2.5.9
 $muc(c)us>mucegai !CV 2.5.9 !!unclear to me where this ending comes from
 
 $2.6 
