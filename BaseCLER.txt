@@ -90,8 +90,10 @@ $ (FIRST THROUGH SIXTH CENTURIES A.D.)
         w > β
 
     $ R7 Fortition of syllable initial [y]: [y] > [dy]
-        j > d j / __ [+syl]
+        $j > d j / __ [+syl]
         $ Becomes ǰ in 18
+	$ CM fix for faithfulness: for Cj, j is actually not the onset. This is thus intervocalic and word-initial. Formulated now as follows.
+	∅ > d / # ((@)* [+syl]) __ j [+syl]
 
     $ R8 Simplification of K[s]K,K[z]K cluster
         [-son] > ∅ / __ [+strid] [-son]
