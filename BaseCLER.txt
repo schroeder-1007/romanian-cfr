@@ -81,9 +81,11 @@ $ (FIRST THROUGH SIXTH CENTURIES A.D.)
 
         $ R5C Metathesis of word-final [r]
             $ Pardess: V r # > r V #
-            ∅ > r / __ [+syl] r #
-            r > ∅ / [+syl] __ #
-
+            $∅ > r / __ [+syl] r #
+            $r > ∅ / [+syl] __ #
+	$ CM note : formulated to more faithful variety: 
+		∅ [+syl] r > r [+syl] ∅ / __ #
+    
     $ R6 Frontinɡ of [w] to [β]
         w > β
 
