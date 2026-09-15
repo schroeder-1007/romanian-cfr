@@ -104,6 +104,17 @@ $ NEW RULE: Labial-attractive metathesis
 		k [+syl] p > p [+syl] k / [+lab] __
 
 
+$ Metathesis in aspecta(re)>aștepta
+	$ We can condition this on the presence of non-identical voiceless consonants.
+	$ Formulation notes: [lab], [cor], and [back] need to all be carried over to the result in order to produce the right consonants,
+	$ but only two of these need to be checked for the conditioning because the other will automatically match if the first two match
+	$ because there are only 3 places of articulation for consonants at this stage.
+		$[-cont,αlab,βcor,ɣback] [+syl] [-cont,ɛlab,θcor,ʎback] > [-cont,ɛlab,θcor,ʎback] [+syl] [-cont,αlab,βcor,ɣback] / {[+cons,+cont,-voi];[-cont,-αlab,-voi];[-cont,-βcor,-voi]} __ {[+cons,+cont,-voi];[-cont,-ɛlab,-voi];[-cont,-θcor,-voi]}
+			$ The above is the ideal formulation, but it doesn't work in DiaSim. Since we only need to alter one word, we can simply use the following:
+				p [+syl] k > k [+syl] p / s __ t
+	$ Since this only affects one word, the conditioning is extremely dubious anyway. FLAG
+
+
 $ NEW RULE: [aw] > [a] word-initially when a [+round] segment is up to 3 phones away
 	w > ∅ / # a __ (@) (@) [+round]
 
@@ -195,13 +206,9 @@ $ NEW RULE: Syncope of palatal vowels in word-initial syllables to create [-cont
 	[+syl,+front,-lo,-stres] > ∅ / # ([+syl,+front,+hi] n) [-cont] __ r [+syl] ([+nas]) [-cont]
 		$ ([+syl,+front,+hi] n) included for utility, but this is really an analogical process.
 
-
 $ NEW RULE: [p] > [m] between a stressed high vowel and a coronal obstruent.
 	$ Affects nuptiae>nunți, ipsum>îns, and adidipsum>adins.
-	$ Rule placed here instead of with later [n]-spreading rule because this happens in Aromanian (see numtã) while later [n]-spreading does not (see minut).
-	$ Since Aromanian still has [m] in this word, assimilation must occur after breakup of Common Romanian.
 		p > m / [+syl,+prim,+hi] __ [+cor,-son]
-
 
 $ NEW RULE: Forward velar repulsion of [r]
 	$ If [r] is in a cluster with a [+back] consonant, it will be repulsed to the following cluster.
@@ -212,13 +219,15 @@ $ NEW RULE: Forward velar repulsion of [r]
 		r [+syl,+back] ∅ > ∅ [+syl] r / [+cons,+back] __ [-cont,-back] [+syl]
 			$ This only affects one word, but since we can see that the exact reverse phenomenon is relatively well-attested, it feels more solid. Still, FLAG -- reexamine later.
 
-
 $ NEW RULE: ˈu > ˈo / [+nas] __ r.
 	$ Only valid inputs in our lexicon are nurum and muriam.
 	$ We can also extend input to all [+hi,+stres] vowels. There are no sequences of [+nas] ˈi(ː) r in our lexicon.
 	$ Has to take place before breakup of Common Romanian -- we see nor(ã) in Aromanian and noră in Megleno-Romanian.
 		[+hi,+stres] > [-hi] / [+nas] __ r
 
+
+$ Oddball syncope in suffolica(re)>sufleca.
+	[+syl] > ∅ / f f __ l
 
 $ R4 {Syncope, Dissimilation of [tl]}
 	$ R4A Syncope
@@ -246,6 +255,7 @@ $ R4 {Syncope, Dissimilation of [tl]}
 				[+syl,+hi,-long,-stres] > ∅ / [+syl] r r __ [-cont,+back] [+syl]
 		$ [llVk] also syncopates, but only in ollicellam>ulcea. For now, conditioning it on the following [ˈe], but we should really try to find more examples of this kind of syncope to determine the conditioning better. FLAG -- TODO
 			[+syl,+hi,-long,-stres] > ∅ / [+syl] l l __ [-cont,+back] [+syl,-lo]
+				$ Additional note: seems to also occur in colloca(re)>culca, despite the vowel...
 		$ Syncope between nasals and stops must come after [(ˈ)i(ː)] and before an unstressed nonlow vowel. (Other consonant allowed after the stop.) Poorly evidenced. FLAG -- reexamine later.
 			[+syl,+hi,-long,-stres] > ∅ / [+syl,+hi,+front] [+nas] __ [-cont] ([-syl]) [+syl,-stres,-lo]
 
@@ -504,12 +514,19 @@ $ R13 {Many sequential vowel chanɡes}
 			$ May not be reɡular sound chanɡe. See note about Kiparsky.
 			$ Problem: wenit -> *vjej (vine)
 
+$ R18A ɡemination of stop when after a vowel and before yod
+		$ Pardess: V [-son,-cont] y > V [-son,-cont] [-son,-cont] y
+			{p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+
+$ R21 Spirantization of [b]
+	$b > β / [-cons] __
+	$ EDIT: Does not occur before stops.
+		b > β / [-cons] __ [+cont]
+
 	$ R13G Lowerinɡ of [i]: Stressed or unstressed [i] > [e]
 		[+syl,-long,+hi,-back] > [-hi]
-			$ Does not occur between [t]s. (ttit>ttet does occur, however.)
-				[+syl,-long,-hi,-lo,-back] > [+hi] / {#;[+cont]} t __ t
-			$ Does not occur between [k]s.
-				[+syl,-long,-hi,-lo,-back,+tense] > [+hi] / k __ k
+		$ EDIT: Does not occur between two identical consonants. Simply undoing below.
+			[+syl,-long,-hi,-lo,+tense,-back] > [+hi] / [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat] __ [+cons,αlab,βcor,ɣcont,ɛvoi,θson,ʎnas,ɸlat]
 
 $ R16 Loss of vowel lenɡth (moved from original position)
 	[+syl] > [-long]
@@ -542,7 +559,8 @@ $ R17 Deletion of wau before a vowel
 $ R18 {Many C+j-related chanɡes}
 	$ R18A ɡemination of stop when after a vowel and before yod
 		$ Pardess: V [-son,-cont] y > V [-son,-cont] [-son,-cont] y
-			{p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+			${p;t;k;b;d;ɡ} > {p p;t t;k k;b b;d d;ɡ ɡ} / [+syl] __ j
+				$ Moved to just after R13F.
 
 	$ R18B Affrication of alveolars: [d] > [ǰ], [t] > [č] before yod
 		$ Pardess: [-son,-cont,+ant,+cor,-delrel] > [-ant,+delrel] / __ j
@@ -598,8 +616,9 @@ $ NEW RULE: [s]-voicing word-initially before a voiced obstruent
 
 $ R21 Spirantization of [b]
 	$b > β / [-cons] __
-	$ EDIT: does not occur before stops
-		b > β / [-cons] __ [+cont]
+	$ EDIT: Does not occur before stops.
+		$b > β / [-cons] __ [+cont]
+			$ Moved to just before R13G.
 
 $ NEW RULE: [β] > [b] word-initally before [(ˈ)e] and two coronals, the first of which must be an obstruent
 	β > b / # __ [+syl,-hi,-lo] [+cor,-son] [+cor] [+syl]
@@ -671,6 +690,23 @@ $ R24 Affrication of velars: [k], [ɡ] > [č], [ǰ] before a front vowel
 		$[-cont,-ant,-cor,-delrel] > [+cor,+delrel] / __ [-cons,-back]
 		$ Still doesnt work so:
 			{ɡ;k} > {d͡ʒ;t͡ʃ} / __ [-cons,-back,-lo]
+
+
+$ Nasal assimilation
+	$ Although Aromanian numtã would suggest that this change didn't take place until after the breakup of Common Romanian,
+	$ new rule "[n] dissimilates to [m] between voiceless coronals" has to have taken place before Aromanian and Daco-Romanian diverged,
+	$ given Aromanian strimtu/strãmtu and simtu/sãmtu, and "[n] dissimilates to [m] between voiceless coronals" has to counterfeed this change.
+	$ Given that Aromanian also has a variant nuntã for numtã, it is safe to assume that the following change did not occur in some parts of the Common Romanian speech area,
+	$ and this variation was levelled in Daco-Romanian while remaining somewhat stable in Aromanian.
+		m > n / __ [+cor,-voi]
+
+
+$ NEW RULE: [n] dissimilates to [m] between voiceless alveolars
+	$ The alveolars can occur in clusters, but the clusters must be entirely alveolar.
+	$ The preceding vowel must be [+tense,-lo].
+	$ Affects senti(re)>simți and *strinctum>strâmt, but not responsum>răspuns, potentiam>*potˈɛnt͡sa>putință, or sanctum>sânt.
+		n > m / [+cor,+ant,-voi] ([+cor,+ant])* [+syl,+tense,-lo] __ [+cor,+ant,-voi] ([+cor,+ant])* [+syl]
+
 
 $ R25 {Final s -> j or ∅}
 	$ R25A Development of final -s in monosyllabic words
@@ -943,9 +979,6 @@ $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
 
-$ Nasal assimilation
-	m > n / __ [+cor,-nas]
-
 $ NEW RULE: Forward spreading of [n] to following occlusive
 	$ Only occurs across a [+hi] vowel.
 	$ Does not occur before labial stops.
@@ -1000,9 +1033,9 @@ $ R47 {Raisinɡ of [ə] before [n] or [m]CV, Raisinɡ of [e] before [n]}
 
 	$ R47B Raisinɡ of [e] before [n]
 		$[+syl,+front,-hi,-lo] > [+hi] / __ [+nas]
-		$ EDIT: When this occurs before [m], it must be followed by a labial consonant.
+		$ EDIT: When this occurs before [m], it must be followed by a nonnasal consonant.
 		$ EDIT: When this occurs before [n], if it is immediately followed by a stressed vowel, that vowel must be [-hi].
-			[+syl,+front,-hi,-lo] > [+hi] / __ m [+lab,+cons]
+			[+syl,+front,-hi,-lo] > [+hi] / __ m [+cons,-nas]
 			[+syl,+front,-hi,-lo] > [+hi] / __ n {[+cons];[+syl,-stres];[+syl,+stres,-hi]}
 				$ "It is possible that some words were inherited from Late Latin with [e] already raised to [i] in this environment."
 
@@ -1243,7 +1276,7 @@ $ NEW RULE: Word-inital [t͡ʃe] > [t͡ʃi] before a single [r].
 
 $ NEW RULE: ți > țî/țâ before a syllable with a [-front] vowel
 	[+syl,+front,+hi] > [-front] / t͡s __ ([-syl])* [+syl,-front]
-		$ It then recurs in *țițină > *țâțină > țâțână.
+		$ It then recurs in *țițină > *țițână > țâțână.
 			[+syl,+front,+hi] > [-front] / t͡s __ ([-syl])* [+syl,-front]
 
 $ NEW RULES: Handling of various outcomes of *uă

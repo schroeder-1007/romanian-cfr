@@ -441,7 +441,7 @@ $*experlavare>a-spăla
 l ˌa w ˈaː , l ˈa $ lavare>a-la,a-lăia !CV 1.3.6
 $p ˌaː ɡ ˈaː n u m , p ɨ n ɡ ˈə r j $ paɡanus>a-pânɡări !CV 1.3.6 !!!adj-vb $ per REW 6141, true descendant is păgân. inserting below
 p ˌaː ɡ ˈaː n u m , p ə ɡ ˈɨ n		$ paɡanus>păgân REW 6141
-p ˌe k t i n ˈaː , p j e p t ə n ˈa $ pectinare>a-pieptăna !CV 1.3.6 $ FLAG -- HIGHLY likely this is analogical with the nominal form, as it is the one with the correct stress to generate the [pt] cluster -- CONSIDER REMOVING $ EDIT: kt found to >pt in all positions, regardless of stress.
+$p ˌe k t i n ˈaː , p j e p t ə n ˈa $ pectinare>a-pieptăna !CV 1.3.6 $ Highly likely this is analogical with the nominal form, as it is the one with the correct stress to generate the [pt] cluster. $ EDIT: kt found to >pt in all positions, regardless of stress. $ ADDITIONAL EDIT: This is still probably analogical, as the stress is incorrect for the e-laxing and preyodization. Commenting out.
 s p ˌu r k ˈaː , s p u r k ˈa $ spurcare>a-spurca !CV 1.3.6
 
 $ˈa s p e r , ˈa s p r u $ asper>aspru !CV 1.4 $ repeat (also wrong case)
@@ -666,11 +666,11 @@ $k o k t ˈo r i u m , k u p t ˈo r $coctorium>cuptor !CV 1.8.3 $ repeat
 k o o p e r t ˈoː r i u m , k ə r p ə t ˈo r $coopertorium>cărpător,cârpător !CV 1.8.3
 $furnus>furnu (arom) !CV 1.8.3
 ɡ r a t ˈaː r i u m , ɡ r ə t ˈa r $*ɡratarium>ɡrătar !CV 1.8.3
-l ˈi n ɡ u l a m , l ˈi n ɡ u r ə $linɡula>linɡură !CV 1.8.3 $ As this is a diminutive and had no reason to not undergo syncope, I believe it is highly likely that this was reformed. FLAGGED for review
+$l ˈi n ɡ u l a m , l ˈi n ɡ u r ə $linɡula>linɡură !CV 1.8.3 $ As this is a diminutive and had no reason to not undergo syncope, it is highly likely that this was reformed. Commenting out for now.
 w ˈaː s u m , v ˈa s $vasum>vas !CV 1.8.3
 
 $1.9.1
-b a t t ˈi t u r a m , b ə t ˈə t u r ə $battitura>bătătură !CV 1.9.1 $ Probably analogically reformed as bate + -tură (compare țese + ‎-tură → ‎țesătură). Otherwise would be hard to explain the vowel. FLAG
+$b a t t ˈi t u r a m , b ə t ˈə t u r ə $battitura>bătătură !CV 1.9.1 $ Probably analogically reformed as bate + -tură (compare țese + ‎-tură → ‎țesătură). Otherwise would be hard to explain the vowel. Commenting out.
 $k ˈa l a m u m , k ˈa r ə m j $calamus>carămi !CV 1.9.1 !!probably alt lex $ can't find independent evidence of this word existing
 k a p r ˈe o l u m , k ə p r j ˈo r $capreolus>căprior !CV 1.9.1, 2.6.3 !examine stress shift
 k ˈa s a m , k ˈa s ə $casa>casă !CV 1.9.1
@@ -2158,7 +2158,7 @@ $Pardess 4.18
 a d j uː t ˈaː , a ʒ u t ˈa	$adyutáre > a-ajuta; 'to help'
 $b r ˈaː kʰ i u m , b r ˈa t͡s	$brákyu > braț; 'arm' $ Both this and variant bracchium obtain the same result. Commenting this out now as a redundancy, but it isn't *technically* a repeat.
 f ˈa k i a m , f ˈa t͡s ə	$fákya > față; 'face' (REW 3130)
-r ˈo b e u m , r ˈo j b		$róbyu > roib; 'reddish'
+$r ˈo b e u m , r ˈo j b		$róbyu > roib; 'reddish' $ Both robeum and rubeum produce the desired result; using rubeum, as it is the more widely attested variant.
 ˈa b i a , ˈa j b ə		$ábya > aibă; '(s)he have subjunc'
 s k ˈa b i a m , s k ˈa j b ə $actually z ɡ ˈa j b ə	$skábya > zgaibă 'itch; scab'. $scabies,*scabia>zɡaibă !CV 1.6.2
 
