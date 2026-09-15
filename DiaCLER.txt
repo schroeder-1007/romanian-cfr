@@ -136,6 +136,7 @@ $ NEW RULE: Stress shift off of [ˈi(ː)] to create diphthongs
 		$ [i] drops in the [ji] case:
 			i > ∅ / j __
 
+
 $ [e] lowering word-initially before [kk]
 	e > a / # __ k k
 
@@ -192,13 +193,14 @@ $ Desyllabification of vowels between stressed vowel and word boundary
 
 $ NEW RULE: Syncope of palatal vowels in word-initial syllables to create [-cont]rV(N)[-cont] syllables
 	[+syl,+front,-lo,-stres] > ∅ / # ([+syl,+front,+hi] n) [-cont] __ r [+syl] ([+nas]) [-cont]
-		$ Parenthetical included for utility, but this is really an analogical process.
+		$ ([+syl,+front,+hi] n) included for utility, but this is really an analogical process.
 
 
-$ NEW RULE: In a two-stop cluster, the first consonant nasalizes in this position. FLAG -- this only affects nuptiae>nunți; reexamine later.
+$ NEW RULE: [p] > [m] between a stressed high vowel and a coronal obstruent.
+	$ Affects nuptiae>nunți, ipsum>îns, and adidipsum>adins.
 	$ Rule placed here instead of with later [n]-spreading rule because this happens in Aromanian (see numtã) while later [n]-spreading does not (see minut).
 	$ Since Aromanian still has [m] in this word, assimilation must occur after breakup of Common Romanian.
-		[-cont] > [+voi,+nas,+cont,+son] / n [+syl,+hi,+round] __ [-cont] [-cons]
+		p > m / [+syl,+prim,+hi] __ [+cor,-son]
 
 
 $ NEW RULE: Forward velar repulsion of [r]
@@ -940,6 +942,9 @@ $ NEW RULE: -ăune > -ăun
 $ CHAPTER 6
 $ THE DEVELOPMENT OF DACO-ROMANIAN
 $ (11TH CENTURY TO THE PRESENT)
+
+$ Nasal assimilation
+	m > n / __ [+cor,-nas]
 
 $ NEW RULE: Forward spreading of [n] to following occlusive
 	$ Only occurs across a [+hi] vowel.

@@ -34,7 +34,8 @@ $ˌa d ˌu m b r ˈaː , a d u m b r ˈi $to shade, to place, to set in the shad
 ˌa d ˌu n k ˈaː , a d ɨ n k ˈa $to deepen. Cand-Den 1  aduncāre > a-adânca ?
 ˌa d ˈu n k u m , a d ˈɨ n k $deep, abyss. Puș 25, Can-Den 17; Vin 63; DER; DAR. $deep, profound, serious. aduncus > adânc. 
 ˈaː eː r , ˈa j e r $air. may be [ajer]? (edit: yes it is) Arom, Meɡl & Mr aeru, Mr also aera (<ɡk aéras?). Panromance, and also in Celtic and Albanian (ajër). Cannot be a loanword ɡiven its presence in Balkan Romance. āēr > aer
-ˌa e̯ r ˈaː m e n , a r ˈa m ə $copper.  Vatasescu p140: Old Alb rembje,  ram is an italian loan. Romanian aramă. Cf. Alb rremb, variantes rrem (ɡheɡ), rrëmb (reɡional Tosk, probably). *aerāmen > aramă
+$ˌa e̯ r ˈaː m e n , a r ˈa m ə $copper.  Vatasescu p140: Old Alb rembje,  ram is an italian loan. Romanian aramă. Cf. Alb rremb, variantes rrem (ɡheɡ), rrëmb (reɡional Tosk, probably). *aerāmen > aramă $ Change from Latin neuter to Romanian feminine likely accompanied by change in declension from -en to -am. Inserting below.
+ˌa e̯ r ˈaː m a m , a r ˈa m ə $copper. *aerama(m) (< aeramen) > aramă
 ˌa f f l ˈaː , a f l ˈa $to find/discover (somethinɡ), to find onesself in a position (<AFFLA:RE, "to blow forward, blow on". Cf Arom aflu, istro oflu. Cand-Dens 19. Semantically via staɡe of mihi afflatur "the idea is breathed upon me".  afflāre > a-afla
 ˌa ɡ ɡ ˈe s t u m , a d͡ʒ ˈe s t $ place in river bank where current has ɡathered shrubs, branches etc. Lat AɡɡESTUM = "accumulation, mound, dike". Variant aɡestru is formed via analoɡy. aggestus > agest
 ˈa ɡ i l e m , ˈa d͡ʒ e r $ smart, clever, resourceful. Cand-Des 19, REW. Turkish acar is related but the loan is likely from Romanian to Turkish not the reverse in this case, since the word is attested elsewhere in Romance. $quick; swift, adjective. agilis > ager $ This could be analogical. Loss of -e otherwise difficult to explain. FLAG
@@ -242,7 +243,8 @@ s t ˈuː l a m , s t ˈu r ə $ stula>stură. Romanian dialectal stură, Old Ro
 
 $t ˈo r t a , t o̯ ˈa r t ə $ torta>toartă $ repeat
 
-ˌu l u l ˈaː , u r l ˈa $ ululare>a-urla. ǃCV 2.6.1 
+$ˌu l u l ˈaː , u r l ˈa $ ululare>a-urla. ǃCV 2.6.1 $ Per REW 9039, from *urulare. Inserting below.
+ˌu r u l ˈaː , u r l ˈa $ *urulare>a-urla. REW 9039.
 
 $w ˌa l ˈoː r e m , v a l o̯ ˈa r e $ valorem>valoare !!! See ALLex - CV reɡards this as beinɡ derived off valere $ https://dexonline.ro/definitie/valoare suggests that this is borrowed from French or reborrowed from Latin. This is believable, as the [l] would have flapped if this were actually inherited. Commenting out.
 w ˌeː s s ˈiː k a m , b ə ʃ ˈi k ə $ vessicam>bășică. Alb fshikë, mpshikë, mbshikë. ǃCV2.6.1  !!! See notes in ALLex
@@ -498,7 +500,8 @@ t r e m u l ˈaː , t r e m u r ˈa $ tremulare>a-tremura !CV 1.4
 $t r ˈiː s t i s , t r ˈi s t $ tristis>trist !CV 1.4 $ This is from attested variant tristus. Otherwise, we would see palatalization. Inserting below.
 t r ˈiː s t u m , t r ˈi s t	$ tristus (variant of tristis) > trist. 'sad'
 t u r b ˈaː , t u r b ˈa $ turbare>a-turba !CV 1.4, 2.6.1. Alb tërboj. 
-t u r b u l ˈaː , t u l b u r ˈa $ turbulare>a-tulbura !CV 1.4
+$t u r b u l ˈaː , t u l b u r ˈa $ turbulare>a-tulbura !CV 1.4 $ Per REW 8997, true descendant is variant turbura. Inserting below.
+t u r b u l ˈaː , t u r b u r ˈa $ turbulare>a-turbura. REW 8997.
 w i r t ˈuː t e m , v ɨ r t ˈu t e $ virtus>vârtute !CV 1.4
 
 $1.5
@@ -540,7 +543,7 @@ k a t ˈe l l u m , k ə t͡s ˈe l $catellus>cațel !CV 1.6.2, 2.6.2
 k ˈo s s i s , k ˈo ʃ $cossis,cossus>coș !CV 1.6.2, 2.6.7
 k ˈy m a , t͡ʃ ˈu m ə $cyma>ciumă !CV 1.6.2
 d ˌo l oː r ˈoː s u m , d u r u r ˈo s $dolorosus>dururos !CV 1.6.2 !!ˈpossibly formed from duroareˈ
-f ˈe b r e m , f j ˈo r $febris>fior !CV 1.6.2 !!possibly problematic
+f ˈe b r i m , f j ˈo r $febris>fior !CV 1.6.2 !!possibly problematic
 f r ˈiː ɡ o r a , f r ˈi ɡ u r j $friɡora>friɡuri !CV 1.6.2
 ɡ ˈe m e , d͡ʒ ˈe m e $ɡeme(re)>a-ɡeme !CV 1.6.2
 ɡ ˈe m i t u m , d͡ʒ e̯ ˈa m ə t $ɡemitus>ɡeamăt,ɡemet !CV 1.6.2
@@ -669,7 +672,7 @@ w ˈaː s u m , v ˈa s $vasum>vas !CV 1.8.3
 $1.9.1
 b a t t ˈi t u r a m , b ə t ˈə t u r ə $battitura>bătătură !CV 1.9.1 $ Probably analogically reformed as bate + -tură (compare țese + ‎-tură → ‎țesătură). Otherwise would be hard to explain the vowel. FLAG
 $k ˈa l a m u m , k ˈa r ə m j $calamus>carămi !CV 1.9.1 !!probably alt lex $ can't find independent evidence of this word existing
-k a p r ˈe o l u m , k ə p r i ˈo r $capreolus>căprior !CV 1.9.1, 2.6.3 !examine stress shift
+k a p r ˈe o l u m , k ə p r j ˈo r $capreolus>căprior !CV 1.9.1, 2.6.3 !examine stress shift
 k ˈa s a m , k ˈa s ə $casa>casă !CV 1.9.1
 k e l l ˈaː r i u m , t͡ʃ e l ˈa r $cellarium>celar !CV 1.9.1
 $k ˈoː r t e m , k ˈu r t e $cOrtem>curte !CV 1.9.1 $ repeat
@@ -702,7 +705,8 @@ $1.10
 $ɡ ˈe n t e m , d͡ʒ ˈi n t $ɡentis>ɡint (v.rom)!CV 1.10 $ REW 3735 suggests that this was borrowed from Albanian. However, also entirely possible that it just switched conjugations (gentem>gentum>...>gint). FLAG -- try gentum>gint below?
 
 $1.10.1
-ˈa m i t a m , m ˈə t $amita>măt(ușă) !CV 1.10.1 !!only occurs with suffix -ușă. difficulty in explaininɡ a-
+$ˈa m i t a m , m ˈə t $amita>măt(ușă) !CV 1.10.1 !!only occurs with suffix -ușă. difficulty in explaininɡ a- $ Since we only have this occuring with suffix, impossible to know what regular outcome without suffixation actually was/would have been. However, we can assume that *amitusia would give us the correct outcome (and stress placement), so we will use that. Inserting below.
+a m i t ˈu s i a m , m ə t ˈu ʃ ə		$*amitusia (amita + *-usia) > mătușă, 'aunt (diminutive>bleached)'. Problematic in that *-usia is found nowhere else in the lexicon and is not attested in Latin at all, to my knowledge. FLAG
 $a w ˈu n k u l u m , u n k j $avunculus>unchi !CV 1.10.1 !!see notes on beɡinninɡ of word
 f ˈiː l i u m , f ˈi w $filius,filia>fiu,fie !CV 1.10.1
 f ˈiː l i a m , f ˈi j e $ (see filium.)
@@ -808,7 +812,7 @@ $2.3.1
 ˈa l b a m , ˈa l b a					$alba>alba !CV 2.3.1; pɡ. 126; def: "sunrise, dawn"  
 $d ˈi e m , z ˈi w ə						$dies>ziuă !CV 2.3.1, pɡ. 126, def = "day" $ Per REW 2632, appropriate inherited form is zi. inserting below
 d ˈi e m , z ˈi						$dies>ziuă, def = "day", REW 2632 (FLAG -- should probably investigate why we get such different forms in other paradigm cells)
-h ˈo d i eː , ˈa z j					$hac-die,hodie>azi !CV 2.3.1, pɡ. 127, def = "today"
+$h ˈo d i eː , ˈa z j					$hac-die,hodie>azi !CV 2.3.1, pɡ. 127, def = "today" $ EDIT: Going with hac-die (elsewhere in lexicon file) instead of hodie because it produces the correct vowel. Commenting out.
 h ˈe r iː , j ˈe r j				$heri>ieri !CV 2.3.1; pɡ. 127; defː "yesterday"
 m ˈaː n e , m ˈɨ j n e $tomorrow. mane>mâine !CV 2.3.1
 $de-*manitia>dimineață !CV 2.3.j1
@@ -835,7 +839,7 @@ $2.3.3
 k ˌa l e n d ˈaː r i u m , k ə r i n d ˈa r $calendarius>cărindar !CV 2.3.3. Alb kallënduor.  
 m ˈa i u m , m ˈa j $maius>mai (?) !CV 2.3.3
 m ˈa r t i u m , m ˈa r t͡s $martius>marț (v.rom) !CV 2.3.3
-m ˈeː n s e m , m ˈe s $mensis>mes (arom) !CV 2.3.3
+$m ˈeː n s e m , m ˈe s $mensis>mes (arom) !CV 2.3.3 $ Since this word does not exist in Daco-Romanian, may very well have undergone changes in Aromanian (and Megleno-Romanian and Istro-Romanian, which both also have this word) that never occurred in Romanian, possibly explaining the "inaccuracy" of the cascade with respect to this etymon. Commenting out.
 
 $2.3.4
 ˌa w t ˈu m n a m , t o̯ ˈa m n ə $autumnus>toamnă !CV 2.3.4
@@ -1330,7 +1334,8 @@ $h ˈo s p i t e m , o̯ ˈa s p e 				$hospes --> oaspe, !CV 6.1 pɡ. 424, def 
 h ˈo s p i t e m , o̯ ˈa s p e t e			$hospes --> oaspe
 h o s p i t ˈaː , o s p ə t ˈa				$hospitare --> a ospăta, ǃCV 6.1 pɡ. 425, def = "welcome, treat"
 $i m p e r ˈaː t oː r e m , ɨ m p ə r ˈa t	$**CHECK STRESS***$imperatorem --> împărat, !CV 6.1, pɡ. 4325, def = "emperor" $ This is inherited from imperatum, found elsewhere in the lexicon.
-j ˈuː d i k e m , ʒ ˈu d e					$iudex --> jude, !CV 6.1 pɡ. 427, def = "judɡe"
+$j ˈuː d i k e m , ʒ ˈu d e					$iudex --> jude, !CV 6.1 pɡ. 427, def = "judɡe" $ Impossible that this is from the accusative. jude has an obsolete form judec (which is also probably the regular descendant, losing [k] to clipping, not sound change), which would have had to have been *judeci if this were truly descended from the accusative. Inserting nominative judex > judec below.
+j ˈuː d e k s , ʒ ˈu d e k					$iudex (nominative) > judec (obsolete form of jude), 'judge'.
 j uː d ˈi k i u m , ʒ u d ˈe t͡s				$iudicium --> judet̜
 $j uː d i k ˈaː t u m , ʒ u d e k ˈa t ə		$iudicatus --> judecată, ǃCV 6.1 pɡ. 427, def = "judɡed" $ repeat + wrong vowel(?)
 j uː r aː m ˈe n t u m , ʒ u r ə m ˈɨ n t 	$iuramentum --> jurământ, ǃCV 6.1 pɡ. 428, def = "oath, vow"
@@ -2287,4 +2292,5 @@ e k s t r a p ˈu n ɡ e , s t r ə p ˈu n d͡ʒ e
 k w ˈa e̯ r oː , t͡ʃ ˈe r 
 t ˈe m p u m , t ˈi m p
 $f a m ˈi l i a m , f ə m ˈe j e $ Replacing with more modern femeie, since we have the sound change that creates this form in our cascade.
-f a m ˈi l i a m , f e m ˈe j e $ familia > femeie, 'family' > 'woman, wife'
+f a m ˈi l i a m , f e m ˈe j e $familia > femeie, 'family' > 'woman, wife'
+ˈi p s u m , ˈɨ n s		$ipse > îns. FLAG -- regular descendant could also be ins; reexamine later.
